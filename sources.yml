@@ -1,0 +1,82 @@
+# What goes into APAC Cyber Insight.
+# Edit freely and commit. The next run picks up the change.
+# A feed that fails on a run is skipped and listed at the bottom of the page.
+
+settings:
+  title: APAC Cyber Insight
+  tagline: Compliance, threat, industry and customer signals across Asia Pacific, rebuilt every morning.
+  window_days: 7        # the country index and headline numbers look back this far
+  keep_days: 120        # how many daily history files to keep
+
+# Your two existing projects feed the Compliance and Threat lenses.
+upstream:
+  threat: https://raw.githubusercontent.com/djrufio21/cyber-threat-brief/main/docs/latest.json
+  policy: https://raw.githubusercontent.com/djrufio21/apac-cyber-policy-tracker/main/docs/latest.json
+  threat_site: https://djrufio21.github.io/cyber-threat-brief/
+  policy_site: https://djrufio21.github.io/apac-cyber-policy-tracker/
+
+# Countries on the matrix. "match" is a regex tested against headlines.
+countries:
+  - { code: MY, name: Malaysia,    match: "malaysia|kuala lumpur|\\bmcmc\\b|bank negara|nacsa" }
+  - { code: SG, name: Singapore,   match: "singapore|\\bcsa\\b|\\bmas\\b|\\bimda\\b" }
+  - { code: ID, name: Indonesia,   match: "indonesia|jakarta|\\bbssn\\b|\\bojk\\b" }
+  - { code: TH, name: Thailand,    match: "thailand|\\bthai\\b|bangkok" }
+  - { code: PH, name: Philippines, match: "philippine|filipino|manila|\\bdict\\b" }
+  - { code: VN, name: Vietnam,     match: "vietnam|viet nam|hanoi|ho chi minh" }
+  - { code: AU, name: Australia,   match: "australia|\\basd\\b|\\bacsc\\b|\\bapra\\b|\\basic\\b|\\boaic\\b" }
+  - { code: IN, name: India,       match: "\\bindia\\b|\\bindian\\b|cert-in|\\brbi\\b|\\bsebi\\b|meity" }
+  - { code: JP, name: Japan,       match: "japan|tokyo" }
+  - { code: KR, name: South Korea, match: "south korea|\\bkorea\\b|\\bkorean\\b|seoul" }
+  - { code: HK, name: Hong Kong,   match: "hong kong|\\bhkma\\b" }
+  - { code: LK, name: Sri Lanka,   match: "sri lanka|colombo" }
+
+# Weights behind the country Attention Index. They should add up to 1.
+index_weights:
+  threat: 0.40
+  compliance: 0.35
+  industry: 0.15
+  customer: 0.10
+
+# A headline must hit every pattern in "require" to be kept.
+cyber_terms: "cyber|hack|ransomware|breach|malware|phishing|scam|leak|ddos|spyware|vulnerab|exploit|threat|attack|fraud|outage|data protection|privacy|security"
+apac_terms: "malaysia|singapore|indonesia|thailand|thai|philippine|vietnam|australia|japan|korea|india|hong kong|sri lanka|asean|asia|apac"
+
+industry:
+  hours_back: 72
+  max_items: 8
+  sectors:
+    - name: Telecom
+      query: (telco OR telecom OR "mobile operator" OR 5G) (cybersecurity OR breach OR outage OR cyberattack) (Asia OR ASEAN OR Malaysia OR Singapore OR Indonesia OR Australia OR India OR Japan OR Korea)
+    - name: Financial Services
+      query: (bank OR banking OR fintech OR insurer OR "payment") (cybersecurity OR breach OR scam OR fraud OR cyberattack) (Asia OR ASEAN OR Malaysia OR Singapore OR Indonesia OR Australia OR India OR "Hong Kong")
+    - name: Government & Public Sector
+      query: (government OR ministry OR agency OR "public sector") (cyberattack OR breach OR "data leak" OR ransomware) (Malaysia OR Singapore OR Indonesia OR Thailand OR Philippines OR Vietnam OR Australia OR India)
+    - name: Energy & Critical Infrastructure
+      query: ("critical infrastructure" OR energy OR utility OR power OR port OR airport) (cybersecurity OR cyberattack OR ransomware) (Asia OR ASEAN OR Australia OR India OR Japan OR Korea)
+    - name: Cloud & AI
+      query: (cloud OR "data centre" OR "data center" OR "AI") (security OR breach OR regulation OR governance) (ASEAN OR Malaysia OR Singapore OR Indonesia OR Australia OR India OR Japan)
+
+# Customer lens: the operators and enterprises you follow.
+# "country" ties each one to the matrix.
+customer:
+  hours_back: 168
+  max_items: 20
+  watchlist:
+    - { name: Maxis,        country: MY }
+    - { name: CelcomDigi,   country: MY }
+    - { name: "U Mobile",   country: MY }
+    - { name: "Telekom Malaysia", country: MY }
+    - { name: Singtel,      country: SG }
+    - { name: StarHub,      country: SG }
+    - { name: Telkomsel,    country: ID }
+    - { name: Indosat,      country: ID }
+    - { name: XLSmart,      country: ID }
+    - { name: "AIS Thailand", country: TH }
+    - { name: "True Corporation", country: TH }
+    - { name: Globe Telecom, country: PH }
+    - { name: PLDT,         country: PH }
+    - { name: Viettel,      country: VN }
+    - { name: Telstra,      country: AU }
+    - { name: Optus,        country: AU }
+    - { name: Dialog Axiata, country: LK }
+    - { name: SLT-Mobitel,  country: LK }

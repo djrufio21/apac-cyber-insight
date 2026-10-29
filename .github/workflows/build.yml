@@ -1,0 +1,46 @@
+name: Build APAC Cyber Insight
+
+on:
+  schedule:
+    # Runs after the policy tracker (7:13 AM / 5:13 PM MYT) and the hourly threat brief.
+    # Off the hour on purpose: GitHub delays jobs queued at :00.
+    - cron: "37 23 * * *" # 7:37 AM Malaysia time
+    - cron: "37 9 * * *"  # 5:37 PM Malaysia time
+  workflow_dispatch: # adds a "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write # commit the new data back to the repo
+
+concurrency:
+  group: apac-cyber-insight
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build the dashboard data
+        run: python build.py
+
+      - name: Commit the new edition
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "Insight $(TZ=Asia/Kuala_Lumpur date '+%F %H:%M')"
+          git push
