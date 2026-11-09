@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-09T02:57:03+00:00",
- "date": "2026-11-09",
- "weekday": "Monday",
+ "generated": "2026-11-09T19:59:51+00:00",
+ "date": "2026-11-10",
+ "weekday": "Tuesday",
  "week": 46,
  "title": "APAC Cyber Insight",
  "tagline": "Compliance, threat, industry and customer signals across Asia Pacific, rebuilt every morning.",
@@ -16,8 +16,8 @@
  "kpis": [
   {
    "label": "Policy and regulatory updates",
-   "value": 117,
-   "delta": 9,
+   "value": 107,
+   "delta": -3,
    "note": "last 7 days"
   },
   {
@@ -28,8 +28,8 @@
   },
   {
    "label": "APAC threat stories",
-   "value": 84,
-   "delta": 34,
+   "value": 78,
+   "delta": 12,
    "note": "naming an APAC country, last 7 days"
   },
   {
@@ -43,98 +43,98 @@
   {
    "code": "IN",
    "name": "India",
-   "score": 72,
+   "score": 73,
    "band": "Elevated",
-   "threat": 15,
-   "compliance": 62,
-   "industry": 25,
+   "threat": 12,
+   "compliance": 57,
+   "industry": 26,
    "customer": 0,
-   "total": 102,
-   "delta": 19
+   "total": 95,
+   "delta": 17
   },
   {
    "code": "JP",
    "name": "Japan",
    "score": 56,
    "band": "Elevated",
-   "threat": 27,
+   "threat": 21,
    "compliance": 1,
-   "industry": 25,
+   "industry": 26,
    "customer": 0,
-   "total": 53,
-   "delta": 0
+   "total": 48,
+   "delta": 3
   },
   {
    "code": "MY",
    "name": "Malaysia",
-   "score": 39,
+   "score": 42,
    "band": "Active",
-   "threat": 14,
+   "threat": 13,
    "compliance": 11,
    "industry": 11,
    "customer": 3,
-   "total": 39,
+   "total": 38,
    "delta": 27
-  },
-  {
-   "code": "KR",
-   "name": "South Korea",
-   "score": 34,
-   "band": "Active",
-   "threat": 13,
-   "compliance": 0,
-   "industry": 24,
-   "customer": 0,
-   "total": 37,
-   "delta": -1
   },
   {
    "code": "SG",
    "name": "Singapore",
-   "score": 32,
+   "score": 36,
    "band": "Active",
-   "threat": 10,
-   "compliance": 10,
+   "threat": 11,
+   "compliance": 7,
    "industry": 6,
    "customer": 5,
-   "total": 31,
-   "delta": 18
+   "total": 29,
+   "delta": 22
   },
   {
    "code": "AU",
    "name": "Australia",
-   "score": 31,
+   "score": 35,
    "band": "Active",
-   "threat": 6,
-   "compliance": 19,
-   "industry": 3,
-   "customer": 6,
+   "threat": 7,
+   "compliance": 16,
+   "industry": 4,
+   "customer": 7,
    "total": 34,
-   "delta": 9
+   "delta": 14
+  },
+  {
+   "code": "KR",
+   "name": "South Korea",
+   "score": 33,
+   "band": "Active",
+   "threat": 11,
+   "compliance": 0,
+   "industry": 21,
+   "customer": 0,
+   "total": 32,
+   "delta": -1
   },
   {
    "code": "PH",
    "name": "Philippines",
    "score": 13,
    "band": "Quiet",
-   "threat": 1,
+   "threat": 2,
    "compliance": 3,
    "industry": 5,
-   "customer": 4,
+   "customer": 3,
    "total": 13,
    "delta": 0
   },
   {
    "code": "VN",
    "name": "Vietnam",
-   "score": 12,
+   "score": 13,
    "band": "Quiet",
    "threat": 0,
-   "compliance": 3,
-   "industry": 1,
+   "compliance": 4,
+   "industry": 3,
    "customer": 6,
-   "total": 10,
-   "delta": 9
+   "total": 13,
+   "delta": 10
   },
   {
    "code": "ID",
@@ -142,89 +142,94 @@
    "score": 9,
    "band": "Quiet",
    "threat": 1,
-   "compliance": 11,
+   "compliance": 10,
    "industry": 2,
    "customer": 0,
-   "total": 14,
-   "delta": 0
+   "total": 13,
+   "delta": -1
+  },
+  {
+   "code": "TH",
+   "name": "Thailand",
+   "score": 7,
+   "band": "Quiet",
+   "threat": 2,
+   "compliance": 2,
+   "industry": 3,
+   "customer": 0,
+   "total": 7,
+   "delta": 4
   },
   {
    "code": "HK",
    "name": "Hong Kong",
-   "score": 5,
+   "score": 6,
    "band": "Quiet",
    "threat": 3,
    "compliance": 0,
    "industry": 1,
    "customer": 0,
    "total": 4,
-   "delta": 1
-  },
-  {
-   "code": "TH",
-   "name": "Thailand",
-   "score": 1,
-   "band": "Quiet",
-   "threat": 0,
-   "compliance": 1,
-   "industry": 1,
-   "customer": 0,
-   "total": 2,
-   "delta": -2
+   "delta": 3
   },
   {
    "code": "LK",
    "name": "Sri Lanka",
-   "score": 0,
+   "score": 1,
    "band": "Quiet",
    "threat": 0,
    "compliance": 0,
-   "industry": 0,
+   "industry": 1,
    "customer": 0,
-   "total": 0,
-   "delta": 0
+   "total": 1,
+   "delta": 1
   }
  ],
  "top": [
   {
-   "title": "Binance Cyberattack Raises Security Concerns for Indian Businesses",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSejhyVmtWTUhDdEc2ODZINURUNlFFd1p5aUlWeWtrOGl3alpJaUJYZkRVOTV6Rlp6LVVraXVkNjNDbXVoaE5jc0ljclFXR25Dd1NseUo5Zkw4bTkwYmZhcTFXTmE5SUJNOENTRkw3Zw?oc=5",
-   "source": "The 420.in",
-   "published": "2026-11-08T14:15:45+00:00",
-   "summary": "",
-   "extra": "",
-   "tags": [],
-   "countries": [
-    "IN"
-   ],
-   "lens": "threat",
-   "section": "APAC Watch"
-  },
-  {
-   "title": "Arcadia hacked, Japan's disaster alerts used to send 1.4 million phishing emails",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnJDUXpMcVc1ZnJkeVk3cUREOXQ4Z01VeWtRM0Rlc0d2ZHhFZ3UzTUVCblNBNmZVVlFoTnJERVdMUTM3b1U2TGlnU3I3aVBpWEk3S0V5V0tFbEtNa2R6SmNJOF9XbEowOGlTekRBTktmb0tKTWhFOHNnc0FJRk4wUzN5RTBUX0hqcG90RVBSSjU?oc=5",
-   "source": "Pasquale Pillitteri",
-   "published": "2026-11-08T13:46:50+00:00",
+   "title": "SEC Philippines Confirms Data Breach on Digital Platforms",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16ZWlBaktZMmtpTDlBanl2OWJQX0RveU4tanpyZlNfa3NNTGVrdnlwNkFBeEpLOHQtU3ZQWTJvYTlORnpWLU5NSXhtdEwwYkVaNERKTlRwMks0Z3FfdklkWXNkR1dYR1M5N2h3eXBkZjlFWV9jWEE?oc=5",
+   "source": "SQ Magazine",
+   "published": "2026-11-09T17:12:44+00:00",
    "summary": "",
    "extra": "",
    "tags": [
-    "Phishing",
+    "Breach",
     "APAC"
    ],
    "countries": [
-    "JP"
+    "PH"
    ],
    "lens": "threat",
    "section": "APAC Watch"
   },
   {
-   "title": "RBI Tightens Cybersecurity Rules for Payment Firms",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmdRbmc4U2U4cEJiTjc4UzNBYWtvVld0ZUJtTVV0NmE3N1RJQVdVVkhxakZhZVdsaHlocUZkaUEzODhiWTRWOGxzOUNtV2k1UW41UkNjS1FkV25yNDBEWElYYUtHYWhKSkdscG9SQ0dkN1QyMTI3M0dLWG53YzZfbTMxVVBwVmk5cnlWTmlZQmYzQndJd0FEbFRMZw?oc=5",
-   "source": "News Karnataka",
-   "published": "2026-11-08T03:05:02+00:00",
+   "title": "Thailand faces daily cyberattacks as AI helps hackers exploit system weaknesses",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbHo3SXhYY1BvOWtBS3V2QjBCQlB4NlBUR20yUW56Zy1vVDFkV0R6d1BzQnBMNnh6ZUR6Wmp1d2VZcHphQVhrOXRwc2ZNTGg1UW1IY0c1dHoxRUF5LURpczZzZWtNT1huWW1KTU9HN2FHRGpJRjVrRHFvb2c1d25MUm9ZMGp2Wll2bWMySXB5X3RLRlRXaDJKTXNzVlktcnV6RTA4N1I1VGJLMWpRa0tmMzRPVDhQNXc5bEU1OUVjN2xhbDFJWUNtTGpsWGFJSDhPenFsUnM2MnFqUQ?oc=5",
+   "source": "The Star",
+   "published": "2026-11-09T13:37:00+00:00",
+   "summary": "",
+   "extra": "",
+   "tags": [
+    "AI",
+    "APAC"
+   ],
+   "countries": [
+    "TH"
+   ],
+   "lens": "threat",
+   "section": "APAC Watch"
+  },
+  {
+   "title": "SAT upholds SEBI fraud findings against former Ricoh India CEO Takano, cuts penalty to Rs 10 lakh",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb254V2pMS2d5OGtCdXdLZnpJanl1eUdfem5iNDBqcHI0TzZwLTVWUnliNHhtLWlmc21KeXR1a2g3LWgyc1UzRjFWcnhXZ2JCbkt6bUNmb2ZxeEJFTWdiUWJHQVV1dldYcmQ2Wko3X1A2QTRfNXIyeWdiZmtBQ3lMaUpaTmhTaDhqTU1ucExBb0hLRTRLMElzRTBGQlJHazRWd2E4VDEzTkdNTXN1NVZnTkF2ZVhpVkNIZV85TW9pS2hkR1NyQlY0WEw1elQzbEVJREVtNWctZnM0Z3kzNXE3ZXllQjY5TjlhV3cyTVlOaERVQ3drMmNBN9IB-AFBVV95cUxNb254V2pMS2d5OGtCdXdLZnpJanl1eUdfem5iNDBqcHI0TzZwLTVWUnliNHhtLWlmc21KeXR1a2g3LWgyc1UzRjFWcnhXZ2JCbkt6bUNmb2ZxeEJFTWdiUWJHQVV1dldYcmQ2Wko3X1A2QTRfNXIyeWdiZmtBQ3lMaUpaTmhTaDhqTU1ucExBb0hLRTRLMElzRTBGQlJHazRWd2E4VDEzTkdNTXN1NVZnTkF2ZVhpVkNIZV85TW9pS2hkR1NyQlY0WEw1elQzbEVJREVtNWctZnM0Z3kzNXE3ZXllQjY5TjlhV3cyTVlOaERVQ3drMmNBNw?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-11-09T10:57:30+00:00",
    "summary": "",
    "tags": [
-    "Finance"
+    "Finance",
+    "Scams & fraud",
+    "Enforcement"
    ],
    "closes": null,
    "countries": [
@@ -234,47 +239,47 @@
    "section": "Financial Sector"
   },
   {
-   "title": "RBI's new cyber rules could raise the cost of doing business for payment companies",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeTJPc0R3VmpRQkNCSm9WRFJSYXU4Rk50cHZ3NHE3R3E3OG5uVlpOaHE5cV9fNlpieElMa2RmdWxhME4xX0I0ZnpXMzJlemJNVlpacFp2UkNfNHlJaXRkM0F6dHpsUzdXT1h6U3NtemNLMG9NMzNpMU5oekh0bXU5SFRyZHpUd2NhbEtxSFFsNTdMTi0zeEdjMnFPTzB1MnZiNlEzM25pNGxrWUVXNFRkQmZwdWpNUUJZUUUwQ2dieFFidW9SUmpfdmFVem9EWGxjSEEzVXBDNWlpQdIB3wFBVV95cUxQTk0wU0lmd0E1dDJ6LXJqWEx3ZW1COV9uVzlLSzFNQ25zZ1BiZDRrRlZ0WXJhbDVUczluaDZ4LVlvX1BVa1UxWTlnMWNLaGNZT2RpTVhNRjRkcFZhY1RwVFF0SzFQNU9vOVJsYTE5elV4eGd3TkZWRGQ4blVSS3htakQ2TWpOaGxzX3J2b19HTUphU1ZxZU92OFd2bms2cmotZlZyQ2RZWjU2cTAzczdQZThOd1AtX3pIbGRRSTQ1aDBoOFdBdURVNm5meERvRjBnUXZWV1gyR2NoTklPWVBZ?oc=5",
-   "source": "bfsi.economictimes.indiatimes.com",
-   "published": "2026-11-07T02:24:55+00:00",
+   "title": "Bank of Thailand orders banks to tighten cyber defences after overseas attacks",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVA4aFU1WGZTa1ZpQTl1UXU0UGlnNGRtNmgyZ0N6MkxPQ3NjemV2Z0hIblFSblVkVDJ1WlBNOTdBM2hpSUpfd0V4eWs0TDNhNi1EeC1aMnpkMWtKZUNpajBBVjBmLXpIeW41MDlLN216UGI1Y1pkWTBUNm42cU5scTV2MEhSU0Q2T0d0SC1aNUdLM1d1LWtB?oc=5",
+   "source": "Thaiger",
+   "published": "2026-11-09T08:49:15+00:00",
    "summary": "",
    "tags": [
     "Finance"
    ],
    "closes": null,
    "countries": [
-    "IN"
+    "TH"
    ],
    "lens": "compliance",
    "section": "Financial Sector"
   },
   {
-   "title": "Malaysia urges stronger cybersecurity, child online safety",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTzg3dmJfckhjZFhQdEFobzlMM01SQUtMWDgxdnpGVUpMSTJObm9QSDJ2a1RMbVhrM2VwbG9Gc3d5V0JlUUtJeXJGdmlBaG9WSXNDU0k5bVR6akZSVDlUODQ2SU9pOXY2TFAtc3pfZTZ2MGZfNGdibktlNXN1QnUtYUEtU2FGUkZ1eE8yM0VGZFJiTm1mZ2F0U1M2b1Rod0N0djJmazZSR2U?oc=5",
-   "source": "The Malaysian Reserve",
-   "published": "2026-11-08T14:08:07+00:00",
+   "title": "Ericsson eyes stronger cooperation with Vietnam in 5G and cybersecurity",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd1JaOHZJUTlRaFdoVk8tbVBiVGFyNkdQbTVzTk1iRVE2V0FHX1VScUFLb1pQYWtEM05LclctV0Rna0VtRFc3eGJLT1RMZnhKTmJzR0pLUjA1SjFNN3ZES3JPZy1RTUFGYlFQV01MT2prVmdxeFZDSTBRU0p4UHM3MnRXRXFmbmlER0FOTkRHMGMyUW5DSGxBRkp1bFRDWm16YXF1LXFSQm9qa3RnYmV5bHgzaE5pTXZxZ3k3TmtKYTBVV3BaNTBZSGtlMlI?oc=5",
+   "source": "VOV.VN",
+   "published": "2026-11-09T13:41:17+00:00",
    "summary": "",
    "tags": [
     "Telecom"
    ],
    "countries": [
-    "MY"
+    "VN"
    ],
    "lens": "industry",
    "section": "Telecom"
   },
   {
-   "title": "Viettel's VGC v1.0 security chip advances Vietnam's semiconductor ambitions",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkRBaUZrN3lGbzVwZm5nREtTc1h4Tll2WkdkcWo1NF9sQ0JMV0pSYVV0QkZWOTF3akZkMmxDUDFLQ1RSZGlTQnh3a2trZ1kwUTlyMWg3NUV2N3dBSV9qM1RxakJjVTB1YTVZbk51TVBINlA3OEs1QWpZQUpBR3RGaE9oY1J0Vk83R0RaNmRWRklqbExqX3ZkVGQycy1TQm9aaUVSNnZvSEdxaTB2ZEpfa2R0MA?oc=5",
-   "source": "Báo VietNamNet",
-   "published": "2026-11-06T09:05:00+00:00",
+   "title": "Elevating Cyber Security: PLDT Enterprise Leads Push for AI-Ready Workplaces in the Philippines and APAC",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT3A4OTVIR0ktTUZ0QkVvTW9HWEo3Zk9vRkxwRm9XNktHc2o4TURQV21SR3d4QkR3WTBLNmoyNVd3SzBiSkJtbVpiNVVsZXlNX0ZDamRLakRGUWpmTWgyOWRYNXhqay1IeUx4cEVQOXVZNy16MWY1dUdSOHRZeDd6WVRsTDZ3djZkMHNhcmJ2RTJ1VDZhRnBkUjJnQkdsSHBMejRPcS1kVU9KVHpBeVdEaDF4N3R1QkNOLUdjQTg2SDBSZk5r?oc=5",
+   "source": "Wazzup.PH",
+   "published": "2026-11-09T07:12:33+00:00",
    "summary": "",
    "tags": [
-    "Viettel"
+    "PLDT"
    ],
    "countries": [
-    "VN"
+    "PH"
    ],
    "lens": "customer",
    "section": "Watchlist"
@@ -328,29 +333,288 @@
      "name": "Breaking Threats",
      "stories": [
       {
-       "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-       "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-       "source": "BleepingComputer",
-       "published": "2026-11-08T15:43:08+00:00",
-       "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service…",
-       "extra": "",
-       "tags": [
-        "Breach"
-       ],
-       "countries": [
-        "JP"
-       ]
-      },
-      {
-       "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
-       "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
-       "source": "SecurityWeek",
-       "published": "2026-11-08T12:14:00+00:00",
-       "summary": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek .",
+       "title": "PwC's CISO on AI, Robots & What's Next for Security",
+       "link": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
+       "source": "Dark Reading",
+       "published": "2026-11-09T17:17:23+00:00",
+       "summary": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies.",
        "extra": "",
        "tags": [
         "AI"
        ],
+       "countries": []
+      },
+      {
+       "title": "Binance denies data breach after alleged ShinyHunters claims",
+       "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+       "source": "BleepingComputer",
+       "published": "2026-11-09T16:12:39+00:00",
+       "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+       "extra": "",
+       "tags": [
+        "Breach"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+       "source": "BleepingComputer",
+       "published": "2026-11-09T16:04:57+00:00",
+       "summary": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+       "extra": "",
+       "tags": [
+        "Breach"
+       ],
+       "countries": []
+      },
+      {
+       "title": "NIST: Solo Shouldn't Mean Less Secure",
+       "link": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
+       "source": "Dark Reading",
+       "published": "2026-11-09T15:46:10+00:00",
+       "summary": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Ukraine arrests four in $5 million crypto scam targeting Germans",
+       "link": "https://therecord.media/ukraine-arrests-scam-call-centers-germany",
+       "source": "The Record",
+       "published": "2026-11-09T15:24:00+00:00",
+       "summary": "Ukraine's cyber police said the four arrested men included the alleged leader of the scam call centers.",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+       "link": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+       "source": "BleepingComputer",
+       "published": "2026-11-09T15:05:15+00:00",
+       "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy…",
+       "extra": "",
+       "tags": [
+        "AI"
+       ],
+       "countries": []
+      },
+      {
+       "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+       "link": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+       "source": "BleepingComputer",
+       "published": "2026-11-09T14:34:03+00:00",
+       "summary": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+       "extra": "",
+       "tags": [
+        "Nation-state"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+       "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+       "source": "The Hacker News",
+       "published": "2026-11-09T14:31:29+00:00",
+       "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called…",
+       "extra": "",
+       "tags": [
+        "Nation-state",
+        "APAC"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Alleged AI-aided cyberattack exploits assistant interface to breach German web host",
+       "link": "https://therecord.media/cyberattack-germany-ai-mittwald",
+       "source": "The Record",
+       "published": "2026-11-09T14:15:00+00:00",
+       "summary": "Hackers allegedly assisted by AI breached a German web hosting company through a tool designed to allow customers to connect AI assistants to their accounts, the company disclosed.",
+       "extra": "",
+       "tags": [
+        "Breach",
+        "AI"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Revolve Puts Data Breach Victim Count at 1.5 Million",
+       "link": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/",
+       "source": "SecurityWeek",
+       "published": "2026-11-09T14:08:08+00:00",
+       "summary": "Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals. The post Revolve Puts Data Breach Victim Count at 1.5 Million appeared first on SecurityWeek .",
+       "extra": "",
+       "tags": [
+        "Breach"
+       ],
+       "countries": []
+      },
+      {
+       "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+       "link": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+       "source": "BleepingComputer",
+       "published": "2026-11-09T13:28:56+00:00",
+       "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+       "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+       "source": "The Hacker News",
+       "published": "2026-11-09T13:28:25+00:00",
+       "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Pro-Russian hackers target European officials, offer rewards for personal information",
+       "link": "https://therecord.media/hackers-russia-italy-noname",
+       "source": "The Record",
+       "published": "2026-11-09T13:15:00+00:00",
+       "summary": "Pro-Russian hackers published the personal information of Italian Foreign Minister Antonio Tajani and other senior European officials on the dark web, offering cryptocurrency rewards for additional details about them and their families.",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Plex2Shell Exploited Against QNAP NAS Users",
+       "link": "https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/",
+       "source": "SecurityWeek",
+       "published": "2026-11-09T13:13:28+00:00",
+       "summary": "Threat actors are exploiting the four-flaw chain to hack the Plex Media Server application on QNAP NAS devices. The post Plex2Shell Exploited Against QNAP NAS Users appeared first on SecurityWeek .",
+       "extra": "",
+       "tags": [
+        "Exploited"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers",
+       "link": "https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/",
+       "source": "SecurityWeek",
+       "published": "2026-11-09T12:41:27+00:00",
+       "summary": "Hackers compromised an external cloud service used by the shopping platform and may have stolen personal information from it. The post Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers appeared first on SecurityWeek .",
+       "extra": "",
+       "tags": [
+        "Breach"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web",
+       "link": "https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/",
+       "source": "SecurityWeek",
+       "published": "2026-11-09T12:22:12+00:00",
+       "summary": "Italian Foreign Minister Antonio Tajani said Saturday that his personal data had been disseminated on the dark web. The post Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web appeared first on…",
+       "extra": "",
+       "tags": [
+        "Breach"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH",
+       "link": "https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/",
+       "source": "SecurityWeek",
+       "published": "2026-11-09T12:13:32+00:00",
+       "summary": "The initial exploitation attempts are attributed to botnets and crypto miners, but other threat actors are expected to follow suit. The post Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH appeared first on SecurityWeek .",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+       "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+       "source": "The Hacker News",
+       "published": "2026-11-09T11:27:53+00:00",
+       "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Amplifon Americas Data Breach Impacts 1.3 Million",
+       "link": "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/",
+       "source": "SecurityWeek",
+       "published": "2026-11-09T11:20:09+00:00",
+       "summary": "Hackers stole personal, health, and insurance information, including Social Security numbers, from the company’s internal systems. The post Amplifon Americas Data Breach Impacts 1.3 Million appeared first on SecurityWeek .",
+       "extra": "",
+       "tags": [
+        "Breach"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+       "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+       "source": "The Hacker News",
+       "published": "2026-11-09T10:56:25+00:00",
+       "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that…",
+       "extra": "",
+       "tags": [
+        "Exploited"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Over 3 Million People Hit by Frontline Education Data Breach",
+       "link": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
+       "source": "SecurityWeek",
+       "published": "2026-11-09T10:09:02+00:00",
+       "summary": "Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students. The post Over 3 Million People Hit by Frontline Education Data Breach appeared first on SecurityWeek .",
+       "extra": "",
+       "tags": [
+        "Breach"
+       ],
+       "countries": []
+      },
+      {
+       "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+       "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+       "source": "The Hacker News",
+       "published": "2026-11-09T10:01:21+00:00",
+       "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+       "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+       "source": "The Hacker News",
+       "published": "2026-11-09T09:01:50+00:00",
+       "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient…",
+       "extra": "",
+       "tags": [
+        "AI",
+        "APAC"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
+       "link": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
+       "source": "SecurityWeek",
+       "published": "2026-11-09T08:35:50+00:00",
+       "summary": "Working with cryptographers, DeepMind’s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys. The post Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack appeared first on…",
+       "extra": "",
+       "tags": [
+        "AI"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+       "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+       "source": "The Hacker News",
+       "published": "2026-11-09T07:05:48+00:00",
+       "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made…",
+       "extra": "",
+       "tags": [],
        "countries": []
       }
      ]
@@ -359,26 +623,102 @@
      "name": "APAC Watch",
      "stories": [
       {
-       "title": "Binance Cyberattack Raises Security Concerns for Indian Businesses",
-       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSejhyVmtWTUhDdEc2ODZINURUNlFFd1p5aUlWeWtrOGl3alpJaUJYZkRVOTV6Rlp6LVVraXVkNjNDbXVoaE5jc0ljclFXR25Dd1NseUo5Zkw4bTkwYmZhcTFXTmE5SUJNOENTRkw3Zw?oc=5",
-       "source": "The 420.in",
-       "published": "2026-11-08T14:15:45+00:00",
-       "summary": "",
-       "extra": "",
-       "tags": [],
-       "countries": [
-        "IN"
-       ]
-      },
-      {
-       "title": "Arcadia hacked, Japan's disaster alerts used to send 1.4 million phishing emails",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnJDUXpMcVc1ZnJkeVk3cUREOXQ4Z01VeWtRM0Rlc0d2ZHhFZ3UzTUVCblNBNmZVVlFoTnJERVdMUTM3b1U2TGlnU3I3aVBpWEk3S0V5V0tFbEtNa2R6SmNJOF9XbEowOGlTekRBTktmb0tKTWhFOHNnc0FJRk4wUzN5RTBUX0hqcG90RVBSSjU?oc=5",
-       "source": "Pasquale Pillitteri",
-       "published": "2026-11-08T13:46:50+00:00",
+       "title": "SEC Philippines Confirms Data Breach on Digital Platforms",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16ZWlBaktZMmtpTDlBanl2OWJQX0RveU4tanpyZlNfa3NNTGVrdnlwNkFBeEpLOHQtU3ZQWTJvYTlORnpWLU5NSXhtdEwwYkVaNERKTlRwMks0Z3FfdklkWXNkR1dYR1M5N2h3eXBkZjlFWV9jWEE?oc=5",
+       "source": "SQ Magazine",
+       "published": "2026-11-09T17:12:44+00:00",
        "summary": "",
        "extra": "",
        "tags": [
-        "Phishing",
+        "Breach",
+        "APAC"
+       ],
+       "countries": [
+        "PH"
+       ]
+      },
+      {
+       "title": "Thailand faces daily cyberattacks as AI helps hackers exploit system weaknesses",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbHo3SXhYY1BvOWtBS3V2QjBCQlB4NlBUR20yUW56Zy1vVDFkV0R6d1BzQnBMNnh6ZUR6Wmp1d2VZcHphQVhrOXRwc2ZNTGg1UW1IY0c1dHoxRUF5LURpczZzZWtNT1huWW1KTU9HN2FHRGpJRjVrRHFvb2c1d25MUm9ZMGp2Wll2bWMySXB5X3RLRlRXaDJKTXNzVlktcnV6RTA4N1I1VGJLMWpRa0tmMzRPVDhQNXc5bEU1OUVjN2xhbDFJWUNtTGpsWGFJSDhPenFsUnM2MnFqUQ?oc=5",
+       "source": "The Star",
+       "published": "2026-11-09T13:37:00+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [
+        "AI",
+        "APAC"
+       ],
+       "countries": [
+        "TH"
+       ]
+      },
+      {
+       "title": "NSC Sec-Gen: Thailand faces daily cyber threats",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQODFQVGZrbDZ4QXUyQVpKYnBxSXZYdEFWNWdyd09velZMdXJSYXdKTkY1X0pDNjNXR01HcERwOVhaeWhxN1B2R1NYLVpkUTJHVTdRQV8wZjFTTUNWZmt5aFpDR1lfak9peVNZYVJPbEMtRzBQclhVMzRZRlFSYU1abENiVUM5TzA4ZVJya2ZEeUNZUUN0M2lJUUZiZzU2QVU?oc=5",
+       "source": "Bangkok Post",
+       "published": "2026-11-09T11:34:00+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [
+        "APAC"
+       ],
+       "countries": [
+        "TH"
+       ]
+      },
+      {
+       "title": "Who Gives A Crap: Data breach at ethical toilet paper company exposes customer information across UK, US and Australia",
+       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVi1FSHRrNUlXcW9qRXFtU3dpN2w5Zk5WVVl6NkJaSThhR3Nxd1pvS1pmbk45SjRQc3RuLVRPM2ZLQktwRGpITzV0ZWRWOG5oMVNfODFlb2o4SzRFMFZTVXNQd1JWNU5zT0RXWFJNa2wzTUI0eGNEQjM3TGF3M2JUZUdFOWZ4U3Y0VDBwbUtleHJCcklvOXRnMDBYMEduSmV5YzdOZWNXREp6eV9mNm1TbHczRWd6SHRlYWNLQk9naUhCRU1FWGxFakxBUFBPNjZGQmlra1VDU29HdEFyTkNiTUROdlpSMTFwSWl3?oc=5",
+       "source": "TechRadar",
+       "published": "2026-11-09T10:53:40+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [
+        "Breach",
+        "APAC"
+       ],
+       "countries": [
+        "AU"
+       ]
+      },
+      {
+       "title": "News - Data breach at reservation partner exposes Singapore Airlines customer data",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWlmQVB3TEg4bEwtQmNXa2dBdjJVU1ppZm1OeU9UMG8yMGc4SEdoZE1hS2dZMlRrZnZlSWdUeVRrLVlyN2U4X3dwdnFmVk5qcFN1NjJ0dkNDMkpIREc5SXg3N3EyZXJoYkN3YUJJRktKZ0gxbXNvTW01X0JNMldoZ2VSY2pxaWlCOExISXFIb3pvN3VKWkZFZkhmVzdWdjJsRUhqeVM3OGRIajgwTGpr?oc=5",
+       "source": "teiss",
+       "published": "2026-11-09T10:41:20+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [
+        "Breach",
+        "APAC"
+       ],
+       "countries": [
+        "SG"
+       ]
+      },
+      {
+       "title": "South Korea's Daishin Securities to Compensate 38,000 Data-Breach Victims: 10,000 Won Each, Full Fee Waivers",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sakpvaWNuazZFZTJ4OUszMHUtMHlMb3RrVWZRQlFsSnhaUGlUaGJlTkZqZXB1RW81RFkwNklETTBaaUlObUFvOTQzVkdhckUtOUFYM2kzcEpFc1QtMlZ2eHIxVWk2ZzhUYVVRUlIxZEUycVR5YXc?oc=5",
+       "source": "BigGo Finance",
+       "published": "2026-11-09T08:35:00+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [
+        "Breach",
+        "APAC"
+       ],
+       "countries": [
+        "KR"
+       ]
+      },
+      {
+       "title": "Japan's Trade Works tightens security as cyberattack highlights outsourcing risks",
+       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdHFQV2JMZ1JuVERjZl9VSGszS1plX2pzc3oxWXY3d2ZyUzJ2NnRMTEo4QWRfOVdKMFc3Vm0wazlzMUh0RmlOWm45NlFOaWstY2VuNTFvdkp1enFzcnFLTmFaYnZvUF94YVFfQTZLeTFJWFN6T2ozNE1BRFlWZFh4eExPV2wyTUZfTlRCNHJSRUk1ZENJWGJEMmlhYVdhWTFyLU5PZFF3TmlDVmdfV3RBWkNkbEdDV3d0SEdVUEFMSEVQQ0xtVmx4YzRndFlCLWM0cUlGaFVVRkVmaDdzXzAw0gFaQVVfeXFMUDlXT1Z5Q1dfamhxRDdremdMRXBodG1ocDVtTUtKeDFZa1JlWmk2ckN0S0l2b1FwdlhjZTFxZDB6QlVqTmtqbExqanc1Z05jQmZ0N29JQmxPLXRR?oc=5",
+       "source": "MLex",
+       "published": "2026-11-09T06:53:34+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [
         "APAC"
        ],
        "countries": [
@@ -386,27 +726,14 @@
        ]
       },
       {
-       "title": "CERT-In Issues Critical Warning on AI-Driven ‘Crafty Falcon’ Cyberattacks Targeting Indian Financial Firms",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHJBbTRsNjNnX01KQW5RMDhsd2JSMFFfUzBrVEZXX0FrYjB0emF4cEQzZFVlQ3MtaU9mV25ncmR5bWRPWnNoUkNtWkNGYkxZaUhGQkt2OW9pRDRReTZFNU13WGNtcGtPSzUxNkZHR2pKX2dWRURLQXMzMy1FMlBoZDFTSHY3MDI5ZERKSDBZN3dWeHMwVzF1a3ExSUE3bTJlOTdLUk82bUE1a2JPWVVVb0ZZQTI0ZlE?oc=5",
-       "source": "www.nationpathindia.com",
-       "published": "2026-11-08T12:29:08+00:00",
+       "title": "South Korea's Largest Apartment App Hacked, Phone Numbers Leaked",
+       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GYzlIS2w1a2tsamRTNmphQzk4RmdiSWxNMWExMzRuNUNzaWpUaHZRcVhFcGF0ejJORVdvaUdGMnJhOUFMX2ZVQWZTcmhkaTFSS3ZaRXpYaFBFYmNkYms5Vk93d2w3cTQ?oc=5",
+       "source": "THE ELEC, Korea Electronics Industry Media",
+       "published": "2026-11-09T04:20:44+00:00",
        "summary": "",
        "extra": "",
        "tags": [
-        "AI"
-       ],
-       "countries": [
-        "IN"
-       ]
-      },
-      {
-       "title": "How North Korea Trains the Hackers Behind the $6.3 Billion Binance Heist",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVWejZZaGpIb3d2V0RGX0RDWUpjaFBBeU5yTWptY1V5WXBTR3pOLTk0cGUza2NrcnhwWWQ3LWNpQk12MDk4Y1JCQTJVN3Q1SDhDM0VXODNXT3RFanAzT3pMUGV0dGdXbm8yMl9LbTAtVDBFMEF3amQyR2NyUmIxMndIaXEybXgwRnlkdVJxUTZiU0R0THFBbg?oc=5",
-       "source": "Technology Org",
-       "published": "2026-11-08T08:18:00+00:00",
-       "summary": "",
-       "extra": "",
-       "tags": [
+        "Breach",
         "APAC"
        ],
        "countries": [
@@ -414,38 +741,10 @@
        ]
       },
       {
-       "title": "North Korea’s Army of World-Class Hackers Is Secret Weapon That Took Down Binance",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZndsbTY0Y2lhM1ZLbUZMdkgwWXpST3d5NnRTQUJBY2ZlT3dlQTBRMUpYeGotSHRTaWRrR01zTmJEa21LMEw1bV9keDhYeVdqZXpESkp4YWFETy1SRU9EQWFrb0ZGanNNUmQzcE1KSGtDdEZTSEpMaGttZ2dRTVB6RHVpcDBSVWNBVkl0NndabjE5UEQ1VWtZdzlfeVhCTlZmbXk0amFqeWlSSHNEaUJ1TmxDUXNPMFhpaklmdDZlbUM1dw?oc=5",
-       "source": "ASHARQ AL-AWSAT English",
-       "published": "2026-11-08T07:09:08+00:00",
-       "summary": "",
-       "extra": "",
-       "tags": [
-        "APAC"
-       ],
-       "countries": [
-        "KR"
-       ]
-      },
-      {
-       "title": "Japan forms elite ‘Top Gun’ team to counter hackers and bolster cybersecurity",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnBxbXZNdHRHMjQ1aFI5QmczUTl0N2FhZ0hFOW5tX1ZXSDBQdlZDc2pzekl1a3NYX0x4ZzkwUWtYR1VhQ3N5c1FsOFI3UFJuWkpBMWZCZm1hV0ZKTWhVeXR4a25GTUNBaDh3SU96OVFjSlZ3RHY4VTVMS3lwZmJhLVNOb0ZUdWZOck5Dam1BTl9mYjZRMlBUVzFYSjBRbFlXenM4aWRKaDJkZU5LVDdmcmtn?oc=5",
+       "title": "Malaysia keeps cyber threat level at ‘moderate’, says situation under control",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2xhNnJnSjc0Q1JXMkdQSWRVQWpWN0MyazQtV29DZlhjc0NfWDVEVjZTVVBuemdzcWlTV0R2aDQ4TUhFTTRjSnhfTVhGQzcyN21kcTh0WjhwS2V0bjdCNHpjZnRoUU5nb0xNWmY2MG4weFRpcUpDNFpxY2xhelpBbUxFNFpIQkdSWnBvdmRPSERTdzhIYXY2Rm1KdkVRdHdlMzA4WDU5bGltNVVnQ0E?oc=5",
        "source": "联合早报",
-       "published": "2026-11-08T05:49:19+00:00",
-       "summary": "",
-       "extra": "",
-       "tags": [
-        "APAC"
-       ],
-       "countries": [
-        "JP"
-       ]
-      },
-      {
-       "title": "32.3 million WhatsApp users in Malaysia face malware threat",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWt6T0pKU1Zrak1IMEVEaDFLZXYxUlRXQ0Jrb2ZUREpidm5GcXl5RmFkNjBkZG9qNXpkNWV4WGptd2RrN0F1TjlNc3ZiaTFpUjN3YXo5ZlNzWTlPa2dYaDJlU0N3aFRwc1pmWDA0Q0EySHFNOXdLRG12U3F4cFhYdmc3aTZlTlhNMWRTQlZSVzJ2X2c4Q3pFT1ZUT2UxLVZMY2I5NFBBblUxQndCTGFfbUxwQ0w3QQ?oc=5",
-       "source": "The Vibes",
-       "published": "2026-11-08T04:01:00+00:00",
+       "published": "2026-11-09T03:38:14+00:00",
        "summary": "",
        "extra": "",
        "tags": [
@@ -456,17 +755,32 @@
        ]
       },
       {
-       "title": "Service disruptions at three Malaysian banks spark cyberattack fears",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUhJVWdvamJMTDRWZ2k1QjAyMkVFMUFQanJOS2NUY0FVWnRNRlhURGpDS0FkOXVaNUY3TGt2VjJHZDhDZ1owb3ZOVFBycVlZcHRMdnJJRndZVEVFZnluRmp0eWRaT2xZdDNqNHdjNkJ6aGVRNmhfZHkyZXRGQWoweTBpUms4V0xjQU1xN2xsRE5VTG5kUGVOcnhsTXZ3MU10VzBZdFlB?oc=5",
-       "source": "联合早报",
-       "published": "2026-11-08T00:58:06+00:00",
+       "title": "Japan hit by record cyberattack wave",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWDFvdG1OOFNUMG5hdDM4V1g5V29yZW94bm9kMWE4eEU4emN2RnZTejlhdVZNVHBFNHYzcElkWWJpVmtVaFo2VXN2MDdzSFhWdWFId1JQQ25NdWpLQ3E3ak1hSXBka3VHYVRXSEdCWlFNVFRKdnBwazcxNXVwZWRKZ09iZWo?oc=5",
+       "source": "The Tokyo Reporter",
+       "published": "2026-11-09T03:30:26+00:00",
        "summary": "",
        "extra": "",
        "tags": [
         "APAC"
        ],
        "countries": [
-        "MY"
+        "JP"
+       ]
+      },
+      {
+       "title": "South Korea's Mirae Asset Securities Reports Data Breach Affecting 39,000; FSS Launches Emergency On-Site Inspection Amid Suspicions of Group-Wide Hacking",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MTW1iMVRpdWU5TXRwVTVXSzdCTEp4SlRvbVJadnZwUjhoSGpDRFVjSzVrYnZwRXhBb2dEYllUemRubmtCZUZjQjhSSXNuOEhHaDJVZm9qS1c3amZmal9FbmdGUDBXb2M2NW9XR182SXVIQUxCZFE?oc=5",
+       "source": "BigGo Finance",
+       "published": "2026-11-09T03:25:00+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [
+        "Breach",
+        "APAC"
+       ],
+       "countries": [
+        "KR"
        ]
       }
      ]
@@ -474,6 +788,18 @@
     {
      "name": "Threat Research",
      "stories": [
+      {
+       "title": "9th November – Threat Intelligence Report",
+       "link": "https://research.checkpoint.com/2026/9th-november-threat-intelligence-report/",
+       "source": "Check Point Research",
+       "published": "2026-11-09T16:15:41+00:00",
+       "summary": "For the latest discoveries in cyber research for the week of 9th November, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Queens Public Library, a New York City public library system serving approximately 2.3…",
+       "extra": "",
+       "tags": [
+        "Breach"
+       ],
+       "countries": []
+      },
       {
        "title": "ARTEX abuse expands as cybercriminals target financial sector",
        "link": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
@@ -487,11 +813,11 @@
        "countries": []
       },
       {
-       "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System",
+       "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems",
        "link": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/",
        "source": "Unit 42",
        "published": "2026-11-06T21:15:09+00:00",
-       "summary": "Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies. The post Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System appeared first on Unit 42 .",
+       "summary": "Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies. The post Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems appeared first on Unit 42 .",
        "extra": "",
        "tags": [],
        "countries": []
@@ -617,28 +943,6 @@
        "extra": "",
        "tags": [],
        "countries": []
-      },
-      {
-       "title": "2nd November – Threat Intelligence Report",
-       "link": "https://research.checkpoint.com/2026/2nd-november-threat-intelligence-report/",
-       "source": "Check Point Research",
-       "published": "2026-11-02T15:57:23+00:00",
-       "summary": "For the latest discoveries in cyber research for the week of 2nd November, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Binance, a global cryptocurrency exchange, has suffered a cyberattack resulting in the…",
-       "extra": "",
-       "tags": [
-        "Breach"
-       ],
-       "countries": []
-      },
-      {
-       "title": "Shutting the Door on the XCPE Botnet",
-       "link": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
-       "source": "Google Threat Intelligence",
-       "published": "2026-11-02T14:00:00+00:00",
-       "summary": "Introduction Last week, Google and industry partners dismantled the XCPE backdoor which enrolled more than 1.3 million set-top boxes into a botnet. We assess with high confidence that the backdoor and botnet were intentionally developed…",
-       "extra": "",
-       "tags": [],
-       "countries": []
       }
      ]
     },
@@ -646,32 +950,40 @@
      "name": "Government Advisories",
      "stories": [
       {
-       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-       "link": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-       "source": "CISA",
-       "published": "2026-11-06T12:00:00+00:00",
-       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of…",
-       "extra": "",
-       "tags": [
-        "Exploited"
-       ],
-       "countries": []
-      },
-      {
-       "title": "IBM WebSphere Products Multiple Vulnerabilities",
-       "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261106",
+       "title": "ChromeOS Multiple Vulnerabilities",
+       "link": "https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20261109",
        "source": "HKCERT",
-       "published": "2026-11-06T03:00:00+00:00",
+       "published": "2026-11-09T03:00:00+00:00",
        "summary": "",
        "extra": "",
        "tags": [],
        "countries": []
       },
       {
-       "title": "OpenSSH Security Restriction Bypass Vulnerability",
-       "link": "https://www.hkcert.org/security-bulletin/openssh-multiple-vulnerabilities_20261106",
+       "title": "Veeam Products Denial of Service Vulnerability",
+       "link": "https://www.hkcert.org/security-bulletin/veeam-products-denial-of-service-vulnerability_20261109",
        "source": "HKCERT",
-       "published": "2026-11-06T01:00:00+00:00",
+       "published": "2026-11-09T03:00:00+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "SonicWall SonicOS Multiple Vulnerabilities",
+       "link": "https://www.hkcert.org/security-bulletin/sonicwall-sonicos-sslvpn-security-restriction-bypass-vulnerability_20261109",
+       "source": "HKCERT",
+       "published": "2026-11-09T02:00:00+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "ModSecurity Security Restriction Bypass Vulnerability",
+       "link": "https://www.hkcert.org/security-bulletin/modsecurity-security-restriction-bypass-vulnerability_20261109",
+       "source": "HKCERT",
+       "published": "2026-11-09T01:00:00+00:00",
        "summary": "",
        "extra": "",
        "tags": [],
@@ -687,6 +999,50 @@
     {
      "name": "Financial Sector",
      "stories": [
+      {
+       "title": "SAT upholds SEBI fraud findings against former Ricoh India CEO Takano, cuts penalty to Rs 10 lakh",
+       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb254V2pMS2d5OGtCdXdLZnpJanl1eUdfem5iNDBqcHI0TzZwLTVWUnliNHhtLWlmc21KeXR1a2g3LWgyc1UzRjFWcnhXZ2JCbkt6bUNmb2ZxeEJFTWdiUWJHQVV1dldYcmQ2Wko3X1A2QTRfNXIyeWdiZmtBQ3lMaUpaTmhTaDhqTU1ucExBb0hLRTRLMElzRTBGQlJHazRWd2E4VDEzTkdNTXN1NVZnTkF2ZVhpVkNIZV85TW9pS2hkR1NyQlY0WEw1elQzbEVJREVtNWctZnM0Z3kzNXE3ZXllQjY5TjlhV3cyTVlOaERVQ3drMmNBN9IB-AFBVV95cUxNb254V2pMS2d5OGtCdXdLZnpJanl1eUdfem5iNDBqcHI0TzZwLTVWUnliNHhtLWlmc21KeXR1a2g3LWgyc1UzRjFWcnhXZ2JCbkt6bUNmb2ZxeEJFTWdiUWJHQVV1dldYcmQ2Wko3X1A2QTRfNXIyeWdiZmtBQ3lMaUpaTmhTaDhqTU1ucExBb0hLRTRLMElzRTBGQlJHazRWd2E4VDEzTkdNTXN1NVZnTkF2ZVhpVkNIZV85TW9pS2hkR1NyQlY0WEw1elQzbEVJREVtNWctZnM0Z3kzNXE3ZXllQjY5TjlhV3cyTVlOaERVQ3drMmNBNw?oc=5",
+       "source": "Moneycontrol.com",
+       "published": "2026-11-09T10:57:30+00:00",
+       "summary": "",
+       "tags": [
+        "Finance",
+        "Scams & fraud",
+        "Enforcement"
+       ],
+       "closes": null,
+       "countries": [
+        "IN"
+       ]
+      },
+      {
+       "title": "Bank of Thailand orders banks to tighten cyber defences after overseas attacks",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVA4aFU1WGZTa1ZpQTl1UXU0UGlnNGRtNmgyZ0N6MkxPQ3NjemV2Z0hIblFSblVkVDJ1WlBNOTdBM2hpSUpfd0V4eWs0TDNhNi1EeC1aMnpkMWtKZUNpajBBVjBmLXpIeW41MDlLN216UGI1Y1pkWTBUNm42cU5scTV2MEhSU0Q2T0d0SC1aNUdLM1d1LWtB?oc=5",
+       "source": "Thaiger",
+       "published": "2026-11-09T08:49:15+00:00",
+       "summary": "",
+       "tags": [
+        "Finance"
+       ],
+       "closes": null,
+       "countries": [
+        "TH"
+       ]
+      },
+      {
+       "title": "Lowdown: What RBI’s consolidated cyber security rules mean for payment apps and users",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamtFdUlGMjNIVnQwd2F5MjJBd3NRa2kwVllLZUFvcGY4TVFCTU1rRUFldHM1ZXh5VVB6S3BqUDJfNWd3UFF3bXhqdHp6Skk0RDlHUHhvcHhVc1ZsNHRvOG9BNEM4VlNxNlZncmk4YUNwZE5BVnNBS2tMaHVlZzJfNVE0SWs3MDhy?oc=5",
+       "source": "MediaNama",
+       "published": "2026-11-09T07:06:07+00:00",
+       "summary": "",
+       "tags": [
+        "Finance"
+       ],
+       "closes": null,
+       "countries": [
+        "IN"
+       ]
+      },
       {
        "title": "RBI Tightens Cybersecurity Rules for Payment Firms",
        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmdRbmc4U2U4cEJiTjc4UzNBYWtvVld0ZUJtTVV0NmE3N1RJQVdVVkhxakZhZVdsaHlocUZkaUEzODhiWTRWOGxzOUNtV2k1UW41UkNjS1FkV25yNDBEWElYYUtHYWhKSkdscG9SQ0dkN1QyMTI3M0dLWG53YzZfbTMxVVBwVmk5cnlWTmlZQmYzQndJd0FEbFRMZw?oc=5",
@@ -731,38 +1087,10 @@
        ]
       },
       {
-       "title": "RBI New Cyber Security Rules 2026: What Changes for Digital Payment Operators?",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmFIY3FUcnVWd2c2YThzcmM3azU4V2FoLXowcklQOTVVMGpYa0plb1FYQkVISGk0a2x2bXdhZk81YU1RWEMycVhXTGJzZmU4ZENOaWhFVFoyUkF3RTRKSHh0VjRkc1dWbVNFQjlUT0hEMFNJWk9Zby1ieFFua2wxUnJJeWhxWEJ3RjVxd3NrQzJPTnJ6anJ5QzNxallQZnUzQkJEYzlnR3k?oc=5",
-       "source": "Bankersadda",
-       "published": "2026-11-06T12:06:45+00:00",
-       "summary": "",
-       "tags": [
-        "Finance"
-       ],
-       "closes": null,
-       "countries": [
-        "IN"
-       ]
-      },
-      {
-       "title": "RBI Issues Cyber Resilience Rules for Non-Bank PSOs",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EaVl0UUViLWJXOEZ0RHhBWEJJb19lWkxuMnVrcVpfa3lVSHVRaFlBblEwdmRXZ2h5bXQ1N2paSDYzQVptMWpFWGZDbkpwMzI2YzB6WUwwNW9ZUm1OSXIxOFJxTmE?oc=5",
-       "source": "Elets BFSI",
-       "published": "2026-11-06T04:18:47+00:00",
-       "summary": "",
-       "tags": [
-        "Finance"
-       ],
-       "closes": null,
-       "countries": [
-        "IN"
-       ]
-      },
-      {
-       "title": "RBI’s cyber resilience framework sets security requirements for non-bank payment operators",
-       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONF9JYW5vc3BSaE5sNUxyT1dobE81cjRMNEJRUUlrMmNnd2ZmWjR6LTlmXzBIeVZBOWFucURScjdQeHFWRVpWRHRlLWVhY3llbTE2QUYxRWpQY3FKNUxDbkN2UWpXWlF0ZlhnbWhQNmZkb0FTMlhpU0dGT0tQektHVnA1UDNJaENpdWNRbks4U0F5M2l3RDdiWU0wMXdjY00wN3gtRWhoZzJSakZ0cUFtX2VCanVJQmZvNkl5djNIOExYSTQ?oc=5",
-       "source": "Business Upturn",
-       "published": "2026-11-05T14:07:36+00:00",
+       "title": "RBI Issues New Cyber Security Rules For Non-Bank Payment Operators, Sets Audit Deadlines",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkF4a0thTEczdlZBLVktcnVUdzJieVRQeWNydlZfUWtMMVF6cXRQOXVzb0V3X09sVzdRTUN6aTRqYXBSRUZIaks4TEZ3YWVTSXNJbGZORHN0WHFTV3poVnRtcUxQa0lOd2FsQTZEc05XRS1hZlF3bmJmZjZpd0hjak5oV1Q2a0ZadG1xUUNSZEZqYm44LW9sbEtWZWRQb2J1UGRack9OY0hPR2VSMnNNcjh1X1I4LUVRazlRaDQ2Uk9QQdIBzwFBVV95cUxOcnJGTkJpUEp2NlZnTWpqYzVYRWU2V29SRDlORGpNOEdxTVRtcDJobm1NV1BrUVBEZ1VlUHJrNHNyczZQbFB5c3JhWmtaV1o1SDE2QW9iMDlpa0FiSmtJTm5CWlNqekdIc2ExTHh2WUxEMHZsWUR2eHBxSmFNbHUtWXNzRUwwZVUyRE5DemhwcW5RWVlFUC1fbW5MUnRacTA4X2VFY0YtMTRyRmx6TkFGM3l5ZHFkZ2phVzJHTW9YVXIzbjZ2VFJWdHBFMmRBUFU?oc=5",
+       "source": "Outlook Money",
+       "published": "2026-11-06T06:08:53+00:00",
        "summary": "",
        "tags": [
         "Finance"
@@ -912,7 +1240,7 @@
       },
       {
        "title": "Fujitsu's survey project to establish a next-generation digital infrastructure business framework in Singapore selected for METI's Global South Future-Oriented Co-creation Project Subsidy",
-       "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOR0FOWnZ3RFlYcmVER1U1YXU5d2pUa2U4dnpDcnp4SW9EMkw3RDFQblJaUzZGS3lETS1xZk1EMmdtbEhuS3hYc1BObkZzQXpYYmRZaFdwOHpOSTA3Ync5eklEQWR2YjNCWURyMG43cUVCQmc1UFZmQTY0TUhfdWZpcnBxdjBfSTEwd2RBa3Vmdl9sN3RaTUJoZklxem1CYWJzTTNpbm1pWjNzUENFdE5RZjN3YUI5a1ZpbkRsc3pndTB1ejJOaG9RR0k3S2NSR0RyU2k2SHdFYmRTcXZmbjl3YWZpU01kNWhmanl0Y1BLYWlMUEx4Q1JhT0M0T19RZTVTa3QxOVVhMGo3aHYyTTBkenBaM2hYWUx5VVJrLTZWQk0tWHkwVDI0VEpzWkZYdl90akN6d2tBck80Mk1nR193dEJUV3IyNllXR3dlTTFJazhJZHJmcHdzZzM3MnBBX0R6aFNEVy0xcE4xYkRVQ29HUHFKaTdTY1dXUnB2QTJOWEhMWFVESGh4ZnVmcEZYM0NxRWxtbg?oc=5",
+       "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPTUFYV19KbzU3TGc5TUhfaXV5UkhoZjRyTGJ2Yng1d0kxNzJDeEJkajlmNk1zMmhfQlFKcHhHNldxRmYzS1pGOWpoQ1FtTzhoeDZUTTM1VjBZT2pVVHl0T0hkVTJlR3hnV1pKcWNOTURPWkNwRk9xWWsxZ0V1cDJzajZDQmhaVEtxcVc3d016bFdpTFd2Q3lXdlliWnJocHQwMUZWS3FUU1JZb1R2ZHZEd3dLTURRNkFzX0REQUxqSVdNejFCQWQ1QVhsRXNPMFh2UUhyRzBOS3ctRjJuOE5Rcnh5M3Z0WW9wZnlTRFNNWkRla3ZxR2JNOW1MZ25tU3FIb2ZUY0lZM2Yxc0dfTWZ4cnM0MDRkYU51eGI4Z0NMamZCcXVFUjNRd1luclFtREQ2OFA0MTJfc3FsVkxMQ0FiTHZQU1hDMVF5QVhSQkFrd2JvcEdHaVdoRUhaSjRZT0FHQUozTWpfRkRhMl9BdUVaMmZaMGdEdFEyQU04?oc=5",
        "source": "TradingView",
        "published": "2026-11-05T02:12:00+00:00",
        "summary": "",
@@ -927,18 +1255,6 @@
        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb2NJWXl0VmtFZFBUYlo3X1JkR3lTZUtDQWlwWHhhdGVzX0dhUGVxZ3drN0JxSDdWbXEtLUt5Z3lCUWVFRHdHaEw5bW5fQkdDMHJMalpEMU5DTmpWdHJNMFVucTliVGlUelJjbUtPMGNJNDkzM1otTDBXZXV6QUhKOVdfbHZiWWhEbkVQZFpEelkxSFZzMnFQal9sZXVDSWR3MzJ1UFVtR3RiMmowTlBtRVRTaThzUUJxVXJBYzBKcE1QdEoyc0Z6N05ROGtQSjg?oc=5",
        "source": "Singapore Economic Development Board (EDB)",
        "published": "2026-11-03T08:00:00+00:00",
-       "summary": "",
-       "tags": [],
-       "closes": null,
-       "countries": [
-        "SG"
-       ]
-      },
-      {
-       "title": "Singapore’s new rules for digital infrastructure",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONV9rYm5WNjlRY196elpTRjJuZGU2YWZSZnZ3MjZES09aaWpqcGstTW9uNjJ2bVFtVG52OUNvZDJoMWRNeE9vOF93X0Zzc2VORVM4ZTdsUGM5SEItNno5d0lnQ1lBWTVybVJsTTVhNEk3bzNVcmJLelhiVDQtaEY1X09BRmphSUtIRlRUMw?oc=5",
-       "source": "Frontier Enterprise",
-       "published": "2026-11-02T05:33:40+00:00",
        "summary": "",
        "tags": [],
        "closes": null,
@@ -961,18 +1277,6 @@
         "New law",
         "Data protection"
        ],
-       "closes": null,
-       "countries": [
-        "ID"
-       ]
-      },
-      {
-       "title": "Uptime Institute and Indonesia Ministry of Communication and Digital Affairs (KOMDIGI) Sign Letter of Intent (LOI) to Support Data Center Policy, Governance, and Industry Development",
-       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52dVh2TFJmN0UzTFRnWVJkZjViRzI2U3QxWkJ5VUUtMTdXVFkzYkZxSTl3Nk1rNXJQQTNNeXhkOG1PUExBSFgtamNMZw?oc=5",
-       "source": "AFP.com",
-       "published": "2026-11-02T05:04:00+00:00",
-       "summary": "",
-       "tags": [],
        "closes": null,
        "countries": [
         "ID"
@@ -1021,7 +1325,36 @@
     },
     {
      "name": "Vietnam",
-     "stories": []
+     "stories": [
+      {
+       "title": "Ericsson eyes stronger cooperation with Vietnam in 5G and cybersecurity",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd1JaOHZJUTlRaFdoVk8tbVBiVGFyNkdQbTVzTk1iRVE2V0FHX1VScUFLb1pQYWtEM05LclctV0Rna0VtRFc3eGJLT1RMZnhKTmJzR0pLUjA1SjFNN3ZES3JPZy1RTUFGYlFQV01MT2prVmdxeFZDSTBRU0p4UHM3MnRXRXFmbmlER0FOTkRHMGMyUW5DSGxBRkp1bFRDWm16YXF1LXFSQm9qa3RnYmV5bHgzaE5pTXZxZ3k3TmtKYTBVV3BaNTBZSGtlMlI?oc=5",
+       "source": "VOV.VN",
+       "published": "2026-11-09T13:41:17+00:00",
+       "summary": "",
+       "tags": [
+        "Telecom"
+       ],
+       "closes": null,
+       "countries": [
+        "VN"
+       ]
+      },
+      {
+       "title": "Vietnam and Sweden promote cooperation on telecommunications infrastructure and cybersecurity.",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjQyWE94dkdWVndoX0JhMEZrNDVuQVRiZmh2QzhoN2RGYjZtLTRjemNSczkxckJSa3JnM3piSEdIcEVPQ3VMVUxxTXpVZE9OVW50THBlQzdudTZTcmpnT3E4X0hwT3FoX2E2dEFJVll4U0Q3NTdrbi1fY2c1MjcwNWdEYTNuZDdreEROaDJNcHItT2l5V3hLc2J0OHVzSU9P?oc=5",
+       "source": "Vietnam.vn",
+       "published": "2026-11-09T13:07:11+00:00",
+       "summary": "",
+       "tags": [
+        "Telecom"
+       ],
+       "closes": null,
+       "countries": [
+        "VN"
+       ]
+      }
+     ]
     },
     {
      "name": "Australia",
@@ -1056,25 +1389,13 @@
       },
       {
        "title": "Australian Privacy Regulator Closes Inquiries into VIQ Solutions, Finds Incident Far Narrower Than Reported",
-       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdUM0My10Y3YzMTVweXRiM1B1OFl0blljc25vLTBvb2dDeW5GYXhIeHRxUTNBTUFrSGRhdUs3dUR1MTNkOXJjVnFndW1iUk1LNzhwcUdxcFZUb3p5TEl0dkd5NURsdGthYzNyNTNBMjlYaHVySmNNQmltMXpaSkt0MUVfSDFEVnhWUkhXSzFFaEl4MEU3VDZFdnNFTVFjalZfbVYwanhMWm5CNEJ6Z2ppdFFxNnc3TUU4UmI1TThFNnhEb0g4aU5nTXB0ZUU2d0l1V3pGeHV0UV9KWHQzZm1YR1VmWkctX29reEdUM04zUmQxX2wtdjFIcW0zWEJQQQ?oc=5",
-       "source": "TradingView",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcmxFRlAzSHNWdDN1X1Y2WC1CRC1UNEV5UzZRR0hYM3JULXZZbjdoUnp5Ty13dkt3THpTNmpxeDFSMXFNbGZpV0JWN3dYT01uSTNfSk4zWm80MDZLTGZpTkZqVjZwYzQ1RUdHU3hMVFZIWngtbV9WRGd1VG5iekhjck5yM1RlY1hYRmFLV0ZfLUdvQ3Z5VXIzTWFjclJ2TXowWTFuaHpVRU1vbnRWOEp6TEI2Mldxd2QzVm9qS0FhMnlKdDFUNjY0MFRCYlpkYm1FTEJ1VHJKb3ZUdmxwZ0MyMzM0ekY?oc=5",
+       "source": "TMX Newsfile",
        "published": "2026-11-05T12:30:00+00:00",
        "summary": "",
        "tags": [
         "Data protection"
        ],
-       "closes": null,
-       "countries": [
-        "AU"
-       ]
-      },
-      {
-       "title": "Australian court hears challenge from Reddit to social media ban",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnhiVXlHbmJRWThGR1pZMlV5WDFicXpNMTIxMWlpNUZtaDZ5ZzJjS2dHaENFcE0xVENZQW5Ic3RoZHhrRDFZU2V5Y0Z0WUZZUzVDS3lHSVhoeEhtaGZTdWlyRWJ4aVY4M3RybmFzTENfZENBNm5XYkIweXdfUVUxby1JZV95RFJtSU0yRDRMVGV1TGFKNWRhU3JuQjBaT0V3ODhtTWI2cw?oc=5",
-       "source": "https://www.irishsun.com/",
-       "published": "2026-11-05T04:31:00+00:00",
-       "summary": "",
-       "tags": [],
        "closes": null,
        "countries": [
         "AU"
@@ -1108,12 +1429,38 @@
        "countries": [
         "AU"
        ]
+      },
+      {
+       "title": "CPI | Reddit Takes Australia’s Teen Social Media Ban to High Court",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbk5RLTBOOWp5RTlLT3JRTWxZVEVVVVViSmdkcGhaMmxPdFBEU00tNmNuRF94NmRzdXZMU2hIQUdZU1J3NVhuczkxNi15aXVXZ3RvNVRCRG1xa1BocjhBTEVscEVSWkpiNG9OT3J5Z2lKTlJYMmNHTUJpLVY1bFpOaXVkS3NSWmtJZmtMWW5JYUJ6ZFF0cFNzZg?oc=5",
+       "source": "PYMNTS.com",
+       "published": "2026-11-03T20:02:20+00:00",
+       "summary": "",
+       "tags": [],
+       "closes": null,
+       "countries": [
+        "AU"
+       ]
       }
      ]
     },
     {
      "name": "India",
      "stories": [
+      {
+       "title": "India’s CERT-In issues AI Security Auditing guidelines targeting model poisoning, prompt injection, agentic AI threats",
+       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXJ4OXpxRmpMakVrMDhrdHk4REU3Ti1yQUZmZVMwbGFtaUFFcWFkemxxVDZEWVpYU2x1WENEQmxOcVp0MEhPS2RqUHZJaWFNSVJVMU5KTVUwNm1ZSUtZNE9UZnN4dXNCcWdRc0JNZFFFaGRvRDJLUWJRSER4eXRTY3hacFlkUVBrMzVOcHVDZFZMNzhhLXhKRktWWFlSbGttQU84NmtxWE5YbUs4UEJqdF9kYk9CYS1PYVRXcGw2dWlieENTM1ZJNVFkY0JiLU1BVC1SMXQzYm1VZk1UN2Zn?oc=5",
+       "source": "Industrial Cyber",
+       "published": "2026-11-09T08:46:36+00:00",
+       "summary": "",
+       "tags": [
+        "AI"
+       ],
+       "closes": null,
+       "countries": [
+        "IN"
+       ]
+      },
       {
        "title": "DPDP Act: Journalists, newsrooms not covered under data protection law",
        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdmZiUjZhSW1Da3Z2ZFFOb0QtQ3Npd3BxdlpfdXB0eUFFNlRmdFVEYzNxYVYyOGdoZUpjZDhuMy04bkhTLUw4REJXajB1QTVXS3VQeXZDNjFRTFZQVFNYSWFkZGZUNkg2c0VKWEt6VGpPZWpCOXZKS1NDRGxoT1Z4R01jejI0SW5hUHpwdnZfQ0NBUkQySVpxQlp1SGw3eXRSWWM3WDBmei02NXA4Ri1yX2xYOG12V3c30gG-AUFVX3lxTE42MW1BZWVxYUxJVGRUdmFZREFsekhiN2ZJcVNOaXllTUZZYjZCSTZFcnJCemhQUXJkbnBWb1RoWVhoREVTcjRCT1MyQXBrMkZZelRwSDREOVhWbW1zRGg4QVZVNjQ4S25wTktnMVFzbkJ6ZkhsZTVDcUhHVGhmejNNVElzOTEtNkpTZE5COFk5cjh2TnBNRXdIRzJUOVpCblA0R21pNWstS2tLdEVpSnBIVlhBeHZlY0dISHFOTmc?oc=5",
@@ -1150,6 +1497,20 @@
        "summary": "",
        "tags": [
         "AI",
+        "Data protection"
+       ],
+       "closes": null,
+       "countries": [
+        "IN"
+       ]
+      },
+      {
+       "title": "India’s DPDP Rules and GCC Employment Data: Why HR Compliance Needs a Privacy Reset",
+       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS2t6NV9yY0V2OW5JdTNrYVA1TUFuOWhybkoyenNIT0xnWXpFUmRsUFl5d2JZbTdjeGVxWWxvaHJXYkhCaUstdFpIT0xKc0RlZm1CZkY3VFFhOVZzNTItNmFtUEhtTDhzNDhic2RRWk4tSmZCaXpna1p3clVwWWhlYTVtOGRvRlJOQ1g5Q2YxUVZ3cWtwMGNWSkN4aGpQbHBYU1RUYzZ4TnJ0OHVlNzYzN2RNUHE4SlROYmFIc1lCd1lGVVNY?oc=5",
+       "source": "Nasscom",
+       "published": "2026-11-06T09:00:01+00:00",
+       "summary": "",
+       "tags": [
         "Data protection"
        ],
        "closes": null,
@@ -1227,20 +1588,6 @@
        ]
       },
       {
-       "title": "India plans indigenous GPU chips in 24 months, says MeitY Secretary S Krishnan on AI strategy",
-       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZkQ4RDB2Y1JyN3Jwd3RNZUFoNUpIQnMwektMQlBaZWw2dmRCZElwNmNJaGdYNG45SWJRYndweXNHZlVDaGFHVGxwZVVqSDlHTDVfUnhHaDVjMjczS0dPb0lpNWtuRmgzSkp0OXczNkdWdmU1elhrUkc5SjJTOUt5OXRnWDlSdGpFNW9XcWpJbDFiUWZYTzQ2OU9sSVRqZV9EV1ZZbTRoRmczd3lwRGFnUmpEZVBOZGFwR2FvazZ2bnJPT1RDbjM1SEF3NjZFYjdNdWRhWFdwU2h3RjRNV1hTSk1VaGdRVXJ4SEc5ZGRyR3dWdWhxX08wVm11QnHSAYICQVVfeXFMTkVGOWF2Y3gyX2xCTmcxWHFWem4zTnRqcDU0V0ZXS1V3eWJNVVdpdGlJX0gzWTBmVzd4aE9DUE1XeER0X1JmUGg5eDNTa25VN2Q4R1E5bnVPRUhSekd2eHZjcEl6eWV0VDB3ekk3OEZtY2p0MlROVU9UdEZCM2xVZmJ0cXNoQmZrYjl1b1RTY3hnUmRnOXlmVGdleHVzNHNuOGx3dVhsaERoejRrbWRobmpZakh6cTNzSUhPeWVtMUpKaEpDNnFkM2Mtak1NTU1wbHhIc1lPOXVPcVhHeWVldG83eFVJdUxtX2lla19hUHE1cWZITWNxbzB4cW9NTG1lcE5R?oc=5",
-       "source": "ET Government",
-       "published": "2026-11-04T02:17:40+00:00",
-       "summary": "",
-       "tags": [
-        "AI"
-       ],
-       "closes": null,
-       "countries": [
-        "IN"
-       ]
-      },
-      {
        "title": "Data protection Act makes journalism harder in India. It also comes with a business problem",
        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOckk3WGw3SjMxRkVFNHZ5SkhBVS15NWJRQ3BwdFJNSTlFRjc4VEE1WFUyQTZaSWkteno0SEN0YWhqbWMzM25yMXRvNnd5TzBoaWNGRFVIcWlwRElGbHRybHROQ2FIYUpvdHl0U1l0SlM5RFhVUVo0bWIyVGpadm5oMTBFYnhtU29vR2pyNUpOTTRuUdIBlwFBVV95cUxPTTh0NDlTXzY5Q0RXWlFQeG5uaEJiUjRic181YVpQYWlzd0lsRVdpVklEaWFBSVF3eExvNE9jZDh0N2l1MV9KSzVkT00xWGFzWndMUDNGdkI2VlZTOFRhU2FQd3dkZmlZajJwUmpGV0FlNS14UzRINERabHJmbEVBNTF1N2RLTUlickVLenA3ak9kb0hTTmo4?oc=5",
        "source": "ThePrint",
@@ -1272,8 +1619,21 @@
        ]
       },
       {
+       "title": "Armenia needs to agree on an approach to AI regulation: ITU offers international tools to support the sector's development",
+       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TWUtVV1ZEc1VCMElUQlpLQzlwRlh3RUU1cTkzY3NWNnhkRFVQS19HMjlqWHFPdTZKMnNoZjNXUW5OWVBhYl9WeA?oc=5",
+       "source": "NEWS.am TECH",
+       "published": "2026-11-07T07:00:00+00:00",
+       "summary": "",
+       "tags": [
+        "Telecom",
+        "AI"
+       ],
+       "closes": null,
+       "countries": []
+      },
+      {
        "title": "GSMA pushes regional cooperation vs. cross-border online scams",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTlIUzVURlN1bGpQc1NTbHh3ZFUtem5GZTh3aDJyRlVxVFVScUhVUlhwMVNLaDJEN3FsQWtHZnpzZDVvMFN0dEFaMjNDX3NzaHNxbnc0TTdoRXU2aUpTZHJOTkY3X2RGRDc5c3lzUlFkYVZxSFhJbmFyR0RqM2JmbERIMURMUzRhRTJIdFdRcmxuNXNQNS1iZEIxUWc5bElwNmMyU2k3WVdkanJPVWVjSHN1TnRqZGpN0gG4AUFVX3lxTE5ZOUhTNVRGU3VsalBzU1NseHdkVS16bkZlOHdoMnJGVXFUVVJxSFVSWHAxU0toMkQ3cWxBa0dmenNkNW8wU3R0QVoyM0Nfc3Noc3FudzRNN2hFdTZpSlNkck5ORjdfZEZENzlzeXNSUWRhVnFIWEluYXJHRGozYmZsREgxRExTNGFFMkh0V1FybG41c1A1LWJkQjFRZzlsSXA2YzJTaTdZV2Rqck9VZWNIc3VOdGpkak0?oc=5",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTlpLZmw3MXlrWGRYYU40SGRrLWg3X0NQSVp6NzY2Qll1UXlNZG1UUUFYbVJpNzc2TnVSQjBDNzJDS2M0T0IycllKRjJGeE1YT1oyRmFCOFBETmJneG9kQjRqVWNhamhOZEVQLXhER2tsOUJQSzJ0dXJlWWxlSXhhTFVLejMwR1JKSzhGVXJvWmNnZm85M2JPeTc4cjFSRlJSOUMwS2xtSllpWk1hMjZwall5d9IBuAFBVV95cUxOWTlIUzVURlN1bGpQc1NTbHh3ZFUtem5GZTh3aDJyRlVxVFVScUhVUlhwMVNLaDJEN3FsQWtHZnpzZDVvMFN0dEFaMjNDX3NzaHNxbnc0TTdoRXU2aUpTZHJOTkY3X2RGRDc5c3lzUlFkYVZxSFhJbmFyR0RqM2JmbERIMURMUzRhRTJIdFdRcmxuNXNQNS1iZEIxUWc5bElwNmMyU2k3WVdkanJPVWVjSHN1TnRqZGpN?oc=5",
        "source": "The Manila Times",
        "published": "2026-11-06T17:48:00+00:00",
        "summary": "",
@@ -1283,19 +1643,6 @@
        ],
        "closes": null,
        "countries": []
-      },
-      {
-       "title": "Vietnam and Malaysia promote sustainable ASEAN digital economy ecosystem cooperation.",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnFwT01DZE1Ca2NrdEUxMVVqaFE1S3JadGJYaUJkTW5RU05pNnRHOXE1VnBWeS1faUJjZm1SY2o3ZW81U3pwM2FiYm90emkxTkFSOXUwanNjV1lCdldEdTJEUW9PZG9KLXNERlBiOTJnaDNsVjl1SjdBMW5JWE5pN3lCdzVvcVZyRXlYbk5NN0RHbGFaWk1HbTc5S1hfd0hu?oc=5",
-       "source": "Vietnam.vn",
-       "published": "2026-11-05T13:18:06+00:00",
-       "summary": "",
-       "tags": [],
-       "closes": null,
-       "countries": [
-        "MY",
-        "VN"
-       ]
       }
      ]
     }
@@ -1309,6 +1656,58 @@
      "name": "Telecom",
      "stories": [
       {
+       "title": "Ericsson eyes stronger cooperation with Vietnam in 5G and cybersecurity",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd1JaOHZJUTlRaFdoVk8tbVBiVGFyNkdQbTVzTk1iRVE2V0FHX1VScUFLb1pQYWtEM05LclctV0Rna0VtRFc3eGJLT1RMZnhKTmJzR0pLUjA1SjFNN3ZES3JPZy1RTUFGYlFQV01MT2prVmdxeFZDSTBRU0p4UHM3MnRXRXFmbmlER0FOTkRHMGMyUW5DSGxBRkp1bFRDWm16YXF1LXFSQm9qa3RnYmV5bHgzaE5pTXZxZ3k3TmtKYTBVV3BaNTBZSGtlMlI?oc=5",
+       "source": "VOV.VN",
+       "published": "2026-11-09T13:41:17+00:00",
+       "summary": "",
+       "tags": [
+        "Telecom"
+       ],
+       "countries": [
+        "VN"
+       ]
+      },
+      {
+       "title": "Vietnam, Sweden step up cooperation in telecom infrastructure, cybersecurity",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDAyQkZuMnpqUjBDR2RManBEQVJ5emg2OHVhejNCQTR1QkhxYndlejhuOWlSYi03ZERrcmtlcGxUVWRjc2Z3UEI2QjhxQVJYMWp4SUc4Q0x4Y2pIaGlHY184MzQ3VkxHYmZYM1VZVDNoZm9FVzh5LUc3NkNJNFg3MW1KRXFkMnJOeGpTeVE3N3lWM2pVSEJrVzFlYmpfbGFGRzdnU01sbEVoYkdzVVdBNDJhRWtCZw?oc=5",
+       "source": "Vietnam+ (VietnamPlus)",
+       "published": "2026-11-09T13:00:48+00:00",
+       "summary": "",
+       "tags": [
+        "Telecom"
+       ],
+       "countries": [
+        "VN"
+       ]
+      },
+      {
+       "title": "India Reviews Telecom Cybersecurity as AI-Powered Threats Rise",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdEo0ZWFCVi1KbkZjMl9vNlV0WDlEMENmcFY0QXlqYzR3d1loVzBqdVpaRjhFdGUyV1VsbnhPaUF3eFpOSHJRa3RJSHg5enEwZUR2c3VqRXRBZTFMb1VHTFJuQWh4VEV1NVM2LUctd2NfR1czeUE4RmNuX05xWkN6ZUFUcy1Cd3pjd1lzUXZsN3FZOWNpNk1IVDVXblp3ZldXdl85MmpYMHcyUQ?oc=5",
+       "source": "www.nationpathindia.com",
+       "published": "2026-11-09T07:48:07+00:00",
+       "summary": "",
+       "tags": [
+        "Telecom"
+       ],
+       "countries": [
+        "IN"
+       ]
+      },
+      {
+       "title": "Malaysia keeps cyber threat level at ‘moderate’, says situation under control",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2xhNnJnSjc0Q1JXMkdQSWRVQWpWN0MyazQtV29DZlhjc0NfWDVEVjZTVVBuemdzcWlTV0R2aDQ4TUhFTTRjSnhfTVhGQzcyN21kcTh0WjhwS2V0bjdCNHpjZnRoUU5nb0xNWmY2MG4weFRpcUpDNFpxY2xhelpBbUxFNFpIQkdSWnBvdmRPSERTdzhIYXY2Rm1KdkVRdHdlMzA4WDU5bGltNVVnQ0E?oc=5",
+       "source": "联合早报",
+       "published": "2026-11-09T03:38:14+00:00",
+       "summary": "",
+       "tags": [
+        "Telecom"
+       ],
+       "countries": [
+        "MY"
+       ]
+      },
+      {
        "title": "Malaysia urges stronger cybersecurity, child online safety",
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTzg3dmJfckhjZFhQdEFobzlMM01SQUtMWDgxdnpGVUpMSTJObm9QSDJ2a1RMbVhrM2VwbG9Gc3d5V0JlUUtJeXJGdmlBaG9WSXNDU0k5bVR6akZSVDlUODQ2SU9pOXY2TFAtc3pfZTZ2MGZfNGdibktlNXN1QnUtYUEtU2FGUkZ1eE8yM0VGZFJiTm1mZ2F0U1M2b1Rod0N0djJmazZSR2U?oc=5",
        "source": "The Malaysian Reserve",
@@ -1319,6 +1718,19 @@
        ],
        "countries": [
         "MY"
+       ]
+      },
+      {
+       "title": "CERT-In Issues Critical Warning on AI-Driven ‘Crafty Falcon’ Cyberattacks Targeting Indian Financial Firms",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHJBbTRsNjNnX01KQW5RMDhsd2JSMFFfUzBrVEZXX0FrYjB0emF4cEQzZFVlQ3MtaU9mV25ncmR5bWRPWnNoUkNtWkNGYkxZaUhGQkt2OW9pRDRReTZFNU13WGNtcGtPSzUxNkZHR2pKX2dWRURLQXMzMy1FMlBoZDFTSHY3MDI5ZERKSDBZN3dWeHMwVzF1a3ExSUE3bTJlOTdLUk82bUE1a2JPWVVVb0ZZQTI0ZlE?oc=5",
+       "source": "www.nationpathindia.com",
+       "published": "2026-11-08T12:29:08+00:00",
+       "summary": "",
+       "tags": [
+        "Telecom"
+       ],
+       "countries": [
+        "IN"
        ]
       },
       {
@@ -1346,32 +1758,6 @@
        "countries": [
         "JP"
        ]
-      },
-      {
-       "title": "Japan's government weighs mandatory blocking of cyberattack sites; telecom giants cautious, saying legal framework is a prerequisite",
-       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OMHdTaGhIYVBDYzY3eWlCa01sTkFEcW45MGUwdWs2VFR5WVp6QTFqVlNRVTFBbkF3QkNkMzctdDZFa2xZMVUzZXZYOElHWm54bk9DUjdLS1E0MllBZzNiaGJ1cDlrZ0E4cEU3MlZERDgyZlJqWFE?oc=5",
-       "source": "BigGo Finance",
-       "published": "2026-11-06T14:55:00+00:00",
-       "summary": "",
-       "tags": [
-        "Telecom"
-       ],
-       "countries": [
-        "JP"
-       ]
-      },
-      {
-       "title": "OpenAI, Google Roll Out Security-Focused AI Models in Quick Succession; South Korea's Naver, SK Telecom Target First Half of Next Year",
-       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xZVlMMUdNMHBna21sZ0M5LUdGT1RlSTlwWTBuNk1sRlBVZVRSRE56WF9SWmhPQ0R4NUxRR3RzWXMtdWdRMl9zcHR4S0d1T0N4NGpsRWVPNGFmaGNhTDVBaS14UVlqWTFyTnVQZ2JtSUtVaFcyOFE?oc=5",
-       "source": "BigGo Finance",
-       "published": "2026-11-06T09:26:00+00:00",
-       "summary": "",
-       "tags": [
-        "Telecom"
-       ],
-       "countries": [
-        "KR"
-       ]
       }
      ]
     },
@@ -1397,6 +1783,19 @@
      "name": "Government & Public Sector",
      "stories": [
       {
+       "title": "NSC Sec-Gen: Thailand faces daily cyber threats",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQODFQVGZrbDZ4QXUyQVpKYnBxSXZYdEFWNWdyd09velZMdXJSYXdKTkY1X0pDNjNXR01HcERwOVhaeWhxN1B2R1NYLVpkUTJHVTdRQV8wZjFTTUNWZmt5aFpDR1lfak9peVNZYVJPbEMtRzBQclhVMzRZRlFSYU1abENiVUM5TzA4ZVJya2ZEeUNZUUN0M2lJUUZiZzU2QVU?oc=5",
+       "source": "Bangkok Post",
+       "published": "2026-11-09T11:34:00+00:00",
+       "summary": "",
+       "tags": [
+        "Government & Public Sector"
+       ],
+       "countries": [
+        "TH"
+       ]
+      },
+      {
        "title": "Philippine tax agency investigates alleged data leak",
        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDF3c09WYklzbVVXRVRJZUM3bUJ5ZUs1MXZndUxuRUhwLWNGTWJVU1liakExbXdtbXVjYzE5dG9sSDdLekxuWlhiT0Z0V2pKVVFacWt6R3ByX1QzdFEyTkZqcEJJYk5nQVlETndyc2dFMjZLQXJXWVBRZU9DMi1PNWMtdnIyOWo2Ui1GY2l6cTNPa3N6cFZMNU5iRmxNeW04YTA4eHpXbFc2S0lz0gHCAUFVX3lxTFBfNmZzUVJlNkdiekVFamMtT0xWYTNld0RUN0ExUzV6QjdBNVVWTUNWNXl4eHk0YmtSeEJnWXU0LVJHMVp3S0F6Z0FHUXY5cWRUWG9WUVVVdW9hRi1KS1k2NVZUVE03NnBzM3ZYWlNheXM4YW53UmNPbTJja1RTV2tqVjl6UldRSmVOck52Q01McGNENzFOUTJzWXR0bGF3Mmpac256UkFieE9GSV9JTmlWTWVfbzQ2OGNkd0RCSWRyN3VR?oc=5",
        "source": "Gulf News",
@@ -1408,25 +1807,51 @@
        "countries": [
         "PH"
        ]
-      },
-      {
-       "title": "Singapore cyber agency urges stronger defences after fridge cyberattacks in Europe",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2xFeUZkZjRaQ1hsWkN0RHBVdVpIcTM2cDU0QTlOdGVVQi1KbkVsQVlPelpnY0JHQlc0MTFWYXE4RTViOThlcktDTXBSdEZEbTAyTDJrLTlFLWdxNktyYzlsZHEzREQ1TDhvWVFqUFBXb0g5WE1iMDVOWkRpWG5Da0lSakptVGcwNjhZOTZsZTMtNDZ4cDZrX0c3ZWRYNkRqVlIw?oc=5",
-       "source": "CNA",
-       "published": "2026-11-06T10:57:00+00:00",
-       "summary": "",
-       "tags": [
-        "Government & Public Sector"
-       ],
-       "countries": [
-        "SG"
-       ]
       }
      ]
     },
     {
      "name": "Energy & Critical Infrastructure",
      "stories": [
+      {
+       "title": "Singapore cybersecurity experts warn of hacking risks to critical infrastructure",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWlI3dzBtVDMwNWdZZmFOWFROSTFmUWU4OEdoVjJ5eVFsWU44bXREX0pEazEwSDQ4aUhSYjZpRGNVajFxRC1YYlJyVTUtV29DZ0p2aV9rZnBlN04xaEhGYVhueUhJSDI5ZjRUdmVJV0Nxd2J6OFBJV0F1bkdjXy1KSk14QlF6V3VBY0pPekJONEJzZzJqNUhlVHNDVFBiTVc5bHJjVE5NeERDX2tzdjJIUW5pcjloUTJmOVlQOQ?oc=5",
+       "source": "CNA",
+       "published": "2026-11-09T14:41:51+00:00",
+       "summary": "",
+       "tags": [
+        "Energy & Critical Infrastructure"
+       ],
+       "countries": [
+        "SG"
+       ]
+      },
+      {
+       "title": "India’s CERT-In issues AI Security Auditing guidelines targeting model poisoning, prompt injection, agentic AI threats",
+       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXJ4OXpxRmpMakVrMDhrdHk4REU3Ti1yQUZmZVMwbGFtaUFFcWFkemxxVDZEWVpYU2x1WENEQmxOcVp0MEhPS2RqUHZJaWFNSVJVMU5KTVUwNm1ZSUtZNE9UZnN4dXNCcWdRc0JNZFFFaGRvRDJLUWJRSER4eXRTY3hacFlkUVBrMzVOcHVDZFZMNzhhLXhKRktWWFlSbGttQU84NmtxWE5YbUs4UEJqdF9kYk9CYS1PYVRXcGw2dWlieENTM1ZJNVFkY0JiLU1BVC1SMXQzYm1VZk1UN2Zn?oc=5",
+       "source": "Industrial Cyber",
+       "published": "2026-11-09T08:46:36+00:00",
+       "summary": "",
+       "tags": [
+        "Energy & Critical Infrastructure"
+       ],
+       "countries": [
+        "IN"
+       ]
+      },
+      {
+       "title": "Bank of Thailand Tightens Cybersecurity Monitoring for Financial Sector",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZnk0ejhObC1qOFpaaTZLQVkwbGNUT1lnSm5JSWtwT1NGa1hVYTNfelo4N0lMVU1qcjFZY3RjWE8xSGZ1V29EYXZVem15Vy1sOUJxOERxcmlhOWlNNXlLWFRkRlZuQ3FJbmlIeTlWYmMxblFoenJyQXpEWjRhSzNlc3V2bTNMb3hEQWNYa1F5TkpBaHFqUEphTFN3N0s?oc=5",
+       "source": "OpenGov Asia",
+       "published": "2026-11-09T03:24:34+00:00",
+       "summary": "",
+       "tags": [
+        "Energy & Critical Infrastructure"
+       ],
+       "countries": [
+        "TH"
+       ]
+      },
       {
        "title": "Cyberattacks expose key Thai industries to growing economic risks",
        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcl9XMWoxWGRyb21obE1DVjB0alpmcHFlM1hzS0dFUlhMRi0yZWxvSC0xSDJQUkdvQy03OFFfcjhRQlVhLVUtWUNRckZTa3d0QmRWejdBQ1h6dG5CSDZ4emdhQXJKVGFSUUdsejVidkRvd0JTLUhudmctR3RqaXFRQjk2UDhJODRiYXNyblRkZDIzNkhLUVE?oc=5",
@@ -1451,19 +1876,6 @@
        ],
        "countries": [
         "MY"
-       ]
-      },
-      {
-       "title": "Japan forms elite ‘Top Gun’ team to counter hackers and bolster cybersecurity",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnBxbXZNdHRHMjQ1aFI5QmczUTl0N2FhZ0hFOW5tX1ZXSDBQdlZDc2pzekl1a3NYX0x4ZzkwUWtYR1VhQ3N5c1FsOFI3UFJuWkpBMWZCZm1hV0ZKTWhVeXR4a25GTUNBaDh3SU96OVFjSlZ3RHY4VTVMS3lwZmJhLVNOb0ZUdWZOck5Dam1BTl9mYjZRMlBUVzFYSjBRbFlXenM4aWRKaDJkZU5LVDdmcmtn?oc=5",
-       "source": "联合早报",
-       "published": "2026-11-08T05:49:19+00:00",
-       "summary": "",
-       "tags": [
-        "Energy & Critical Infrastructure"
-       ],
-       "countries": [
-        "JP"
        ]
       },
       {
@@ -1493,43 +1905,16 @@
        ]
       },
       {
-       "title": "Japan seeks early access to software vulnerabilities from US AI firms for cybersecurity",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSTVPdHhaMVJLTmQwVDh2WXh0V3k3MTR5X2pyMG94NHZTUXJFMlJQQ3h4LWhmbHhWUU1uazRoNzJaVkJRbzdSTTZHNWhoTVc3dEdCeWxDUVZLbVl4S3RSR24taDhaZkN1VHhGZmJzU0ZVdldENC1IWWx1bENpZXlUZkdjMUg5cGpWT2hXWVlHSmhwbUVo?oc=5",
-       "source": "Beinsure",
-       "published": "2026-11-07T12:47:21+00:00",
+       "title": "Asia Foundation-Sri Lanka Police launch national cybersecurity awareness campaign",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOTM3bU9VZlhweTZrTFNlREE1Wmo3djJwQnU5NFpzS3MwOVFWc3V6YnJFV2Y0NzlwQ3hGbXJrTUpYT3RPUHdYNVNKY3BFR1BaVVNzTWNOeXhib29KdGRDR0NXWk0wTFo2UDlFNHYtMF9qZUl1NUxSTjFOQjNKaXBTYS1hVlVsdExJZXVmYnNlcGhBZlBWODAwdVQtSTZiOV9xZjdtZ2NGckE2MTZ1TktjeGtDdTh6YVpGanVTZHM5VjE1c01IazdJSm0wTDFMTHM?oc=5",
+       "source": "Daily Mirror - Sri Lanka",
+       "published": "2026-11-07T09:28:17+00:00",
        "summary": "",
        "tags": [
         "Energy & Critical Infrastructure"
        ],
        "countries": [
-        "JP"
-       ]
-      },
-      {
-       "title": "Malaysia bank disruptions coincide with surge in cyberattacks, says expert",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXNEMDlxRG9lY2VuMDk0b0tHdFFRbmNXRmQ2UkhUMTdGUkJ3MVktejBQaDRyNEc4UGtMTnZ4eHFteXVRSTM5eUxhT0pWS2M0a3dwVlh3NTN1VjJhcUYzbEt6WGxxZzZSb2ZDSXpiOXhlekZ6cUF1a3dxMFEweVoyUUZZbnIxckZUSC1EckgtM3RSQ29NQk9wOEZNUV80ZnZRTG9pdWJSTlY4cUhsNk9fM3ZwcWZQMzVONEphR9IBvAFBVV95cUxPZXNEMDlxRG9lY2VuMDk0b0tHdFFRbmNXRmQ2UkhUMTdGUkJ3MVktejBQaDRyNEc4UGtMTnZ4eHFteXVRSTM5eUxhT0pWS2M0a3dwVlh3NTN1VjJhcUYzbEt6WGxxZzZSb2ZDSXpiOXhlekZ6cUF1a3dxMFEweVoyUUZZbnIxckZUSC1EckgtM3RSQ29NQk9wOEZNUV80ZnZRTG9pdWJSTlY4cUhsNk9fM3ZwcWZQMzVONEphRw?oc=5",
-       "source": "NST Online",
-       "published": "2026-11-07T08:24:51+00:00",
-       "summary": "",
-       "tags": [
-        "Energy & Critical Infrastructure"
-       ],
-       "countries": [
-        "MY"
-       ]
-      },
-      {
-       "title": "Singapore, Vietnam Advance Cyber Resilience and Critical Infrastructure Security",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcm9tLThnVFFoMWN6Wl82MHlpU3VRWVRCQzlyR1I4cmxsRHpPM3VJMGVyTHUxU1diZmFMcWx2WjFJNnhPUWpYa081S2c2ajN6UlhNQzRFcVExUEdVTjlkNkp4ZnczTnhkSVlLNW1VN0oxdnY5OTkzbEM4RUJPYWVHbjZlSy1vbVBUUklqY29wRlFKSmNvNW9Nb0FOZlpQdlRvbGdfeVVKMA?oc=5",
-       "source": "OpenGov Asia",
-       "published": "2026-11-06T18:12:00+00:00",
-       "summary": "",
-       "tags": [
-        "Energy & Critical Infrastructure"
-       ],
-       "countries": [
-        "SG",
-        "VN"
+        "LK"
        ]
       }
      ]
@@ -1538,9 +1923,87 @@
      "name": "Cloud & AI",
      "stories": [
       {
+       "title": "Indian Railways Adds 700 AI Cameras to Strengthen Security Amid Rising Passenger Rush",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXBUcUJacWxaa3dRcWF6UDI5bG4ycU1LLVdOYlViMnd0cGY3LTZnSUc2NEVZVG1NWmI4TXg4LVpwVXdZUmRVcDk4SEpQSE1qWVRvNk5mXzJxQ29XdXJKdlN6aHF3Zm9kR0g4VVVJbHFUbWQ0OU11RnNQcU1SZlpnZzFzNEtfZ0ZaZlprZlMteE1QU05haU1JMFhERUNGMWVmajhj?oc=5",
+       "source": "www.nationpathindia.com",
+       "published": "2026-11-09T19:18:15+00:00",
+       "summary": "",
+       "tags": [
+        "Cloud & AI"
+       ],
+       "countries": [
+        "IN"
+       ]
+      },
+      {
+       "title": "New Japan Cyber Regulation Changes Global Rulebook for Cyber Resilience",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQUM0OEtfM3lvVWRVNEVMZ0VKR3djd29XV2tIZURXQWJNS2FyLUpZWGUwbmo1X2o3a0pic2ZnbWtFV2tUOXNsdDZ2UFJ1TUtyLTd3SnVrUnItYlpKdjVMWjVRMFBqSmpJMGpTZjFJMk9kN2N2RFdnekJRaEpEakJXdnk3X0FLTVY3bk1qc0FQU3JqLWhHYkdONWZNRDVrWlRjU21sLXBlcXV6SmhVb25rQlF0MlB3eXpiMGdUTlJYeF92TVlWYkpZMTY3ZENBWV8xVWtCWmtn?oc=5",
+       "source": "Security Magazine",
+       "published": "2026-11-09T17:00:00+00:00",
+       "summary": "",
+       "tags": [
+        "Cloud & AI"
+       ],
+       "countries": [
+        "JP"
+       ]
+      },
+      {
+       "title": "BREAKING NEWS: Japan PM calls for int'l coordination on AI security in French confab",
+       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzUlJtRlNOaWUwMnVkUThxX2NKUDM3WVJxVDRpVGY4dC1KQWNISlU5SmQxTTlQczNoNnZsNHdobzRxa3kxb1lOZjRzMXdDcmgtS3ZKeHNlTDVrUQ?oc=5",
+       "source": "Japan Wire by Kyodo News",
+       "published": "2026-11-09T15:21:56+00:00",
+       "summary": "",
+       "tags": [
+        "Cloud & AI"
+       ],
+       "countries": [
+        "JP"
+       ]
+      },
+      {
+       "title": "India’s CERT-In issues AI Security Auditing guidelines targeting model poisoning, prompt injection, agentic AI threats",
+       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXJ4OXpxRmpMakVrMDhrdHk4REU3Ti1yQUZmZVMwbGFtaUFFcWFkemxxVDZEWVpYU2x1WENEQmxOcVp0MEhPS2RqUHZJaWFNSVJVMU5KTVUwNm1ZSUtZNE9UZnN4dXNCcWdRc0JNZFFFaGRvRDJLUWJRSER4eXRTY3hacFlkUVBrMzVOcHVDZFZMNzhhLXhKRktWWFlSbGttQU84NmtxWE5YbUs4UEJqdF9kYk9CYS1PYVRXcGw2dWlieENTM1ZJNVFkY0JiLU1BVC1SMXQzYm1VZk1UN2Zn?oc=5",
+       "source": "Industrial Cyber",
+       "published": "2026-11-09T08:46:36+00:00",
+       "summary": "",
+       "tags": [
+        "Cloud & AI"
+       ],
+       "countries": [
+        "IN"
+       ]
+      },
+      {
+       "title": "India Reviews Telecom Cybersecurity as AI-Powered Threats Rise",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdEo0ZWFCVi1KbkZjMl9vNlV0WDlEMENmcFY0QXlqYzR3d1loVzBqdVpaRjhFdGUyV1VsbnhPaUF3eFpOSHJRa3RJSHg5enEwZUR2c3VqRXRBZTFMb1VHTFJuQWh4VEV1NVM2LUctd2NfR1czeUE4RmNuX05xWkN6ZUFUcy1Cd3pjd1lzUXZsN3FZOWNpNk1IVDVXblp3ZldXdl85MmpYMHcyUQ?oc=5",
+       "source": "www.nationpathindia.com",
+       "published": "2026-11-09T07:48:07+00:00",
+       "summary": "",
+       "tags": [
+        "Cloud & AI"
+       ],
+       "countries": [
+        "IN"
+       ]
+      },
+      {
+       "title": "Japan government urges tighter security after series of personal data leaks amid AI misuse fears",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR1pkLUduLXFCcEM4MGJRbV9GcXQ1d3RaNjd5MVZsT3BKLWtuMng4b1JtOWt4WUVqYWREQ0o4dmVWaUs2VlJMaVp2a0lqYXc4QWNMMzJrMXU4RUp6LTJsXzJUdlNfNDFMVEd6a2t4Y2RYalJjUTdYQWc0X3h0bUlxRTJxbHFtOGZTVUNPeXNIRjBJbjRVVHhCMUo0ZFJxUXZLVjM1d1hjODh4Vi1sbXh0QVRRQVZ3Y0dvVnI4LTN2YU5wLUdRaVN2UVE4VWhBU2xlTVROZ1V6VXR5QQ?oc=5",
+       "source": "디지털투데이",
+       "published": "2026-11-09T02:20:45+00:00",
+       "summary": "",
+       "tags": [
+        "Cloud & AI"
+       ],
+       "countries": [
+        "JP"
+       ]
+      },
+      {
        "title": "Australian MSPs face rising demand for AI security advice",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPem1vX1BIYmE5bEJiT3UwV2pOQ2d0U1lGdzE2VHFXRUQ2ZXVFa3c5cEVHRC1jelZuaVVWcVpZVTI3NVFjeGs1dUtlcURWRUN3aVJLWWVWZDBhV25fTGVXQjNUS1FVQWdKckZka01VT2RMUHB2alFQcTU3QmRya1k1Z3g3Z2c5QkozY0JVc2Fzb2F4SlhsNTlV?oc=5",
-       "source": "SecurityBrief Australia",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1ZWQXRYb2hFRzBlNEpjQjc1em1EWFRkMzhBcUpSUGtuMVY2M3E4MGIzd2d1OVZpTnBzemM2RTFTLXFSbUZVMTRNYkk1WkVXTVBnNmJHWmM2cXppTnJkaWVlTDB1RWRtUnVMbkVJY2VQMUhfM2hRa3p2anVqMnVoUmtBMXV1SVI0enJvakNlMFhtN2E5?oc=5",
+       "source": "SecurityBrief Asia",
        "published": "2026-11-09T01:20:00+00:00",
        "summary": "",
        "tags": [
@@ -1562,87 +2025,6 @@
        "countries": [
         "ID"
        ]
-      },
-      {
-       "title": "Baffling Hackers… Japan and Indonesia Also Extend Offers to 'Moving K-Security Technology'",
-       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jU2w4ZVRkQzRveUNhM0tCVzBqdEJHNXVxcEYyeGVBQjNOenFDaFM0NHZzTy03MURBYktMM01aSjZsYWtZOE1yNkxoeFZ6ak96RllSakxtdVRPN1JfaE01aGRlWWxaYlZJQXl0MVln?oc=5",
-       "source": "머니투데이",
-       "published": "2026-11-07T21:00:00+00:00",
-       "summary": "",
-       "tags": [
-        "Cloud & AI"
-       ],
-       "countries": [
-        "ID",
-        "JP"
-       ]
-      },
-      {
-       "title": "India Flags AI-Assisted Campaign as South Korea Urges Exchange Security After Binance Hack",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UTF9Qazh6d1ZhUEY0YWptRUNfU01jTTVObWdsekdGRlczVVhxOEVxMjZRRmVlU28wQUdlWGh3NDQxTkcwSk4xLVhrM2t5cTItbWtHczVON3hzRW8?oc=5",
-       "source": "TOKENPOST",
-       "published": "2026-11-07T13:56:44+00:00",
-       "summary": "",
-       "tags": [
-        "Cloud & AI"
-       ],
-       "countries": [
-        "IN",
-        "KR"
-       ]
-      },
-      {
-       "title": "Drones, AI and troops in New Delhi: How India tests its security apparatus on protests",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRGhWWnQ0UDhCYWlPdk1VaERIOE5QeVJrQ3VXbTE5a3lNUWNoMGF3YlFpTk5ITHZ2SkI1TFJ3ZGdMUTA1ZnFQcS1PY2NGeXB5eXN3d3k1RkMzRVV1U2xqMGNBTDdzdHhaNU5UM2p4Y194VUxrTlgwSEFUal9hWkRLczliQklINFE5Y1ZsMkNOQVAwQjhzd3RYcWFlMXd2QWZTRWVaclhxbkJKTzN5bVhpZFBB?oc=5",
-       "source": "Defence24.com",
-       "published": "2026-11-07T13:00:01+00:00",
-       "summary": "",
-       "tags": [
-        "Cloud & AI"
-       ],
-       "countries": [
-        "IN"
-       ]
-      },
-      {
-       "title": "Japan seeks early access to software vulnerabilities from US AI firms for cybersecurity",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSTVPdHhaMVJLTmQwVDh2WXh0V3k3MTR5X2pyMG94NHZTUXJFMlJQQ3h4LWhmbHhWUU1uazRoNzJaVkJRbzdSTTZHNWhoTVc3dEdCeWxDUVZLbVl4S3RSR24taDhaZkN1VHhGZmJzU0ZVdldENC1IWWx1bENpZXlUZkdjMUg5cGpWT2hXWVlHSmhwbUVo?oc=5",
-       "source": "Beinsure",
-       "published": "2026-11-07T12:47:21+00:00",
-       "summary": "",
-       "tags": [
-        "Cloud & AI"
-       ],
-       "countries": [
-        "JP"
-       ]
-      },
-      {
-       "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjh4RlR5OEhwamF3RWMtbkdyYVBybXZPVUFmOE1VWWViN09LOHRVNDM1dUdadWZPZTRFQ2FmbzNCa0FSRVFNdXhqQ1Y0dExua1N0UFlvMFdRZGMwUGUydV84SHcySFVVVF9VZk1NSV9wZ3VDZDh5Z0c5ZFNPakMyNk5UbVBlaXprTC15dVhYS1k4OW5lX2VUWTNVaU5vMXVFMnIzUWVteFo?oc=5",
-       "source": "SecurityWeek",
-       "published": "2026-11-06T18:28:41+00:00",
-       "summary": "",
-       "tags": [
-        "Cloud & AI"
-       ],
-       "countries": [
-        "JP"
-       ]
-      },
-      {
-       "title": "Singapore, Vietnam Advance Cyber Resilience and Critical Infrastructure Security",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcm9tLThnVFFoMWN6Wl82MHlpU3VRWVRCQzlyR1I4cmxsRHpPM3VJMGVyTHUxU1diZmFMcWx2WjFJNnhPUWpYa081S2c2ajN6UlhNQzRFcVExUEdVTjlkNkp4ZnczTnhkSVlLNW1VN0oxdnY5OTkzbEM4RUJPYWVHbjZlSy1vbVBUUklqY29wRlFKSmNvNW9Nb0FOZlpQdlRvbGdfeVVKMA?oc=5",
-       "source": "OpenGov Asia",
-       "published": "2026-11-06T18:12:00+00:00",
-       "summary": "",
-       "tags": [
-        "Cloud & AI"
-       ],
-       "countries": [
-        "SG",
-        "VN"
-       ]
       }
      ]
     }
@@ -1653,6 +2035,32 @@
     {
      "name": "Watchlist",
      "stories": [
+      {
+       "title": "Elevating Cyber Security: PLDT Enterprise Leads Push for AI-Ready Workplaces in the Philippines and APAC",
+       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT3A4OTVIR0ktTUZ0QkVvTW9HWEo3Zk9vRkxwRm9XNktHc2o4TURQV21SR3d4QkR3WTBLNmoyNVd3SzBiSkJtbVpiNVVsZXlNX0ZDamRLakRGUWpmTWgyOWRYNXhqay1IeUx4cEVQOXVZNy16MWY1dUdSOHRZeDd6WVRsTDZ3djZkMHNhcmJ2RTJ1VDZhRnBkUjJnQkdsSHBMejRPcS1kVU9KVHpBeVdEaDF4N3R1QkNOLUdjQTg2SDBSZk5r?oc=5",
+       "source": "Wazzup.PH",
+       "published": "2026-11-09T07:12:33+00:00",
+       "summary": "",
+       "tags": [
+        "PLDT"
+       ],
+       "countries": [
+        "PH"
+       ]
+      },
+      {
+       "title": "Telstra users face 60-hour outage during Yornup upgrade",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUtSWHRwdmVkc2hwc0dBNXNlbFNneXVCN2ZGTHVubEN4TV9TM2VQV0JXNGI4RktlMmtjTE9hSjdiSEE1LUVIV1lWZ3RLUndHVE5QVHUyY0k3THpkcUd3OUZsWjFlTkt6MHNiTlZvVVAwSEhiOFNOazlDVUZMSTZsb1RyWl8tR1prN0VmMElQam9ST3I3Y18ySTEyOXFCYl80VXZhRk5HUWV6OWs?oc=5",
+       "source": "Manjimup Bridgetown Times",
+       "published": "2026-11-07T08:00:00+00:00",
+       "summary": "",
+       "tags": [
+        "Telstra"
+       ],
+       "countries": [
+        "AU"
+       ]
+      },
       {
        "title": "Viettel's VGC v1.0 security chip advances Vietnam's semiconductor ambitions",
        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkRBaUZrN3lGbzVwZm5nREtTc1h4Tll2WkdkcWo1NF9sQ0JMV0pSYVV0QkZWOTF3akZkMmxDUDFLQ1RSZGlTQnh3a2trZ1kwUTlyMWg3NUV2N3dBSV9qM1RxakJjVTB1YTVZbk51TVBINlA3OEs1QWpZQUpBR3RGaE9oY1J0Vk83R0RaNmRWRklqbExqX3ZkVGQycy1TQm9aaUVSNnZvSEdxaTB2ZEpfa2R0MA?oc=5",
@@ -1755,19 +2163,6 @@
        ],
        "countries": [
         "VN"
-       ]
-      },
-      {
-       "title": "What Does Telstra Group Limited (ASX:TLS), an S&P/ASX 50 Member, Make of Its Further $1 Billion Share Repurchase After the July Outage?",
-       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOajlLdkdFdFZYMlBsamhPbEtsblEtd3ZXYTNHaUh2NC1GZ0JfZFNhQ2RfOVNSSVBPR0hfenZpbGIzbERaM08xN1pXcDduUzZrM09ZR3BqY0NqNWpWekpTYXB0VmY4N25fNXJFN0N1QXJRY1pzeXBlV1NkRjh0MmlzamdMM1k4dTJvajhQQ3YxLW0xdEI5ZU1LbmV1SDFzMXQxT2V6QWszbEQwUEsycW1XNVRNRmY0OVJjM1JSQ19TcW1UaExtaUExUTRfdEhGOG1uRTR5ai15aXczX2NHckFzemhIS0E3bnptUm81MU5sMlVpeF82WDBBSw?oc=5",
-       "source": "Kalkine",
-       "published": "2026-11-04T03:02:00+00:00",
-       "summary": "",
-       "tags": [
-        "Telstra"
-       ],
-       "countries": [
-        "AU"
        ]
       },
       {
@@ -1876,7 +2271,7 @@
     {
      "name": "PLDT",
      "country": "PH",
-     "hits": 1
+     "hits": 2
     },
     {
      "name": "Viettel",
