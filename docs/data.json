@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T18:44:29+00:00",
+ "generated": "2026-11-18T04:41:47+00:00",
  "date": "2026-11-18",
  "weekday": "Wednesday",
  "week": 47,
@@ -16,20 +16,20 @@
  "kpis": [
   {
    "label": "Policy and regulatory updates",
-   "value": 114,
-   "delta": 16,
+   "value": 117,
+   "delta": 19,
    "note": "last 7 days"
   },
   {
    "label": "Actively exploited vulnerabilities",
-   "value": 8,
-   "delta": 0,
+   "value": 3,
+   "delta": -5,
    "note": "added to CISA KEV, 7 days"
   },
   {
    "label": "APAC threat stories",
-   "value": 67,
-   "delta": -10,
+   "value": 69,
+   "delta": -8,
    "note": "naming an APAC country, last 7 days"
   },
   {
@@ -53,28 +53,28 @@
    "delta": 0
   },
   {
+   "code": "AU",
+   "name": "Australia",
+   "score": 53,
+   "band": "Elevated",
+   "threat": 11,
+   "compliance": 18,
+   "industry": 25,
+   "customer": 5,
+   "total": 59,
+   "delta": 10
+  },
+  {
    "code": "IN",
    "name": "India",
-   "score": 53,
+   "score": 52,
    "band": "Elevated",
    "threat": 3,
    "compliance": 58,
-   "industry": 25,
+   "industry": 22,
    "customer": 0,
-   "total": 86,
-   "delta": -18
-  },
-  {
-   "code": "AU",
-   "name": "Australia",
-   "score": 48,
-   "band": "Active",
-   "threat": 10,
-   "compliance": 17,
-   "industry": 20,
-   "customer": 5,
-   "total": 52,
-   "delta": 5
+   "total": 83,
+   "delta": -19
   },
   {
    "code": "KR",
@@ -91,14 +91,14 @@
   {
    "code": "MY",
    "name": "Malaysia",
-   "score": 24,
-   "band": "Quiet",
+   "score": 25,
+   "band": "Active",
    "threat": 4,
-   "compliance": 7,
+   "compliance": 8,
    "industry": 6,
    "customer": 5,
-   "total": 22,
-   "delta": -3
+   "total": 23,
+   "delta": -2
   },
   {
    "code": "SG",
@@ -118,35 +118,47 @@
    "score": 14,
    "band": "Quiet",
    "threat": 3,
-   "compliance": 5,
+   "compliance": 6,
    "industry": 3,
    "customer": 2,
-   "total": 13,
+   "total": 14,
    "delta": -1
   },
   {
    "code": "PH",
    "name": "Philippines",
-   "score": 10,
+   "score": 9,
    "band": "Quiet",
    "threat": 0,
-   "compliance": 9,
+   "compliance": 8,
    "industry": 4,
    "customer": 1,
-   "total": 14,
-   "delta": -3
+   "total": 13,
+   "delta": -4
   },
   {
    "code": "TH",
    "name": "Thailand",
-   "score": 7,
+   "score": 8,
    "band": "Quiet",
    "threat": 2,
-   "compliance": 4,
+   "compliance": 5,
    "industry": 2,
    "customer": 0,
-   "total": 8,
-   "delta": -1
+   "total": 9,
+   "delta": 0
+  },
+  {
+   "code": "HK",
+   "name": "Hong Kong",
+   "score": 3,
+   "band": "Quiet",
+   "threat": 2,
+   "compliance": 0,
+   "industry": 0,
+   "customer": 0,
+   "total": 2,
+   "delta": 0
   },
   {
    "code": "ID",
@@ -159,18 +171,6 @@
    "customer": 0,
    "total": 6,
    "delta": -9
-  },
-  {
-   "code": "HK",
-   "name": "Hong Kong",
-   "score": 2,
-   "band": "Quiet",
-   "threat": 1,
-   "compliance": 0,
-   "industry": 0,
-   "customer": 0,
-   "total": 1,
-   "delta": -1
   },
   {
    "code": "LK",
@@ -187,13 +187,16 @@
  ],
  "top": [
   {
-   "title": "FBI Says North Korean Hackers Used Webcam Spying to Steal $400M in Crypto",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamZPMmhETm5fd2N3ZEtPN1ZOMm5VQUNDSV9UVUxPckYxSktXT1lNRV9PUVdLR0hIczBacXB6Zm44YUs3eUVKUzFOMXZOSDZZeHpocGZrTmFwYUsyMk9jMGQydDBSdmpVcDNVdERIbmVfMnhHd2FTUkxhUW01RjY4WWZFRDZ0WEx5Tzc3eGFZZGl5Y2FyUzV2eGRSdmFDeFAwY2NNMXR6TjlPdw?oc=5",
-   "source": "The Crypto Times",
-   "published": "2026-11-17T08:53:27+00:00",
+   "title": "South Korea's Mirae Asset Life Insurance Data Breach Widens to 10,418 Victims; Crypto Exchange Operator Streami Also Hit With 2,009",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jbFBkbWFXWUdpN0xCS0FMSHdUZV84aVNEOWN5amFJdXFDM2ttTUdfaUlodHVjQlBvVHFxdm1ESjNWMEQ5aXlCVlZLRVM3aXFSZGVCTlB6TkowQzNqbVFwNlI2WWtaak9rZnFXZGZBcktRTGlCLVE?oc=5",
+   "source": "finance.biggo.com",
+   "published": "2026-11-18T01:55:00+00:00",
    "summary": "",
    "extra": "",
-   "tags": [],
+   "tags": [
+    "Breach",
+    "APAC"
+   ],
    "countries": [
     "KR"
    ],
@@ -201,10 +204,10 @@
    "section": "APAC Watch"
   },
   {
-   "title": "Japan's Keio Corporation: Ransomware Attack to Cut Hotel Revenue by ¥1.8 Billion as Booking Suspension Drags On",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94SFgzR0hhSGtObDZvWDFjRUxYaTNjUDZjV1huZXNWRTVjN1lIUzlPdV9lRi0ya09xNTZ1ck5TcjIwd2VHNXJDTlFtWVYzcmtmQlFoS3k2TTE1dVhmYVo1RHpiLTNTdWpxTndvQUFhNUdnYzVEX0E?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-17T06:06:00+00:00",
+   "title": "Australia’s 72-Hour Ransomware Payment Reporting Rule",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3ptSjFiRGFvbXhCNlVXd0huRUVqRmFndzRocmVDRVF4RENUTmp0eU9OOVRtM1ZlT1ZodkR6RUVQTk55eS1ZWGRzbW9RbmNsNkVTOFg0dk1RM0R6blI5NkkxaW1nWTduaWpiOTRVZHdyakVDQnRPVHo3bDhEb1BEcXQyQ3BVYjRKd0twUlhMc3FsTXZk?oc=5",
+   "source": "JournalArta",
+   "published": "2026-11-18T00:11:32+00:00",
    "summary": "",
    "extra": "",
    "tags": [
@@ -212,7 +215,7 @@
     "APAC"
    ],
    "countries": [
-    "JP"
+    "AU"
    ],
    "lens": "threat",
    "section": "APAC Watch"
@@ -289,6 +292,18 @@
      "name": "Actively Exploited",
      "stories": [
       {
+       "title": "CVE-2026-115731: Perforce Puppet Enterprise",
+       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115731",
+       "source": "CISA KEV",
+       "published": "2026-11-17T00:00:00+00:00",
+       "summary": "Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
+       "extra": "US federal patch deadline 1 Dec",
+       "tags": [
+        "Exploited"
+       ],
+       "countries": []
+      },
+      {
        "title": "CVE-2026-114713: UnrealIRCd UnrealIRCd",
        "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114713",
        "source": "CISA KEV",
@@ -311,78 +326,6 @@
         "Exploited"
        ],
        "countries": []
-      },
-      {
-       "title": "CVE-2026-124194: Microsoft Office",
-       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194",
-       "source": "CISA KEV",
-       "published": "2026-11-10T00:00:00+00:00",
-       "summary": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
-       "extra": "US federal patch deadline 24 Nov",
-       "tags": [
-        "Exploited"
-       ],
-       "countries": []
-      },
-      {
-       "title": "CVE-2026-111793: Openwave Messaging Limited Webtop Media Transcoder",
-       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111793",
-       "source": "CISA KEV",
-       "published": "2026-11-10T00:00:00+00:00",
-       "summary": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
-       "extra": "US federal patch deadline 24 Nov",
-       "tags": [
-        "Exploited"
-       ],
-       "countries": []
-      },
-      {
-       "title": "CVE-2026-20320: Cisco BroadWorks",
-       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20320",
-       "source": "CISA KEV",
-       "published": "2026-11-10T00:00:00+00:00",
-       "summary": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
-       "extra": "US federal patch deadline 24 Nov",
-       "tags": [
-        "Exploited"
-       ],
-       "countries": []
-      },
-      {
-       "title": "CVE-2026-111560: Barracuda Networks Multiple Products",
-       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111560",
-       "source": "CISA KEV",
-       "published": "2026-11-10T00:00:00+00:00",
-       "summary": "Barracuda Networks Multiple Products OS Command Injection Vulnerability",
-       "extra": "US federal patch deadline 13 Nov",
-       "tags": [
-        "Exploited"
-       ],
-       "countries": []
-      },
-      {
-       "title": "CVE-2026-116606: Barracuda Networks Barracuda Email Security Gateway (ESG)",
-       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116606",
-       "source": "CISA KEV",
-       "published": "2026-11-10T00:00:00+00:00",
-       "summary": "Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
-       "extra": "US federal patch deadline 13 Nov",
-       "tags": [
-        "Exploited"
-       ],
-       "countries": []
-      },
-      {
-       "title": "CVE-2026-125350: Google Chromium",
-       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-125350",
-       "source": "CISA KEV",
-       "published": "2026-11-10T00:00:00+00:00",
-       "summary": "Google Chromium Use-After-Free Vulnerability",
-       "extra": "US federal patch deadline 24 Nov",
-       "tags": [
-        "Exploited"
-       ],
-       "countries": []
       }
      ]
     },
@@ -390,15 +333,263 @@
      "name": "Breaking Threats",
      "stories": [
       {
-       "title": "Uber says nearly 150,000 impacted by third-party breach",
-       "link": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
+       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+       "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+       "source": "Krebs on Security",
+       "published": "2026-11-18T02:52:04+00:00",
+       "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+       "link": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+       "source": "SecurityWeek",
+       "published": "2026-11-18T02:15:07+00:00",
+       "summary": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down, Defense Official Says appeared first on…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+       "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+       "source": "BleepingComputer",
+       "published": "2026-11-17T23:04:21+00:00",
+       "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+       "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+       "source": "Dark Reading",
+       "published": "2026-11-17T22:34:22+00:00",
+       "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+       "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+       "source": "BleepingComputer",
+       "published": "2026-11-17T21:27:17+00:00",
+       "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+       "extra": "",
+       "tags": [
+        "Exploited",
+        "Breach"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
+       "link": "https://therecord.media/optimizely-malicious-code-customer-sites",
        "source": "The Record",
-       "published": "2026-11-18T01:20:00+00:00",
-       "summary": "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
+       "published": "2026-11-17T21:20:00+00:00",
+       "summary": "Researchers said they found malicious JavaScript code on 178 different widely visited websites run through the Optimizely Web experimentation platform. The company confirmed the breach.",
+       "extra": "",
+       "tags": [
+        "Breach"
+       ],
+       "countries": []
+      },
+      {
+       "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+       "link": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+       "source": "Dark Reading",
+       "published": "2026-11-17T20:58:13+00:00",
+       "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+       "extra": "",
+       "tags": [
+        "AI",
+        "Phishing"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+       "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+       "source": "BleepingComputer",
+       "published": "2026-11-17T20:51:21+00:00",
+       "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+       "extra": "",
+       "tags": [
+        "Breach",
+        "APAC"
+       ],
+       "countries": [
+        "JP"
+       ]
+      },
+      {
+       "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+       "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+       "source": "The Hacker News",
+       "published": "2026-11-17T19:34:20+00:00",
+       "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+       "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+       "source": "BleepingComputer",
+       "published": "2026-11-17T19:24:07+00:00",
+       "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Kazakh ransomware hacking suspect extradited from Italy",
+       "link": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
+       "source": "The Record",
+       "published": "2026-11-17T19:09:00+00:00",
+       "summary": "The U.S. accused Roman Khlynovskiy of participating in ransomware attacks against healthcare organizations, schools and companies as part of the \"8 Digits Team\" connected with INC and Lynx.",
+       "extra": "",
+       "tags": [
+        "Ransomware"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Chinese state group developing automated attack tool for cyber espionage, Google says",
+       "link": "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage",
+       "source": "The Record",
+       "published": "2026-11-17T18:50:00+00:00",
+       "summary": "Google released its latest AI Threat Tracker report on Monday, writing that threat actors are rapidly evolving their use of artificial intelligence in attacks — now leaning more heavily on autonomous multi-agent offensive frameworks like…",
+       "extra": "",
+       "tags": [
+        "Nation-state",
+        "AI"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+       "link": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+       "source": "Dark Reading",
+       "published": "2026-11-17T18:38:37+00:00",
+       "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
        "extra": "",
        "tags": [
         "Breach",
         "AI"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+       "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+       "source": "BleepingComputer",
+       "published": "2026-11-17T18:21:24+00:00",
+       "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+       "extra": "",
+       "tags": [
+        "AI"
+       ],
+       "countries": []
+      },
+      {
+       "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+       "link": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+       "source": "SecurityWeek",
+       "published": "2026-11-17T18:16:17+00:00",
+       "summary": "Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions. The post AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says appeared first on SecurityWeek .",
+       "extra": "",
+       "tags": [
+        "AI"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Tor releases emergency update amid ongoing DDoS attack",
+       "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+       "source": "BleepingComputer",
+       "published": "2026-11-17T18:04:15+00:00",
+       "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "California fines Hertz $1.5 million for breaking state data privacy law",
+       "link": "https://therecord.media/california-fines-hertz-state-data-privacy-law",
+       "source": "The Record",
+       "published": "2026-11-17T17:13:00+00:00",
+       "summary": "Hertz agreed to the fine and said it would change its business practices, according to a court filing shared by the regulator, the California Privacy Protection Agency (CPPA).",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "NSA Net, agency’s classified internal network, faces unspecified disruptions",
+       "link": "https://therecord.media/nsa-net-disruptions",
+       "source": "The Record",
+       "published": "2026-11-17T16:21:00+00:00",
+       "summary": "The NSA has ordered staggered arrivals at its headquarters at Fort Meade, Maryland, as technicians work to fully restore the classified internal network NSA Net.",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+       "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+       "source": "BleepingComputer",
+       "published": "2026-11-17T16:00:00+00:00",
+       "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+       "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+       "source": "The Hacker News",
+       "published": "2026-11-17T15:17:36+00:00",
+       "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+       "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+       "source": "The Hacker News",
+       "published": "2026-11-17T15:17:28+00:00",
+       "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impersonates about 50…",
+       "extra": "",
+       "tags": [
+        "AI"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+       "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+       "source": "BleepingComputer",
+       "published": "2026-11-17T15:01:11+00:00",
+       "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
+       "extra": "",
+       "tags": [
+        "Phishing"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
+       "link": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
+       "source": "SecurityWeek",
+       "published": "2026-11-17T14:55:30+00:00",
+       "summary": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities. The post Market Research Giant Ipsos Investigating Breach of Internal System appeared first on SecurityWeek .",
+       "extra": "",
+       "tags": [
+        "Breach"
        ],
        "countries": []
       },
@@ -413,256 +604,11 @@
        "countries": []
       },
       {
-       "title": "Autistic teen hacker pleads guilty to leak of Grand Theft Auto VI footage",
-       "link": "https://therecord.media/autistic-teen-hacker-guilty-plea-britain-gta6-leak",
-       "source": "The Record",
-       "published": "2026-11-17T14:09:00+00:00",
-       "summary": "Now 21, Artion Kurtaj pleaded guilty to a 2022 spree that included leaking clips of Grand Theft Auto VI while it was still years away from release.",
-       "extra": "",
-       "tags": [
-        "Breach"
-       ],
-       "countries": []
-      },
-      {
        "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
        "link": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
        "source": "SecurityWeek",
        "published": "2026-11-17T14:00:00+00:00",
        "summary": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on SecurityWeek .",
-       "extra": "",
-       "tags": [
-        "AI"
-       ],
-       "countries": []
-      },
-      {
-       "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-       "link": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
-       "source": "SecurityWeek",
-       "published": "2026-11-17T13:24:43+00:00",
-       "summary": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files. The post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on SecurityWeek .",
-       "extra": "",
-       "tags": [],
-       "countries": []
-      },
-      {
-       "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
-       "link": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
-       "source": "Dark Reading",
-       "published": "2026-11-17T13:22:15+00:00",
-       "summary": "The emerging technology will soon break the \"lock and key\" encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
-       "extra": "",
-       "tags": [],
-       "countries": []
-      },
-      {
-       "title": "Access Dental Management Data Breach Impacts Over 340,000",
-       "link": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
-       "source": "SecurityWeek",
-       "published": "2026-11-17T12:59:04+00:00",
-       "summary": "Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek .",
-       "extra": "",
-       "tags": [
-        "Breach"
-       ],
-       "countries": []
-      },
-      {
-       "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
-       "link": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
-       "source": "SecurityWeek",
-       "published": "2026-11-17T12:51:54+00:00",
-       "summary": "Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion. The post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity appeared first on SecurityWeek .",
-       "extra": "",
-       "tags": [],
-       "countries": []
-      },
-      {
-       "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
-       "link": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
-       "source": "SecurityWeek",
-       "published": "2026-11-17T12:28:45+00:00",
-       "summary": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityWeek .",
-       "extra": "",
-       "tags": [
-        "Exploited",
-        "Zero-day"
-       ],
-       "countries": []
-      },
-      {
-       "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-       "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-       "source": "The Hacker News",
-       "published": "2026-11-17T12:25:06+00:00",
-       "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked…",
-       "extra": "",
-       "tags": [
-        "Supply chain"
-       ],
-       "countries": []
-      },
-      {
-       "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-       "link": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
-       "source": "The Hacker News",
-       "published": "2026-11-17T12:14:36+00:00",
-       "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Neither Apple nor the…",
-       "extra": "",
-       "tags": [],
-       "countries": []
-      },
-      {
-       "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
-       "link": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
-       "source": "SecurityWeek",
-       "published": "2026-11-17T12:00:00+00:00",
-       "summary": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack…",
-       "extra": "",
-       "tags": [
-        "AI"
-       ],
-       "countries": []
-      },
-      {
-       "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
-       "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
-       "source": "The Hacker News",
-       "published": "2026-11-17T11:20:18+00:00",
-       "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for…",
-       "extra": "",
-       "tags": [],
-       "countries": []
-      },
-      {
-       "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-       "source": "BleepingComputer",
-       "published": "2026-11-17T11:19:51+00:00",
-       "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
-       "extra": "",
-       "tags": [],
-       "countries": []
-      },
-      {
-       "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-       "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-       "source": "The Hacker News",
-       "published": "2026-11-17T11:07:31+00:00",
-       "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta 2…",
-       "extra": "",
-       "tags": [
-        "AI"
-       ],
-       "countries": []
-      },
-      {
-       "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
-       "link": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
-       "source": "SecurityWeek",
-       "published": "2026-11-17T10:22:20+00:00",
-       "summary": "Affected organizations include BBC, CNN, Zoom, GitLab, Salesforce, Equifax, HSBC, and IKEA. The post Optimizely Vulnerability Exploited to Serve Malware on Major Websites appeared first on SecurityWeek .",
-       "extra": "",
-       "tags": [
-        "Exploited"
-       ],
-       "countries": []
-      },
-      {
-       "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-       "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-       "source": "BleepingComputer",
-       "published": "2026-11-17T09:44:22+00:00",
-       "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
-       "extra": "",
-       "tags": [],
-       "countries": []
-      },
-      {
-       "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-       "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-       "source": "BleepingComputer",
-       "published": "2026-11-17T07:25:44+00:00",
-       "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
-       "extra": "",
-       "tags": [
-        "Ransomware"
-       ],
-       "countries": []
-      },
-      {
-       "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-       "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-       "source": "The Hacker News",
-       "published": "2026-11-17T07:12:13+00:00",
-       "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organizations…",
-       "extra": "",
-       "tags": [],
-       "countries": []
-      },
-      {
-       "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-       "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-       "source": "The Hacker News",
-       "published": "2026-11-17T06:29:27+00:00",
-       "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. The company…",
-       "extra": "",
-       "tags": [],
-       "countries": []
-      },
-      {
-       "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-       "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-       "source": "The Hacker News",
-       "published": "2026-11-17T05:00:34+00:00",
-       "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and…",
-       "extra": "",
-       "tags": [],
-       "countries": []
-      },
-      {
-       "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-       "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-       "source": "BleepingComputer",
-       "published": "2026-11-17T02:12:17+00:00",
-       "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal…",
-       "extra": "",
-       "tags": [
-        "Supply chain"
-       ],
-       "countries": []
-      },
-      {
-       "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-       "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-       "source": "BleepingComputer",
-       "published": "2026-11-16T22:54:00+00:00",
-       "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live…",
-       "extra": "",
-       "tags": [
-        "AI"
-       ],
-       "countries": []
-      },
-      {
-       "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
-       "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
-       "source": "Dark Reading",
-       "published": "2026-11-16T22:08:20+00:00",
-       "summary": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
-       "extra": "",
-       "tags": [
-        "AI"
-       ],
-       "countries": []
-      },
-      {
-       "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-       "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-       "source": "BleepingComputer",
-       "published": "2026-11-16T20:59:44+00:00",
-       "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated…",
        "extra": "",
        "tags": [
         "AI"
@@ -674,6 +620,64 @@
     {
      "name": "APAC Watch",
      "stories": [
+      {
+       "title": "South Korea's Mirae Asset Life Insurance Data Breach Widens to 10,418 Victims; Crypto Exchange Operator Streami Also Hit With 2,009",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jbFBkbWFXWUdpN0xCS0FMSHdUZV84aVNEOWN5amFJdXFDM2ttTUdfaUlodHVjQlBvVHFxdm1ESjNWMEQ5aXlCVlZLRVM3aXFSZGVCTlB6TkowQzNqbVFwNlI2WWtaak9rZnFXZGZBcktRTGlCLVE?oc=5",
+       "source": "finance.biggo.com",
+       "published": "2026-11-18T01:55:00+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [
+        "Breach",
+        "APAC"
+       ],
+       "countries": [
+        "KR"
+       ]
+      },
+      {
+       "title": "Australia’s 72-Hour Ransomware Payment Reporting Rule",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3ptSjFiRGFvbXhCNlVXd0huRUVqRmFndzRocmVDRVF4RENUTmp0eU9OOVRtM1ZlT1ZodkR6RUVQTk55eS1ZWGRzbW9RbmNsNkVTOFg0dk1RM0R6blI5NkkxaW1nWTduaWpiOTRVZHdyakVDQnRPVHo3bDhEb1BEcXQyQ3BVYjRKd0twUlhMc3FsTXZk?oc=5",
+       "source": "JournalArta",
+       "published": "2026-11-18T00:11:32+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [
+        "Ransomware",
+        "APAC"
+       ],
+       "countries": [
+        "AU"
+       ]
+      },
+      {
+       "title": "Delhi NBFC Loses ₹41.27 Crore In Cyberattack, Police Trace Suspected Links To Hong Kong",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmYtSHdYOHQxMUlyZDNSaWZFalFadWdJc1VPV0c1dk83bWtEX0RWRWhKLW1OZmlKUWdzMzNaTVZDUUhlTWR2WUQzRVhuZy1qZHpyQWtyTWJabERYV1FpTVRRdEl0ODhLNTkwT19sLTZlaHEzNWFQMXNldGVmMUhvVm12NXQ3aWxvUjktN1F2REgxOTBpQ3Y1VTdxLWtHMEtIdUlNX2w0b0kzbUw2R0ZOdlBjUQ?oc=5",
+       "source": "The 420.in",
+       "published": "2026-11-17T17:20:17+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [
+        "APAC"
+       ],
+       "countries": [
+        "HK"
+       ]
+      },
+      {
+       "title": "​Cyberattack on Japan’s Fugaku Supercomputer Puts Data of 4,597 Users at Risk",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGpQRjFDVjljWTJCTlBQWS1JM0pWMmpxeXFIbjBTT1VoVnhyYWt0UG9QcEdFc2R0ekNNN0lPMDBJYUljU0ZpX2I3aDU5U2xzOUhaT1V2VmR4V2lKbGxPd3diU0lZaWdBRUU0RmhEWFNZSF9TbzdkeWEwanFrNVZyOWZYX3RNRFRwbEhkTFQzNkJZZ0NyaVZLTQ?oc=5",
+       "source": "The 420.in",
+       "published": "2026-11-17T15:04:43+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [
+        "APAC"
+       ],
+       "countries": [
+        "JP"
+       ]
+      },
       {
        "title": "FBI Says North Korean Hackers Used Webcam Spying to Steal $400M in Crypto",
        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamZPMmhETm5fd2N3ZEtPN1ZOMm5VQUNDSV9UVUxPckYxSktXT1lNRV9PUVdLR0hIczBacXB6Zm44YUs3eUVKUzFOMXZOSDZZeHpocGZrTmFwYUsyMk9jMGQydDBSdmpVcDNVdERIbmVfMnhHd2FTUkxhUW01RjY4WWZFRDZ0WEx5Tzc3eGFZZGl5Y2FyUzV2eGRSdmFDeFAwY2NNMXR6TjlPdw?oc=5",
@@ -687,14 +691,13 @@
        ]
       },
       {
-       "title": "Japan's Keio Corporation: Ransomware Attack to Cut Hotel Revenue by ¥1.8 Billion as Booking Suspension Drags On",
+       "title": "Japan's Keio Railway: Cyberattack to Cut Hotel Revenue by ¥1.8 Billion as Booking Suspension Drags Into December",
        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94SFgzR0hhSGtObDZvWDFjRUxYaTNjUDZjV1huZXNWRTVjN1lIUzlPdV9lRi0ya09xNTZ1ck5TcjIwd2VHNXJDTlFtWVYzcmtmQlFoS3k2TTE1dVhmYVo1RHpiLTNTdWpxTndvQUFhNUdnYzVEX0E?oc=5",
        "source": "BigGo Finance",
        "published": "2026-11-17T06:06:00+00:00",
        "summary": "",
        "extra": "",
        "tags": [
-        "Ransomware",
         "APAC"
        ],
        "countries": [
@@ -715,110 +718,49 @@
        "countries": [
         "JP"
        ]
-      },
-      {
-       "title": "China-linked hackers use AI to hit 200 targets, including South Korea",
-       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oTzV3RkVGZzVCb2IxbTdUYmNTdkZ1OERuZHIzdkxiZllrRjdnNDRuN1NYUFZKbDBqcVMwdm80X3hRejduQVVKTWZndHBBaGNCZHo0QjZtM2VsZ1YxSEF2QkR4bWtjZzJ4Q1hzTlZhTERhWXRSMGw0Rmt30gGOAUFVX3lxTE1TaDFycE9GVWtvWW5OTThkcW0yN2dzdlkwVk9PcjdwNDN0aGRVTHBIZTZLQ0lmX0M0SjRMcjY1WWlSOVlIczZCelpySlRvM1dSSWM1MnlFdnBqWFlvclZrSS1jVzZtUEhaVkpCYmtrMnc5am5kYUhsUF84Y2RibG9kcnFIVDNHWnFiT1RuQlE?oc=5",
-       "source": "Chosunbiz",
-       "published": "2026-11-17T04:32:00+00:00",
-       "summary": "",
-       "extra": "",
-       "tags": [
-        "AI",
-        "APAC"
-       ],
-       "countries": [
-        "KR"
-       ]
-      },
-      {
-       "title": "In Japan, one of the most powerful supercomputers was subjected to a cyberattack",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzlHeVVIcGVWUFhaSmdjVXN6Q1lPNEtsYWJyQ21uM19xRzBXYXhXaDRSWTlKTzJXak9FMXAxWWtKSnM2UUo3QXZHel9NQ3h2OTFXZUZWeGg1ODhtb0hDRHhjT0pIeXFOQW1XdlNTTUpIU2ZlUFpqNTgwLUVSdVk1Wk15UDEwSm1rSjFSaF95NzhZMFo5RkNOQkhBZmlxWm9fY2hnSzI1cGNJRXVUWVBmOWNWWl8yem9HRUE?oc=5",
-       "source": "open.kg",
-       "published": "2026-11-17T04:10:18+00:00",
-       "summary": "",
-       "extra": "",
-       "tags": [
-        "APAC"
-       ],
-       "countries": [
-        "JP"
-       ]
-      },
-      {
-       "title": "Japan's Fugaku supercomputer hit by cyberattack",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPblgxOGJrMmZ4WmNNUWpaVGJrZkNfSnZkaWRTSFdVSXJoOXVzeHczS2ZJc0ZrVU94MlRKVXBaQVBya1FQMDY4cFQyWDUyM1N0ZFVMUFdESlN3WFFLa0ZkY19MX1dlSkVaVVViT2Y2a1dVeUk3andyaTRlaWhCdXBLcUhxdG1JODB6TlZONjVKVWk2MHlFei1kdnlqR2RXWHZXUS1fb3hrR1l2Tk9lQ2ZyRWp30gFaQVVfeXFMTXY3NmNSUWV6TGxfYTVNWUhpT3hoQ3lCWFA1UjJ1Q0pMVjlrQVFIVk9NcVJnX25JWWxJd0RuYXZXR0VYSjlfV29YUGhsRDQ2b1NlUGVWRm1ZN3NR?oc=5",
-       "source": "MLex",
-       "published": "2026-11-17T00:56:57+00:00",
-       "summary": "",
-       "extra": "",
-       "tags": [
-        "APAC"
-       ],
-       "countries": [
-        "JP"
-       ]
-      },
-      {
-       "title": "Australia logs 20 industrial ransomware incidents in Q3",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1RWRkxUTWMzNHRwSDJYME1TWlhXRHZkQ0RlUEJXNmdTRTF5dGNMYk54bG5WNEUwUFhlUlVSRWpoM1pvQU1pSWc0dXFiTFdNSEJNby1fVGZOX25CQkV2NU9ONHAzSEJRcWRoZ0oxQ0g1aVAxcklFUlhweTd4S0JMcm16YkdUTmRzdGRpbHp5YmZ0M2Fn?oc=5",
-       "source": "SecurityBrief Australia",
-       "published": "2026-11-16T23:15:00+00:00",
-       "summary": "",
-       "extra": "",
-       "tags": [
-        "Ransomware",
-        "APAC"
-       ],
-       "countries": [
-        "AU"
-       ]
-      },
-      {
-       "title": "Australian businesses pay ransomware demands more often",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM1pJTjd1cGlZNldmVG5BY0czU1JRanlLQU9US1hfNlRJSFdWYllNZ1diZ2NnWHYydWxzNUo4amxidGNYWk1iYWV2NkI0STQwOFlmeTZCdkZBekRkR0MxcGx2Y01JR0FRYXRuR3lxajZfTmw1SnVpcjV0TnZPQXdqRXRhZ0JneGJkeUxVd2lmWXNUQnNq?oc=5",
-       "source": "SecurityBrief Australia",
-       "published": "2026-11-16T21:00:00+00:00",
-       "summary": "",
-       "extra": "",
-       "tags": [
-        "Ransomware"
-       ],
-       "countries": [
-        "AU"
-       ]
-      },
-      {
-       "title": "BHIC Bofors Asia Ransomware Attack by INC Ransom",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXlCdzYxVlJSemwtRTFITjlFTjA1clAzdnl2ZWFVNGNMMko1TllnZVlsdnIyMU5wNGttZjU0eDRVbjdDd25GckdQc0tMdUppT3VVRklDQUV4cHdienI5bC1hamM5alljb0p5Z2hOaW15Y25DaTRGQ2hQNG5PbU1mMldxQjZzUTd1aTZUbzZZS1M2dlk1Q0p1Q3lvcVItcEZ2?oc=5",
-       "source": "SOCRadar",
-       "published": "2026-11-16T19:35:19+00:00",
-       "summary": "",
-       "extra": "",
-       "tags": [
-        "Ransomware"
-       ],
-       "countries": []
-      },
-      {
-       "title": "Yet another massive cyberattack hits Japan — city of Osaka latest to be hit, as more than a million email addresses exposed",
-       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZDhVMGtkRnNXMFdmY1dmd0tRcVRmNWJJZzNMbERqOUk4T1k3ZDNzbEt2dGFRek1nQzVZNGJKZ1hYaS1ZeXAtbnlUd2RfWFZMeDliUkI0VGI1M3k0ajVCVXpxU2VOWDFFTDhEU2hqV0pmN0laNTczaEVqajJjTG1qdWVjZ3BoWWozemxOVWROVmVESGxKSjE3MnZFc21aZ3QxSGZnSktSR1R2TEVLS09fVVYzTFphdVhXdVVXbnQ2MlJIekdUM3h5S19BdzcwZGpobC1QT1FidjZYdnVJWWdacjl5MER4andrNmJoWUlTNUhBUDU3?oc=5",
-       "source": "TechRadar",
-       "published": "2026-11-16T16:25:00+00:00",
-       "summary": "",
-       "extra": "",
-       "tags": [
-        "APAC"
-       ],
-       "countries": [
-        "JP"
-       ]
       }
      ]
     },
     {
      "name": "Threat Research",
      "stories": [
+      {
+       "title": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us",
+       "link": "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/",
+       "source": "Unit 42",
+       "published": "2026-11-17T20:43:14+00:00",
+       "summary": "The OPTIMJACK supply chain attack demonstrates how a compromised vendor script can expose websites, highlighting the need for strict segmentation. The post Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us appeared first on Unit…",
+       "extra": "",
+       "tags": [
+        "Supply chain"
+       ],
+       "countries": []
+      },
+      {
+       "title": "The risks of device code authentication for AI coding agents",
+       "link": "https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/",
+       "source": "Microsoft Threat Intelligence",
+       "published": "2026-11-17T15:00:00+00:00",
+       "summary": "Lab research shows how device code phishing, a technique that applies to any device-flow client, can extend to AI coding agents, using GitHub Copilot CLI as an illustrative example. The post The risks of device code authentication for AI…",
+       "extra": "",
+       "tags": [
+        "AI",
+        "Phishing"
+       ],
+       "countries": []
+      },
+      {
+       "title": "COLD RELIC: A Case Study in Impersonation and Compromise",
+       "link": "https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/",
+       "source": "Google Threat Intelligence",
+       "published": "2026-11-17T14:00:00+00:00",
+       "summary": "Written by: Josh Murchie, John Wolfram, Joseph Spero, Peter Ukhanov, Fernando Tomlinson, Jr., Wesley Shields Introduction Over the past year, Mandiant has responded to a series of linked intrusions demonstrating how Russian cyber espionage…",
+       "extra": "",
+       "tags": [
+        "Nation-state"
+       ],
+       "countries": []
+      },
       {
        "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
        "link": "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/",
@@ -954,38 +896,6 @@
        "extra": "",
        "tags": [],
        "countries": []
-      },
-      {
-       "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know",
-       "link": "https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/",
-       "source": "Unit 42",
-       "published": "2026-11-11T23:00:53+00:00",
-       "summary": "Learn what Unit 42 discovered about attacker use of AI-powered red team tools, and how to mitigate these attacks. The post ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know appeared first on Unit 42 .",
-       "extra": "",
-       "tags": [
-        "AI"
-       ],
-       "countries": []
-      },
-      {
-       "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
-       "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
-       "source": "Microsoft Threat Intelligence",
-       "published": "2026-11-11T19:49:57+00:00",
-       "summary": "Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity. The post The global socket: how…",
-       "extra": "",
-       "tags": [],
-       "countries": []
-      },
-      {
-       "title": "The XG Files: Falcon C2 Flying Under The (Browser) Radar",
-       "link": "https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/",
-       "source": "Unit 42",
-       "published": "2026-11-11T15:00:23+00:00",
-       "summary": "We uncover Falcon C2, a browser-based threat framework targeting governments via malicious scripts, extensions, and the Antino implant. The post The XG Files: Falcon C2 Flying Under The (Browser) Radar appeared first on Unit 42 .",
-       "extra": "",
-       "tags": [],
-       "countries": []
       }
      ]
     },
@@ -993,11 +903,143 @@
      "name": "Government Advisories",
      "stories": [
       {
-       "title": "Check Point Products Multiple Vulnerabilities",
-       "link": "https://www.hkcert.org/security-bulletin/check-point-products-multiple-vulnerabilities_20261117",
+       "title": "Google Chrome Multiple Vulnerabilities",
+       "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261118",
        "source": "HKCERT",
-       "published": "2026-11-17T03:00:00+00:00",
+       "published": "2026-11-18T03:00:00+00:00",
        "summary": "",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "GitLab Multiple Vulnerabilities",
+       "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20261118",
+       "source": "HKCERT",
+       "published": "2026-11-18T01:00:00+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Oracle Products Multiple Vulnerabilities",
+       "link": "https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20261118",
+       "source": "HKCERT",
+       "published": "2026-11-18T01:00:00+00:00",
+       "summary": "",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Siemens ROS#",
+       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+       "source": "CISA",
+       "published": "2026-11-17T12:00:00+00:00",
+       "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Dorsett Controls InfoScan",
+       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
+       "source": "CISA",
+       "published": "2026-11-17T12:00:00+00:00",
+       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Siemens Mendix Studio Pro",
+       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05",
+       "source": "CISA",
+       "published": "2026-11-17T12:00:00+00:00",
+       "summary": "View CSAF Summary Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or trick a user's browser into sending unauthorized requests…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
+       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
+       "source": "CISA",
+       "published": "2026-11-17T12:00:00+00:00",
+       "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Critical Java Vulnerability Requires Immediate Patching",
+       "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
+       "source": "CISA",
+       "published": "2026-11-17T12:00:00+00:00",
+       "summary": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938 . This critical memory-corruption vulnerability, known as “Java4Shell,” affects the Base64 decoder of the…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Siemens Industrial Software Products",
+       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
+       "source": "CISA",
+       "published": "2026-11-17T12:00:00+00:00",
+       "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Siemens Simcenter Femap",
+       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
+       "source": "CISA",
+       "published": "2026-11-17T12:00:00+00:00",
+       "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Siemens SIMATIC",
+       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08",
+       "source": "CISA",
+       "published": "2026-11-17T12:00:00+00:00",
+       "summary": "View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges of the victim…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "Siemens RUGGEDCOM APE1808",
+       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+       "source": "CISA",
+       "published": "2026-11-17T12:00:00+00:00",
+       "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the…",
+       "extra": "",
+       "tags": [],
+       "countries": []
+      },
+      {
+       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+       "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+       "source": "CISA",
+       "published": "2026-11-17T12:00:00+00:00",
+       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of…",
+       "extra": "",
+       "tags": [
+        "Exploited"
+       ],
+       "countries": []
+      },
+      {
+       "title": "Siemens meta-iot2050",
+       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
+       "source": "CISA",
+       "published": "2026-11-17T12:00:00+00:00",
+       "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to…",
        "extra": "",
        "tags": [],
        "countries": []
@@ -1008,26 +1050,6 @@
        "source": "ACSC Australia",
        "published": "2026-11-17T01:41:43+00:00",
        "summary": "Actions organisations can take to identify internet-exposed systems, address vulnerabilities and reduce cyber security risk.",
-       "extra": "",
-       "tags": [],
-       "countries": []
-      },
-      {
-       "title": "Microsoft Edge Multiple Vulnerabilities",
-       "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261116",
-       "source": "HKCERT",
-       "published": "2026-11-16T02:00:00+00:00",
-       "summary": "",
-       "extra": "",
-       "tags": [],
-       "countries": []
-      },
-      {
-       "title": "Apple tvOS Multiple Vulnerabilities",
-       "link": "https://www.hkcert.org/security-bulletin/apple-tvos-multiple-vulnerabilities_20261116",
-       "source": "HKCERT",
-       "published": "2026-11-16T01:00:00+00:00",
-       "summary": "",
        "extra": "",
        "tags": [],
        "countries": []
@@ -1103,22 +1125,6 @@
        ]
       },
       {
-       "title": "RBI fines MobiKwik Rs 9 lakh over non-compliance with wallet transfer limit, delayed fraud reporting",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObWFTdzJhSmE5bHAzODMzTk5peGYwMjJ5NE1VRWc1RUhXRlFyVU1QNGJKdmtyX05hVTRxUDNKZ3FFLUVwazZvdkVoSWw2emlJUjV6ZFlGZFJ0UnhTdF9MbmZnZGhubEFxX1pueFM2MFVEd1ZXYUN3c3FBdGNQRTFRUVdqNHh0Y2UxeklwX1FfUHc3UQ?oc=5",
-       "source": "MediaNama",
-       "published": "2026-11-16T07:03:34+00:00",
-       "summary": "",
-       "tags": [
-        "Finance",
-        "Scams & fraud",
-        "Enforcement"
-       ],
-       "closes": null,
-       "countries": [
-        "IN"
-       ]
-      },
-      {
        "title": "RBI Introduces Six-Hour Cyber Fraud Reporting Rule: How The New Guidelines Aim To Make Digital Payments Safer",
        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQk1TUzZXdTI5TWpDaWF6a0R5ZmhfVlZ4QkVxbl80MHp3R29BTThBWWxpYW50bFJNWUY5UjVENWo5RGVKWUdoODBrbG1WS3liYm91YnZqejctWU5aak5zUXlubXZBOW9vTmszNHBqdFItV2E5Q09VcF9iUC05SVVJTy0zejF5OHYtWlFYVTFCRnhDRWFGUk5aMmpadURwU3lleFpmcWVNR1hkZnVha09SeWdGSWNheHYwekgwWTJ1ZjFHU01BN1dPUC05b0FfYTRYaENRQk5R?oc=5",
        "source": "PUNE PULSE",
@@ -1177,6 +1183,22 @@
        ]
       },
       {
+       "title": "RBI Fines MobiKwik ₹9.00 Lakh Over Transfers and Fraud Reporting",
+       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTEwLWxTbnp0c09sblZiaFlaV3VnVzRJOG5kYzVZTzVPN3owXzMyR2JKdDBObkJERWRTc2wzZ2dvYVYzLUhTV19XZW8yVFV2RjdMNkxDMTR2Q2F1OW5fdDZpQi10ZGVQeHhscUNuVFBhanFaQ0JKQjgxajlZdm8yNA?oc=5",
+       "source": "Fincrime Central",
+       "published": "2026-11-15T15:22:54+00:00",
+       "summary": "",
+       "tags": [
+        "Finance",
+        "Scams & fraud",
+        "Enforcement"
+       ],
+       "closes": null,
+       "countries": [
+        "IN"
+       ]
+      },
+      {
        "title": "​RBI Mandates Six-Hour Reporting of Cyber Incidents for Non-Banking Payment Firms",
        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWlRSOEZreTI2RHgxbC1IVm12QlFocXVSOGMwN2I2Ql9Eb2hfU1dJVnBaRjRrLTEzZ1FrMEMwcnFTNWNlMlY1YnJNTWxCM05fc2FIa2F3LWtpYTl3TmxsbkpiZnJlcDduY3gxRkpfOFdQUVpIOVUtWjh1VmJ6ZjJteEpveHlvbVI1MXYwR3pDT2tVX1hQQjJpejd5M2U5MU45?oc=5",
        "source": "The 420.in",
@@ -1211,13 +1233,13 @@
      "name": "Malaysia",
      "stories": [
       {
-       "title": "Malaysia mulls mandatory WhatsApp identity checks to curb scams",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUd3U21DTFZxVUhybzJncTdGaF96bi1XX0RPTDF1SnYtdVh3VkxMLTg3RDFOQXRDWWdSb1owOHlBU2EyMV9ZdVJoUVBzclZ4R2thbVdXdEh1VnpjZjNQZkd0eFdIUWdSN3dTd0JtSHp3d0g4SGs5N1NBMVN5YjYyTWZEMWg2aFpXQzdNaWgzNlZQVWJrRG1oQlVhNkVoSmNDbHM4OEVSWjhldXd2Z21GbXU4a2JTZWNIaV9oaUJ5WdIBvwFBVV95cUxQNXR4dTlEZm95NmhvRS1lWkJocjR2RjVURmM2WFJQZHhqNy05RnZRYzVDV0t4WHp1N3FiVTdCX3g0b3l0VGJqTlZib1c2SHBlR0hFSm9lQmU3M3BqQkJjcFdXWWlzcEkxa0s0c094TXFTZWhrUGVHNFVXd0RZMldnSmJxX1FGNU0tYVNaRWZPYUtTeld5SmxvZHVxd1NzaU91bkdJbUFvMEV5bHhqdDZuenNERHluZDdlWUNXcTZVMA?oc=5",
-       "source": "South China Morning Post",
-       "published": "2026-11-16T01:02:27+00:00",
+       "title": "MCMC seeks details from Anthropic over alleged AI use in political manipulation targeting M’sia, Parliament told",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUXBnd3FBSU1EeVBIUDd5Snh3SndXZGFreVhFNnVsLVVhX2pvam9HMFk3NkY3bTdOWFhlOFoySTVBa1JKcldQYkN1dHQ2dDVRMmtaWGt2MU9ZbXAwQjlWM3daZENxM19ESFFabjJiaEt4VUtuWjl6UkxOcTFKM21hOG9SWDlycWpjcE5YR3JfR09qTFl6d1ZiMkVRR3pDa2o0UEpUU2VSZkxQRGRlVWxUMkxaNEw2QlZMZzRHNFFKTFhBMzFXSlBpeVI3c2dZZEdiWDdrd3JfT0ZLb3d1SlA2NlRLZGxJSFVNMEcydDNuaE5oUQ?oc=5",
+       "source": "The Star",
+       "published": "2026-11-18T00:50:00+00:00",
        "summary": "",
        "tags": [
-        "Scams & fraud"
+        "AI"
        ],
        "closes": null,
        "countries": [
@@ -1228,11 +1250,25 @@
        "title": "Anwar says AI Governance Bill to complement cybersecurity, data laws",
        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDhYV0Z5LUxnTm5LUENIUnhjUExYX1E3M1NqY2VLY196VGJ4OHlwc1VVZVQzUFBTdmxRcmxBYnM3N0NWeE9IdjVCUGxJSjJhUENEaHB5WS0teUhib2hXcUFKSE5Va2dtY3NfeHNUVjVBWTQ0R0syZ09DcWJzZmlWZFZpTW1jcy00YTJIUXdVVnFqUER6VUdvYW9aNDAtODVpVnk1SlVtR0ZiR211OUJJZXZxazlvZ9IBuwFBVV95cUxPQ1B5WklsSVZiV1FtbTFFN3BxVzh2a1BqOVU0Ukg1cWxoWDYzbHdmcC1oaUVrZU52UFFScW8zeUszT3VZMHVhbWZ6dUFKVWNJZl9raVNnZ3V5VmVnUlBYM3dUVVVSdjJrZ2lLaldWNjNlWGxHWkNIdDF1S2xSQkNiNnNRNmxUV05OVDNMNzd6bVFGZXFCeVpaeUJWRURSS0FPQVFiYmZkTGROclNwRTM2WmwzNTN0QkE1d2pN?oc=5",
        "source": "NST Online",
-       "published": "2026-11-15T07:25:46+00:00",
+       "published": "2026-11-17T09:57:23+00:00",
        "summary": "",
        "tags": [
         "New law",
         "AI"
+       ],
+       "closes": null,
+       "countries": [
+        "MY"
+       ]
+      },
+      {
+       "title": "Malaysia mulls mandatory WhatsApp identity checks to curb scams",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUd3U21DTFZxVUhybzJncTdGaF96bi1XX0RPTDF1SnYtdVh3VkxMLTg3RDFOQXRDWWdSb1owOHlBU2EyMV9ZdVJoUVBzclZ4R2thbVdXdEh1VnpjZjNQZkd0eFdIUWdSN3dTd0JtSHp3d0g4SGs5N1NBMVN5YjYyTWZEMWg2aFpXQzdNaWgzNlZQVWJrRG1oQlVhNkVoSmNDbHM4OEVSWjhldXd2Z21GbXU4a2JTZWNIaV9oaUJ5WdIBvwFBVV95cUxQNXR4dTlEZm95NmhvRS1lWkJocjR2RjVURmM2WFJQZHhqNy05RnZRYzVDV0t4WHp1N3FiVTdCX3g0b3l0VGJqTlZib1c2SHBlR0hFSm9lQmU3M3BqQkJjcFdXWWlzcEkxa0s0c094TXFTZWhrUGVHNFVXd0RZMldnSmJxX1FGNU0tYVNaRWZPYUtTeld5SmxvZHVxd1NzaU91bkdJbUFvMEV5bHhqdDZuenNERHluZDdlWUNXcTZVMA?oc=5",
+       "source": "South China Morning Post",
+       "published": "2026-11-16T01:02:27+00:00",
+       "summary": "",
+       "tags": [
+        "Scams & fraud"
        ],
        "closes": null,
        "countries": [
@@ -1270,6 +1306,20 @@
     {
      "name": "Singapore",
      "stories": [
+      {
+       "title": "Simba Telecom Won’t Fight Singapore’s Spectrum Notice",
+       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXhMQ3JLNzBmWUdrNm16SDktT05SODVpVi12OHlZNHZZQ25jMUhBdk9hd1J0c09rMTVHOGdPUHY5M25odkNKbXpPVmg2Z1N2ZDhkWDEteEpqYmRmdkFIWmZ3WnNlMkMyRW9EVjZjTF9UWlJNTVZhak9lRDRydHRXdE5PUWRXdEE?oc=5",
+       "source": "Finimize",
+       "published": "2026-11-17T12:00:39+00:00",
+       "summary": "",
+       "tags": [
+        "Telecom"
+       ],
+       "closes": null,
+       "countries": [
+        "SG"
+       ]
+      },
       {
        "title": "Databricks Partners with EDB and IMDA to Support Singapore’s National AI Strategy",
        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOanZuR0Q1MEVrUnR6Z0RWVHV1dWhfVXRVVlhHT1A4UEE5Y0FQU3lHd0dsNk1mbWZTVV80S2JDT1BWb0ZGVENIRmFmSzN2MkZsMHRET1o0MVk1UGcyZVVITFJMTmsyN1pPZXA0c2hVZlJZOEtUb2Nya3BFQlR2S2tZbXQ3RVk1YjNyMlV4dVYwN0FLSTdwVTU4dGt2TWQxMHpvbnFfWQ?oc=5",
@@ -1315,32 +1365,6 @@
        ]
       },
       {
-       "title": "Simba Telecom Won’t Fight Singapore’s Spectrum Notice",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXhMQ3JLNzBmWUdrNm16SDktT05SODVpVi12OHlZNHZZQ25jMUhBdk9hd1J0c09rMTVHOGdPUHY5M25odkNKbXpPVmg2Z1N2ZDhkWDEteEpqYmRmdkFIWmZ3WnNlMkMyRW9EVjZjTF9UWlJNTVZhak9lRDRydHRXdE5PUWRXdEE?oc=5",
-       "source": "Finimize",
-       "published": "2026-11-17T01:00:39+00:00",
-       "summary": "",
-       "tags": [
-        "Telecom"
-       ],
-       "closes": null,
-       "countries": [
-        "SG"
-       ]
-      },
-      {
-       "title": "Singapore Digital Infrastructure Act: 3MW and 10MW Scope",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVzlGRGVvZGdzMFVMQ09INWlHeW1scFNyNzhHZXJVOTRPWDFJczJGLXNFMVBfRHRsR1gtZVBjQ1dQYnFXa3V0R3czVzVYZzBGQm5wMEc3TGpIT0lWR0t6NGZIdi1RdWRVYTVPUWJLUUNNckxpcHlhRFUzN3V5ZHQ4b2Zxa0hZTFF3czRid056WXNwVW9adV9sX2pfQkNMaU9Wcmc?oc=5",
-       "source": "JournalArta",
-       "published": "2026-11-16T16:39:29+00:00",
-       "summary": "",
-       "tags": [],
-       "closes": null,
-       "countries": [
-        "SG"
-       ]
-      },
-      {
        "title": "Singapore has suspended a telco licence in the past – will Simba be next?",
        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjVlanpka1NwMmQySHBBczg1UlNEZ0taREVEWGhLWmtVdTB5Vy1ZTk8tN29JUFd6S2xVOURtOHZ5T1lEc0tKQnpJM2hpZlcyU0JSc3RGanpDSER2dURSZU9sd05CTTk5V3hMSV94ZUtwREx4QkpvMHNUb2szbmw5YmlYeU9jYnFaeXJ2bUlvb1ZxbGl0N0xDblJENFhxa3gxb0ZfU2xmazQ4LUVQ?oc=5",
        "source": "The Straits Times",
@@ -1374,10 +1398,10 @@
      "name": "Indonesia",
      "stories": [
       {
-       "title": "Indonesia turns governance groundwork into law to unlock data sharing across government",
-       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZW53dEc1c0JwOF9LVnZPSThZRjFsRWRkLWlDM3l0ay1ZTXM2eU8ySjZmMjJfQ1R2OHMtdVM0cVFVbjBaN2g1TDNKZlNOZDQ1Q0RheVZBektlMUg0RnlWdndOSF8xaVRyRkNxcmJ4N25veG1xM0s3emdEYmQ1QUZ0YThMT25XRmN5OERPUWV5R0FabmNvQ0h1bVNEa1lLUzRDTzFOeXpiTW9tSlZKU054eENDbWQwdjAwWFhRcnlaMm55NldMd2YxU2hjRHE?oc=5",
-       "source": "GovInsider",
-       "published": "2026-11-17T11:16:01+00:00",
+       "title": "As Cyber Threats Grow More Complex, Managed SOC Becomes a Core Security Strategy for Indonesian Companies",
+       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYmswV2hoR0pWX3lWQXNQNXBZQ3RxWXQtRU0xQUpnNmxqUzhFODJTZmxWbmVSdElJYjBSa0lLdURjdWpxTjFCTnNYRWJyaHVzdWdoUFhwcmpPZUNtX1Z5WXlOTHpJakZBb1ljWGNqa0NSSENXbkhGc2w2UV9BZDBySjlUcWJnWWYzb1h0LTczS2hHdXRxVkJjMlVhT1dxXzRGM3kzVkFFa3BfR19XaERRRmF5ZFA5QXkxanlnZkVpOHNvYlQ5TWNaakJYaG5GWXV5blByX3VvWlExMWRQNlg1dG9kdEJDQQ?oc=5",
+       "source": "EIN Presswire",
+       "published": "2026-11-17T06:23:00+00:00",
        "summary": "",
        "tags": [],
        "closes": null,
@@ -1386,10 +1410,10 @@
        ]
       },
       {
-       "title": "As Cyber Threats Grow More Complex, Managed SOC Becomes a Core Security Strategy for Indonesian Companies",
-       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYmswV2hoR0pWX3lWQXNQNXBZQ3RxWXQtRU0xQUpnNmxqUzhFODJTZmxWbmVSdElJYjBSa0lLdURjdWpxTjFCTnNYRWJyaHVzdWdoUFhwcmpPZUNtX1Z5WXlOTHpJakZBb1ljWGNqa0NSSENXbkhGc2w2UV9BZDBySjlUcWJnWWYzb1h0LTczS2hHdXRxVkJjMlVhT1dxXzRGM3kzVkFFa3BfR19XaERRRmF5ZFA5QXkxanlnZkVpOHNvYlQ5TWNaakJYaG5GWXV5blByX3VvWlExMWRQNlg1dG9kdEJDQQ?oc=5",
-       "source": "EIN Presswire",
-       "published": "2026-11-17T06:23:00+00:00",
+       "title": "Indonesia turns governance groundwork into law to unlock data sharing across government",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZW53dEc1c0JwOF9LVnZPSThZRjFsRWRkLWlDM3l0ay1ZTXM2eU8ySjZmMjJfQ1R2OHMtdVM0cVFVbjBaN2g1TDNKZlNOZDQ1Q0RheVZBektlMUg0RnlWdndOSF8xaVRyRkNxcmJ4N25veG1xM0s3emdEYmQ1QUZ0YThMT25XRmN5OERPUWV5R0FabmNvQ0h1bVNEa1lLUzRDTzFOeXpiTW9tSlZKU054eENDbWQwdjAwWFhRcnlaMm55NldMd2YxU2hjRHE?oc=5",
+       "source": "GovInsider",
+       "published": "2026-11-17T01:07:52+00:00",
        "summary": "",
        "tags": [],
        "closes": null,
@@ -1431,10 +1455,10 @@
      "name": "Thailand",
      "stories": [
       {
-       "title": "Thailand orders tighter aviation cybersecurity after data breaches across Asia",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWUwMFBfdE5hZ19fcndqUUs0S0Z1clZBMkNkbnRfbUM3VlhVYWJDMEJZQ0VuOEk0LU1RYTlXQ1lmSUlEeFQwNk5FMVZsU1BYT1NrSzdIeHJKa3ZvNUs2RzBScHpXRVdWUEJBY2QzVEtoTlBmVHVlZnBtT3FOeFQwelhNRTF0dEVkWTNZZUhQMWtpSllWcDFRamY3WmdIaVRKQmZ0R1hiOUNRQ2oySFlKNG5LZFdudW1oNzBpZDlR?oc=5",
-       "source": "The Straits Times",
-       "published": "2026-11-11T02:40:00+00:00",
+       "title": "Thailand orders tighter aviation cyber security after data breaches across Asia",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3Y3UEJJTXJlVlBldU9ySi1jdnloTDBGMnN6dzJ0VWg1azIxQ19FMHVYcG9aN2NNUzJsYU9aaEFkZDZsVFBCZG8yLUlYbjdpaGZNRUo3aEN6UEl6WUJfVzdHRGF5VDJ0WnVzdElKV3JyRVZ0QmFJR3U2WEo3Z3FCTlJiV0liaFhTYUZSaGdoVEVnSV9WU3Y2NFpNNGNEYjdPVmJEUzhxWThkOXpQb1dtdmc4Q2UxU0ZSSEFfNG5LS3c3MGxSYkxMQlhFM0hfZVZHOTNBQUVVSUhvQQ?oc=5",
+       "source": "The Star",
+       "published": "2026-11-11T04:46:00+00:00",
        "summary": "",
        "tags": [
         "Data protection"
@@ -1448,24 +1472,23 @@
     },
     {
      "name": "Philippines",
-     "stories": [
-      {
-       "title": "LOOK: Signing ceremony of the ASEAN Digital Economy Framework Agreement during the #ASEAN2026 Summit. Screengrab via ASEAN Philippines 2026/Facebook Watch the livestream: bit.ly/ASEAN2026Nov14",
-       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdE9xRjdURlRWd3loTHF3TDZKRlFJTnhWSlJWQVF4OTBPUUxFNzk1RmRhNG5Mcmc2Q0w4eDN6RFVOd1JXVGtNVktkLXFfMmxQa2JCMklGZHJyZFpCX1lwNE91RlMyQjhod1dYLVVtc3hOd1lGYlIyWkFjTXM4a3p1dXBfSVJlNmdHZFpWU2pKYmcyTWhLT0JEWm9OX1N3bTZibDF4YnhQTEZnYVhtZHd5TmtJNFJ5LU53THJPaXB0eGM0dmVrT21DVkFfQ2hEZFhDYUxJ?oc=5",
-       "source": "Facebook",
-       "published": "2026-11-14T07:28:57+00:00",
-       "summary": "",
-       "tags": [],
-       "closes": null,
-       "countries": [
-        "PH"
-       ]
-      }
-     ]
+     "stories": []
     },
     {
      "name": "Vietnam",
      "stories": [
+      {
+       "title": "Vietnam PM proposes stronger cybersecurity cooperation at East Asia Summit",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOWRyMVAzdjVFQ3FwWlhnbzNpMHpFb3paVzdZcXdzVTFhc1Fwa1ZrRnY0aW5paFFZWC1ESDVaQlNfeXR6MFVpYlZHWUhSaDBrQkhtWS1RVnoyN3M2MVFya0IyUG53S3lSX3FkWmNPUmgtSDdOdTN5NVZRVTZqRFdabWdRZDV1MXhvaXF3RHlYd25qUjZOUEwyb1JqcUFQWjZCMWVHajBTdkkxMjNJaTZIandn?oc=5",
+       "source": "Báo VietNamNet",
+       "published": "2026-11-17T16:17:00+00:00",
+       "summary": "",
+       "tags": [],
+       "closes": null,
+       "countries": [
+        "VN"
+       ]
+      },
       {
        "title": "Per Narvinger discusses 5G and cybersecurity cooperation in Vietnam",
        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVRJeXJpemdWV2QtWjNrYzl5OVo4UGQtTUc2NkVqVUkzRUxnUEt6cnhqdE04M2ZkcnZPYjZhM2JGMVFER2FKcmh1MnJhelVtOExNYzh4Sk9DYi1ObXJjZzB6TVdlRzhRc3I0OXRIeEZ6VkJHZWpzSjBReWpBR09BekhndXlrSDdKQ2lTTTNCeDQxVEtU?oc=5",
@@ -1516,25 +1539,11 @@
       },
       {
        "title": "Australian minister says Microsoft doesn't believe they are 'dealing with a cyber attack'",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONTBqTDRyNzROTE9WX2xhNk5Ta2hpaFRsQlg5RVNwbmwyWmlUM25TcU94Slk3RkxPQ1dBR2JMOS1jeGtVVEVpSDVoR3Q5aEtTbGszeWZxOUFZVl9qUmdkeGRXbk5ueFBRaGFQTUJBcnZQU3VuUGVYRXdHcEJ1VlBqQ192R1ZPVGNZdUNkMDZ2WlRjSnZlUDBzUkQ0bENUcnIwMTczcmJmbUZLSUY4eU9USlhmYjh2ck9OOXVMaktESHo?oc=5",
-       "source": "WEAU",
-       "published": "2026-11-13T07:52:00+00:00",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYkdOMF9QdXB2dnZtcWh1OUxvQzY1bXhqbzdkX0hjRkxWaVg4VzVjLVBKaC1tTGhTZ19IUWdXbFlLbjMtMG1HOG5WWG5VdDU3eHEwa1VoOEJoeXRwZld1M0RGN2dFQ3U4Q1FpZ2ZGSWJ0U1E5Y2xWdXFfdk81VTJXVkRKUGRRUWh2RHItOXdiZVZkVml1Skt0bHkxR0tqSzhERHdUSWFPcjYxbGdCNnJzcV9XU2JnWUZsQ3dqSmh3bw?oc=5",
+       "source": "KGNS",
+       "published": "2026-11-13T04:26:17+00:00",
        "summary": "",
        "tags": [],
-       "closes": null,
-       "countries": [
-        "AU"
-       ]
-      },
-      {
-       "title": "eSafety rejects warning of internet bill chilling free speech",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcWtRNGRoZ0VpYWtMdzdhRjN6dDd2ZU1OdHRxTF9Qc1Rjb0hRTlpOd2FSRk9rWURzTld2VEh1ZV9rUkZuV3NUeGljMkJaYWtkTGlCSi1fcmxnS1FpdFRhcHlaRUhFWmRWZ0RDRF9JbEtmSTFBNFRUNGViREYyNkcxTnpESUhtZGVkMUdBNU56bjdRcTZDLTFYcVF3T3Y4aFRR?oc=5",
-       "source": "iTnews",
-       "published": "2026-11-10T18:45:00+00:00",
-       "summary": "",
-       "tags": [
-        "New law"
-       ],
        "closes": null,
        "countries": [
         "AU"
@@ -1592,6 +1601,20 @@
        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOTNiSlJRZHM3eF9BUkItUU5PSUpyTDNGcmJoX3dSR0taYXBFYlZyQnRFYVBZelJnUXpPaldjY2xORTRoYXpqN1RGY3puX0xYVW5VbnAtZWRKTXlvclZTcHJZRV9zYk5yM1JEbi1lQkh2STdZXzJVSGRKNjdjNVdPTDRDLVU0S0F6ZWF4Z3MydlR6V3BORFd5QWcweDlvanZZYy1adnIxTDMtMDlJX1JrYTZwVGxBRGxpdGRsak1XemV0Q0JMRUdYUXRVTlpsYnhqbTNiaG9B0gHbAUFVX3lxTFA1Z0RvNkNzZlI0REhtOFBmVmZzR2tUQ3VCSHMyV3RqcnY2cHNzWlRtaHVUdjBTR2xiY2pnZTdBN3RHMHp1d1FyT01pN0tmM3ZKR0Q4VmhJMU0yVDJGdGl0ODA1ZkhGekFoTDREc1NFR1dOazVubU94NWoweHJiWk02UzBCZUk3S01VMFp3RmVQZ05iTEkybURtSTRFVmY2OFFhTGQyVnZRN0M2UHFlZmFOdmRqRkgtMEs1ak5ySkhOWEM2a2tGR1NycHhyMWxMS251MFZPbDB5VTdWZw?oc=5",
        "source": "India Today",
        "published": "2026-11-16T09:40:22+00:00",
+       "summary": "",
+       "tags": [
+        "Data protection"
+       ],
+       "closes": null,
+       "countries": [
+        "IN"
+       ]
+      },
+      {
+       "title": "India’s Data Protection Law Faces Supreme Court Constitutional Challenge",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWgtaS1zSWNlaExIQ05LTHBwX1BCSEs3M1VEcUZhSHM2SEt3bkRHX1ZBbDNKSjdTalJnbUV2TjFrN1BJdE9RY2lkREhqc3BZSk9aWVItbGUteWxZQWxXNDRsSF9PSThIbkhVb1daT2R2Q3dWb3R2UEJZVHR1ZUZuTnhtODhEMldscEl4TFdlTndqa1RveXhiVG0zR3VpOHhLR0E?oc=5",
+       "source": "Elets eGov",
+       "published": "2026-11-16T07:25:00+00:00",
        "summary": "",
        "tags": [
         "Data protection"
@@ -1700,6 +1723,21 @@
        ]
       },
       {
+       "title": "India Data Protection Board Has No Appointed Members as Consent-Manager Rule Takes Effect Friday",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVp1SWZUWTczMXR0Zlk5cnVxcjZOcFlsTF8wUVlKQ05WVjJqRUQ3TWtuc2ljUl9RNXFrdVFPMThOWm5aUXVxUXN5M3gxZWE2ODNOa0tmUW5aSDFsVi1EXzF5SjdpNGdoQ1JRX0pXYWFjT1VaSHd1dWp4SXAtcTQzOE1qVE9TcEcyRG9QUC1DYl9SY1NabktiY2Q0QVFUeXV1TUtkYUsteExXaWQ1aDJmRFpnOHU0anJzWlF5bFRET08zS2taeElHSVpsd2piMV9lTVZlS3MxR3RDbFItaExWNlVn?oc=5",
+       "source": "Tech Times",
+       "published": "2026-11-13T05:10:31+00:00",
+       "summary": "",
+       "tags": [
+        "New law",
+        "Data protection"
+       ],
+       "closes": null,
+       "countries": [
+        "IN"
+       ]
+      },
+      {
        "title": "Ransomware Without Data Theft Can Still Trigger Mandatory Breach Reporting Under India’s DPDP Law: K7 CyberSecurity",
        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNREI1LTBiV0tGNVFBOHlBUjhtbVBHUDhoaHBGMk9uanliZ1c2d1ZaaHp1dFV0LXhxN0FfeXJPblF1c0ZhX2pQT19faUlUSzZ6ZEhKY2dYNXB5MnNIS3lLUmRJeVVxR0Rjc2FPZHU0SkRsS2hzTzY0TzU3ZzFobVExOXNKdjlubFZLTGhfQTlJRXJlRzIzbVhZY1VReTNkU3gwUk9kaHlxVDVWc2lMX1ZoRlo0X0JxTmFFNlpaRm5uZ1ZPRDVvb044TnFqQWtJYjRTUGYtZmJtMmZNbnRlRm12VEtTaw?oc=5",
        "source": "CXOToday.com",
@@ -1736,7 +1774,7 @@
        "title": "Marcos cites digital economy agreement as ASEAN 2026’s biggest achievement",
        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOckM0dXp2bEctYjh6R0JtX3R5YU5XelFORjFRbFV1U2lSdXZSVFpIQ2ZqWXZIZWdsOXJ2Z1JJTmZmRzNrcGNUSzB0bFNWMXVjVEg3MWVPTTBMQ25BbWx0YkNjQzd3b1pPNWg2MjdUQm9Cekh6MVJoWW42LUJybHhjOXNubl9MTVAtM2tKOFN4bC1QTDZnRTFXcWFHV1pnT0xPazQ1U3F1cHBJVnluWU4yaXg3VEN4S3ZtQkJ1ekxBM3E3dFBSQm5B?oc=5",
        "source": "ABS-CBN",
-       "published": "2026-11-17T16:40:58+00:00",
+       "published": "2026-11-18T00:08:06+00:00",
        "summary": "",
        "tags": [],
        "closes": null,
@@ -1747,6 +1785,18 @@
        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVhnS3cxUkxuY2NrNlktSDhSUlRCellWSnFDcW01MENWU0NBXy1McmVmWGhQOWdJdlVMRnc3T3pITGFmRVFvbzdrTGI0aGhldUFIeVd6OHlmbFpwcTd0ekl6WG1nMVZwaHVhQmszMEVxd0tFZ2l0WTZUbGV3QzVILTk3b2Zad1hxZHc?oc=5",
        "source": "Philippine News Agency",
        "published": "2026-11-17T14:16:22+00:00",
+       "summary": "",
+       "tags": [
+        "Scams & fraud"
+       ],
+       "closes": null,
+       "countries": []
+      },
+      {
+       "title": "PBBM to Asia-Pacific powers: Act as one vs. online scams, transnational crimes",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTF8wWUo0Q2J2UHpkbjZueU5MbFRPRnVXY3FYNlpLYlJJV1JDTXdJMF9aR29KUW9tWWp5di0wZnBOWXgzUF9vTi1oX0VSSkRFYkFidnBna0R1OTctbkJWaXBYeDdLYXV2M3pUN1RNS2luRzdWelFHQVIxSGw0ZmZyVV80NDVNRXh6QU14Qm9YWlNKVXlrSmpQS1BUNEtoVG1hcGZOY0paTUNrdw?oc=5",
+       "source": "Philippine News Agency",
+       "published": "2026-11-17T09:40:33+00:00",
        "summary": "",
        "tags": [
         "Scams & fraud"
@@ -1777,20 +1827,6 @@
        "countries": [
         "IN",
         "MY"
-       ]
-      },
-      {
-       "title": "East Asia Summit Leaders’ Statement on Strengthening Cooperation Against Online Scams and Related Offenses",
-       "link": "https://asean.org/east-asia-summit-leaders-statement-on-strengthening-cooperation-against-online-scams-and-related-offenses/",
-       "source": "ASEAN Secretariat",
-       "published": "2026-11-17T08:24:00+00:00",
-       "summary": "WE, the participating countries of the East Asia Summit (EAS), met on 17 November 2026 in Manila, the Philippines, under the Philippines’ 2026 ASEAN Chairship on the occasion of the 21st East Asia Summit; REAFFIRMING the purposes and…",
-       "tags": [
-        "Scams & fraud"
-       ],
-       "closes": null,
-       "countries": [
-        "PH"
        ]
       },
       {
@@ -1924,19 +1960,6 @@
        ]
       },
       {
-       "title": "Japanese Government Expresses \"Deep Regret\" Over Repeated NTT Docomo 5G Standalone Service Outages",
-       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12bDJjY3ZWb1c5ZWZhQWlYaXo0TWhKOGxrQkVzS2VSYXlZM0x2UVlBWkVyRVJGRUZmUjVNYTJSNnNZUlRFOU5NV0VRWkZzMGh6Q0VxbjJ1TlE5ZEliVldRQXNR?oc=5",
-       "source": "재경일보",
-       "published": "2026-11-17T10:00:05+00:00",
-       "summary": "",
-       "tags": [
-        "Telecom"
-       ],
-       "countries": [
-        "JP"
-       ]
-      },
-      {
        "title": "Simba does not contest spectrum and licensing breaches in Singapore",
        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjM1dXkyVWUzbE94M3o3Q0V2QTlFWjRhRi1HazNCZmpIQTUzRTItSlB2RHBZSlRkV21GRlNpVzMwMmdTcDdDSEtFMExnLVNsak9yN2Y1QV9NWnNFS0RWX1c0UksxS09KaGt0UUR2MzZRVDRtRHpRX3dHVzc4WWIwY2k3dms5Mkp3Q2FWaEx3Qk5wbDJCZFhjaVl5ejV6Ujgzd2x3MHE1YWQxSVlRRGNJ?oc=5",
        "source": "Telecompaper",
@@ -1989,19 +2012,6 @@
        ]
       },
       {
-       "title": "Yet another massive cyberattack hits Japan — city of Osaka latest to be hit, as more than a million email addresses exposed",
-       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbVpmUUJFUVYxWTh1LW1OcVM2dXdPXzNuYzdrSEdYU2JEQ3VkVVBXNWxhdUpJa0gxeXU1Vnk2ZEdEc3puMWVLcU1uNVptOGRpaURfTFdDOTJJU2FUc0x3VG9fN2tEWWFrX3h0SWdlUGluNHp2QnU4MUFPbUt0bm1nZWJyd3dOa0pmVm9tWWdSRVl1QklqZjZITktPV1QtTU00U3Z4V2FVTEloVkc1X3ZDMUU1X1h5VVlGZG1GY3U3czdSZVM0elBSaEQ1THhqdU53VU5EQ1pWSC1sM3Zmb0FWejlPZHl3Z0tQMjBMalprRU8?oc=5",
-       "source": "TechRadar",
-       "published": "2026-11-16T16:25:00+00:00",
-       "summary": "",
-       "tags": [
-        "Telecom"
-       ],
-       "countries": [
-        "JP"
-       ]
-      },
-      {
        "title": "Japan: New nationwide outage on NTT Docomo's 5G network",
        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdVEtZVFXbHZHSDJLZjZNQkgxa2F3YzExN2tMZzBZRU5QeDdQOENWb0pXTU1obFJqeW5ETHdwM0E5YWFRanJzWUI2a1Zwb1lSS2RNem1BbFpVaXhxbkV2X2plZFJQVnN6ODZSODAtNjVIaTJwbWxiaURKbTJwNXhpYWZVUjRVdDNaTDVHWEtOV2pBT05ZeXl6S2NXUlY5R3hHMVE?oc=5",
        "source": "Agenzia Nova",
@@ -2019,6 +2029,17 @@
     {
      "name": "Financial Services",
      "stories": [
+      {
+       "title": "Asia Pacific Had the Most Detected Fraud Networks Across Six Regions",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wbmdIWmcwQUpwLTZGQ0pDTmpUZDFhT0xSOFR3NUJNanM2SDRUUGNya2YyaFFlV3JPV0JsekM4SmZmTzlXblFHdTY1WmxsOXExVmR6UU5vQVlteUFfVVFIUTdlcmZoMmtFRjl4VldTOXh3VlJ0UWc?oc=5",
+       "source": "Fintech Singapore",
+       "published": "2026-11-18T03:28:19+00:00",
+       "summary": "",
+       "tags": [
+        "Financial Services"
+       ],
+       "countries": []
+      },
       {
        "title": "Bank Indonesia Says QRIS Tops 20 Billion Transactions as Fraud Risks Mount",
        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQndlOGNFWTdoREQzODJaWlBSRGRpSGVMWng5QXVjbm51dm1ZdmRDRDBndk03Y0t1Y0lNRGRGVTBFU0pjcjRITVQtTDRBUnctVnptMHktUzZnMEtFZHc5Y09hS0lmRVUyZ1lFUHY1MHdSSkIwRmZCejF2N0Uta3UxaWlVZ0ZmdmJPU2dOLXlzUEVUVUtTb3NHN3EwSkxFQ2tQd1VGaHQzMW5YQzQ?oc=5",
@@ -2049,16 +2070,56 @@
     },
     {
      "name": "Government & Public Sector",
-     "stories": []
+     "stories": [
+      {
+       "title": "Australia Warns China Iron Ore Push Could Breach Trade Rules",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm1uVkdRajZyYm1PUm9EX1lLVm82a3JUcDhxajFfcVIxdDJDdExxMW9PZjJEVURmMll2QzhHTWwxUy1pXzk1U0V2bG8xUmVRXzh2Z1VTZVU5bklJM2VQS3d6eW43TzVaenNLR0t3V0hGVEhvU1VIOWVJeWhxajJBNGtta0pXRDJheHJIYjhNZ2VZNXIteGw5SjZBRDBqUEx5TEJPbkJYS3MyQUxielJWZg?oc=5",
+       "source": "Bloomberg.com",
+       "published": "2026-11-15T23:35:37+00:00",
+       "summary": "",
+       "tags": [
+        "Government & Public Sector"
+       ],
+       "countries": [
+        "AU"
+       ]
+      }
+     ]
     },
     {
      "name": "Energy & Critical Infrastructure",
      "stories": [
       {
+       "title": "ASEAN-Japan Summit focuses on energy, defense, cybersecurity, people-to-people exchanges",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPME5RSUxUam1FdmdRU25vVFRLQU9aWVZINkZjdm1zemQ2X01leXdZdlJRYjZfMnpzMDZad1gzNWhyendvVlJLOVBuUXVzVW8ya1ZkZjZxSmh4RFFhbUNzbWhjZWkxWGF3VHRiQjlrUmJ4WVVCdzloeUJZb2pUNHhkbVh6VjI4WE92UDhrejJkX0VpLUR3TV9NLXVWS3pBR29hbFNIVlN0RHQ?oc=5",
+       "source": "ptvnews.ph",
+       "published": "2026-11-18T03:04:09+00:00",
+       "summary": "",
+       "tags": [
+        "Energy & Critical Infrastructure"
+       ],
+       "countries": [
+        "JP"
+       ]
+      },
+      {
+       "title": "Australia’s 72-Hour Ransomware Payment Reporting Rule",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3ptSjFiRGFvbXhCNlVXd0huRUVqRmFndzRocmVDRVF4RENUTmp0eU9OOVRtM1ZlT1ZodkR6RUVQTk55eS1ZWGRzbW9RbmNsNkVTOFg0dk1RM0R6blI5NkkxaW1nWTduaWpiOTRVZHdyakVDQnRPVHo3bDhEb1BEcXQyQ3BVYjRKd0twUlhMc3FsTXZk?oc=5",
+       "source": "JournalArta",
+       "published": "2026-11-18T00:11:32+00:00",
+       "summary": "",
+       "tags": [
+        "Energy & Critical Infrastructure"
+       ],
+       "countries": [
+        "AU"
+       ]
+      },
+      {
        "title": "India, ASEAN announce maritime, cybersecurity and space initiatives during PM Modi’s Manila visit",
-       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVklyUGM3QlRURG1UeGNfRmNBVXhsR1lsRnFsSlNUZnM4ZE03cXdfS00zUlJDZW5janNPRGg5azliTW1IdnZwOU52LUpwUU5icndiQ0tjZmRySnVJVGdnWHBVV05zb19DaGhaalMwTUc3Q2tyMGs1amRzeFF0MXBwWGdGeHE1QmU1UFZHTWFfX0dmOGxYZ1Q4WjN6d19DbzZ5OUZKSWRqaHVnU2ZwQy1NRVNpNGhESHBsLU1MVzExZnM2V0E?oc=5",
-       "source": "DD India",
-       "published": "2026-11-17T16:43:32+00:00",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmtKNTNBSVE4c01jQWVxcGU0NVhBOWdWR1JxMkUzT0hNeVpUTS1qV291SmVuZ0sxYTN4SGpfNWhKUGNPNl9jX1pqYjQtQTZWbmVqVzh4NzJhZzdlWnpjSXY4eTE5enRFNnA2WmlPMzliYkRmN1hjallDR0FEVHJtbWlHc3FYbkFvVm1PM20xRENuVmdfSG54TG1CaHdabWxxeFF6VjJFckM4V0hIbm9jUkhmcU1jQ3VydHJ5eQ?oc=5",
+       "source": "DD News",
+       "published": "2026-11-17T16:42:40+00:00",
        "summary": "",
        "tags": [
         "Energy & Critical Infrastructure"
@@ -2132,38 +2193,94 @@
        "countries": [
         "AU"
        ]
-      },
-      {
-       "title": "Google to give Japan early access to frontier AI for cybersecurity",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbFBvdHItRk5iZHpLbTlPRWtTbjZ5djRUaGo2Y2xtcTAwalBqQW1sSmtCY1F4UXlQWnF4cWNrVk96d3pST3FodFFLeGwxcmFwSGtsRVlPN0loMmZHaWhYMFY4cFBqYUYtQWNqTUItSko5TzFteFVVNW0zVnpSNHA1R1FpWk1zNU1PNzhTR1ZYTFE1YXFROXJEaG5mNjlPS2tHVkxGblFmT2I2TmdlNzRsZTRMT0s?oc=5",
-       "source": "scanx.trade",
-       "published": "2026-11-16T22:06:09+00:00",
-       "summary": "",
-       "tags": [
-        "Energy & Critical Infrastructure"
-       ],
-       "countries": [
-        "JP"
-       ]
-      },
-      {
-       "title": "Google AI Cybersecurity Japan Expands Access to Frontier Models",
-       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IbGxNXzVFS2RYVThnLWp5X2VmMmVnbktOZnVyanRCb1JyYjY0eUhMbU4zNUJVNzRQeng0cUtfQk92M3Ixa290alJxRTlCYkQ4TnhzWUtBZ2c4Q0JpZV91bGlteW9teU5tbWlldkx5SmQxWW9LSlI4?oc=5",
-       "source": "The Cryptonomist",
-       "published": "2026-11-16T21:38:30+00:00",
-       "summary": "",
-       "tags": [
-        "Energy & Critical Infrastructure"
-       ],
-       "countries": [
-        "JP"
-       ]
       }
      ]
     },
     {
      "name": "Cloud & AI",
      "stories": [
+      {
+       "title": "eufy launches TrackLight Cam S1 and Video Doorbell S4 in Australia with AI-powered security",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzhFdTdNcVJZekE0TEJMc0U0LXg2eExyWHZuYWRucV9UNWktQVlKTnI0c3FZZmNKOFp0REhhN0lWaHJkRHVqTDRERlpsMV9fUzNZSXl2UW5GeTI1NWItTXN5LXFRdE1ReUZkWW9MaF91am5nUGJhakkwR2J4OU9EMUVBVDNndVR2bUU1Q3lCMTBXWHI2VncwWXJXMHpnSlUwOWtHRGRPN2JPRnVCRy14c2pZRGo0LWRMVW1DNC1idHprdw?oc=5",
+       "source": "Craving Tech",
+       "published": "2026-11-18T02:02:49+00:00",
+       "summary": "",
+       "tags": [
+        "Cloud & AI"
+       ],
+       "countries": [
+        "AU"
+       ]
+      },
+      {
+       "title": "Quad Summit 2026: India, US, Australia, Japan announce new initiatives on AI, maritime security",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa1JmLXJKZ2hybmFUaVZxMU5XNURqd0lpZU1wOU00VXFTTHIzdXB6Um5scXU3ZmdLMUNLVnZGZ1pSSWx2OGs4bS1PeVVkWDBVRnM5Uk5GT1lOSHRPdGpFcTBScFRZNmZsazBSVHhCcjVlN2hXTVBpMk0yWXVSaTh5TDFBYktnbWtZOTdiNnA2ZDI0Z3FGT29fU0JtbFczNkpDamZaXzQ5SGpJUWVEWEd3NHFWVm4wZ0E?oc=5",
+       "source": "Asia News Network",
+       "published": "2026-11-18T00:44:08+00:00",
+       "summary": "",
+       "tags": [
+        "Cloud & AI"
+       ],
+       "countries": [
+        "AU",
+        "IN",
+        "JP"
+       ]
+      },
+      {
+       "title": "Australia mulls tougher tech laws after AI health breach",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObm9vMDk4anZQS0xSaENMYkxzU1BoTkRNdlFMS1E3V3B3SzlUN1RYQjQxajVTc01qejBUYWJxUVNKN1phczdULWJDd1QtZzBHV1h3ajlQYnpUTFNOeWpnVnc2alJiR2RpMktUUzNxdDVpMi1UWk5MVmJmS2RMR1hWaVBYSENEYWNJVmRRaTNtT3B3R1lTb0U2eTk4b203OGlyRHU2Rm1BLWdxLVU2bE5GZF9UbEFnb2lTbVY4eGpDTUhCWnN2d3h2aVVFejc2eEpTUjhENA?oc=5",
+       "source": "The Nightly",
+       "published": "2026-11-18T00:27:55+00:00",
+       "summary": "",
+       "tags": [
+        "Cloud & AI"
+       ],
+       "countries": [
+        "AU"
+       ]
+      },
+      {
+       "title": "CommBank launches CodeCheck to help Australian businesses find software vulnerabilities",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1Q2dUVlc1JZc1E5U3BiOVdkTVMzQzhWYmVadXBDODQ3NE9vbUItMkxzZWp0ZDR3WENZNmhKZWtyZUF0aXNadjdta19EbjlSTUE2b2REQ3lfZnAxZzFVZ1lJRjAxZUcxa1BubmhYTFdLSHVGWWpvSURJZkI0b3VhM3FqbjJlRld1ZF9QemlaWDkySmtoY0J1ZmVYTQ?oc=5",
+       "source": "CommBank",
+       "published": "2026-11-17T21:29:56+00:00",
+       "summary": "",
+       "tags": [
+        "Cloud & AI"
+       ],
+       "countries": [
+        "AU"
+       ]
+      },
+      {
+       "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHhRTWZ0WnNxM2ZvV3VLZThMdVlPejFTOVJMYVhJMm1ibWh3X0I1QnRGdWNtdWtrX1BCSG5sTXFEVDhuaEVtWldDdE9FdHdVeldaX3EyRHNsU3RqN2VQc19mQlgwY1E2SjR3Z0tZamloWkZKM0dWdGJuSGdjdHNxYzU5bXRJMWV5bTlyMGtfSF91cEQ1bkhyNDNPNE5RV2N0cV92MFp3NGF1a0k?oc=5",
+       "source": "BleepingComputer",
+       "published": "2026-11-17T20:51:21+00:00",
+       "summary": "",
+       "tags": [
+        "Cloud & AI"
+       ],
+       "countries": [
+        "JP"
+       ]
+      },
+      {
+       "title": "Quad explained: India’s new drills, AI and cyber tie-ups with US, Japan, Australia",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX1d2Sjdqa3p1aHc0M2RyZy1ERHNFc1Z3T08wcnFhRlgzVmFia2NkbXdBNGQ5Skt0aUpPcjFUZjJlMHZxOEhZRzV6Tl9RTGd4R3RCUjZQOTR5U0NOazl4TE5rUXRzTVNpMmMwcnlQQW1aN0xWakx6d2xGckhjQXJ3a2R3ZWpzbkxoRzdlREU3X1dnel9hVGI3djVFV3RfOTVuWFZZblV4S21qRmM3UGdNTlpJT1pCYzdvMTU3bm9qUTRxYko1VHdTU1RB0gHQAUFVX3lxTE5XUTZGX1hXamlqMFdlTm41Zy03cWFDWE00c3RaVVdSX195ZGdsQ0xrRTFXTjdublV1bG1mVFBLTmRpMGxMT1RUaXJnT2lzUVNoWU5iVk1kUGJEX0dSQ05DVmhBSXpETVNQM0JfLU1PYXpoWXVadFZTWGptaHBCQkZZX203RlE5QjFSdmpHOTlmX1htUmNrakZSd21wNVJaenlyb2lXNDVHbHlNNEJzZV9jUWlXZ0JlREVadGp5TF83ZU5CMFY4LUYweVZfU2E0dkU?oc=5",
+       "source": "The Financial Express",
+       "published": "2026-11-17T16:12:55+00:00",
+       "summary": "",
+       "tags": [
+        "Cloud & AI"
+       ],
+       "countries": [
+        "AU",
+        "IN",
+        "JP"
+       ]
+      },
       {
        "title": "Japan PM wants Asia oil security task force created",
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0xMN0hDNVJFSXgyQV9XaFdacFZZNnRyZDIxRkI1QXNBeDIxak1HTkltMEJLUDNCLWtpNy1ESU1Wdzh5dHlJX2tGU0dtd1dUWGxVWDZ2RkZZUzBvd1Vsam9HOFJYZ3lxSWtzWGljS21oVFRFeHRhZ0dsZDVxRmktcjZ1eWw5TS1mRVpaa3JWZDhVOXBqeHB6bFVTNUJ3anhKZzFFSmpSUVfSAa8BQVVfeXFMUFBCQ01qVDh5SWhaZjU5RWJ5bU9YRy0wb2syMHhCX2lCUjBwdDhkTFN1NjBhN1JDcWhFcUJ2Q1d4OVFGclozTmhoa00yYXlydTl0bzBXWk5RSEtCd3E1MWR2MFRHQTRwOXFDQjFjeURHSnczQVNtMU42OXJxdlFXaG1YOFZBUnEzQzZUVnZBYlZNY0xuTzFNNjhibVh4bUdFRm1vT3Bvc1YwbHBZTDhwZw?oc=5",
@@ -2178,90 +2295,10 @@
        ]
       },
       {
-       "title": "Quad Summit 2026: India, US, Australia, Japan announce new initiatives on AI, maritime security",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ2VkN1BCSWZUXzFfVUlSaF9ZS0F5MmZXa1d2eDFubHdCS1VnRmVxT0FSNzVhaVhxY3VhRE1vZXFmUFBNbU1KbEhmTUFKRkNfOGhOMmdNbUMwdDZXM19VUDExaDlIYnd1U2lHWTRxcFRKV21OQ0dFOF9xVFMwd0xWN25aZFdDRDB1dkZrSXBONGVkdGx3eEQxZm5kWGg2al92Y1pkNGZyaDNLTG9ZTHhXS3ZiNNIBuAFBVV95cUxOLXppa3dnSmYwMzZXVWRZeXZxVUlyY21IcGQ3UHR6QkFSc1RyVzB1U3IzMHo0dmNfdWdyNnhudHBFWEdZR1pmSmRxMDNNbl9JNWF5czdRZ1ZmanRGcG9WUVVpc1ZFdjhEMzN3VFlzWHFXRUlST25JYnlOVEV2dWNRZVNUaURPY0lhOVNnMDVXWEUyRUJ1OWlHd29Sb2k5WHdyZl9BTWlTWmpSbm5HX2wxY0FEaS1XOTdM?oc=5",
-       "source": "The Statesman",
-       "published": "2026-11-17T14:01:00+00:00",
-       "summary": "",
-       "tags": [
-        "Cloud & AI"
-       ],
-       "countries": [
-        "AU",
-        "IN",
-        "JP"
-       ]
-      },
-      {
        "title": "Hitachi Systems India Opens Bengaluru Centre to Strengthen AI-Powered Cybersecurity",
        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzQ5dTgwbkNObjgzdExFaG9EWW9RRl9RckM1WW1tTlJ1VUQ0SmZtSnFiX3NnNlozb3BwRFQtbmZGbEpRMHVxQ3FvV00yQUZNeE9xSkVCQzF1dUJlLUZLcHVRVS1tX2dxTXpGNGQwZEVzQ3VyWUx0WGdzN2M5SXBKbFZPV0U0SnZIN2dEdmVwMlkwX09UbENGSU8yd0dxcUZBZlZrQVc4bEVMalR2QzA0b3VzWmxnMnVKc3Nr?oc=5",
        "source": "City Today News",
        "published": "2026-11-17T13:47:45+00:00",
-       "summary": "",
-       "tags": [
-        "Cloud & AI"
-       ],
-       "countries": [
-        "IN"
-       ]
-      },
-      {
-       "title": "ASEAN, Japan agree to boost energy security, supply chains",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSmhpeUNJYjJfcFUxQVQ0VnBCYUFuOURrQnF1YTFUQkNKZ0dLbHZxX3E4SUlrOVkwY281RDNtcDJHZHVLTlV4RjdCQzhOdGUtTW5wbWVxOFpMUXAxN3ZDVVg5VVVaWC1tTE5NQlhOY0NmWnM3c3BNczdrRWhpYjRmS3pTVnJGMHpt?oc=5",
-       "source": "Politiko.com.ph",
-       "published": "2026-11-17T11:50:45+00:00",
-       "summary": "",
-       "tags": [
-        "Cloud & AI"
-       ],
-       "countries": [
-        "JP"
-       ]
-      },
-      {
-       "title": "India and US focus on AI, trade issues and Indo-Pacific security at Quad Summit - India Today",
-       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlRaVGhsRHZPYzJQVWljVThaS0lqeEdyX3FUQnQtS2JrQkZ5NDk4bzVnY3RMOFh1MVNqR0xlR2syQ01zN3hKWjB1Z0lJdEo0ZDNWX3RFWm5rekxQZW80SERwS3VvWnFWSjBRdVdKcTRqdFRnbHpUN21UWjNhWGVjc1lXSFR2VXBOOFZDbzZRSi1hQzgwU2I2eGZKTDlQX01KTmRrS2hzTUhjaWhGWmhTNDYyUzdJMjlGQkg4WU1XUGluYmdsanZiNU1iWUfSAcwBQVVfeXFMT3ZUWlRobER2T2MyUFVpY1U4WktJanhHcl9xVEJ0LUtia0JGeTQ5OG81Z2N0TDhYdTFTakdMZUdrMkNNczd4SlowdWdJSXRKNGQzVl90RVpua3pMUGVvNEhEcEt1b1pxVkowUXVXSnE0anRUZ2x6VDdtVFozYVhlY3NZV0hUdlVwTjhWQ282UUotYUM4MFNiNnhmSkw5UF9NSk5ka0toc01IY2loRlpoUzQ2MlM3STI5RkJIOFlNV1BpbmJnbGp2YjVNYllH?oc=5",
-       "source": "India Today",
-       "published": "2026-11-17T11:38:07+00:00",
-       "summary": "",
-       "tags": [
-        "Cloud & AI"
-       ],
-       "countries": [
-        "IN"
-       ]
-      },
-      {
-       "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
-       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaDZVMW9Hb0JJT0I4OXduZVRvLWhHSDUtZ0FNZjd6YVREMGFlNjAtMWl6ZjRnbHUwb2Zzc3pFNWRNUWMycWprLWV2NFdqY1R1UHd1X3FBbWdyNVllazVwZzVhamhWRTdLU3FvNkItZERmd3BROWpmN29LSTF0cXZfMVgtQXFGNldyNGRmMlFPd1k2ZW5tQl9zU2tEekRSdTY0RUV3UEFNaUpPanpXZ0FsYzV4SWhvVUVDSWNWcl8wY1FuUTJObDRqNW1aYnRJVkdGclRlVkZpNmFyMEJvT19rNDdQUzI5VjR4bnl4TmhBX0xmZw?oc=5",
-       "source": "ANI News",
-       "published": "2026-11-17T11:28:00+00:00",
-       "summary": "",
-       "tags": [
-        "Cloud & AI"
-       ],
-       "countries": [
-        "IN"
-       ]
-      },
-      {
-       "title": "Hitachi Systems India & CrowdStrike Launch AI Security Centre",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjNkZmNhSHRnZW5xUjdweU1mYXVRVHBkc1VFTGNQS0llb2hPZG11N3pvcG9GYm5oRW9wRWI2LXFwMWhqT0UtbFhOTGFrUmsxTnZ4TkFzd3FBMDM1cXBieHAtM3ZKTzF2M1pjZ2ZHZkJRcXd4LWlxUmw4QUhsRHZqNmQ0V2Q4aVp2UHVSTS15VzlaN2RMY3RILWVXeVlTZGJsZ1h1ZGpteUxuQkhRNjFteA?oc=5",
-       "source": "Rediff MoneyWiz",
-       "published": "2026-11-17T11:07:53+00:00",
-       "summary": "",
-       "tags": [
-        "Cloud & AI"
-       ],
-       "countries": [
-        "IN"
-       ]
-      },
-      {
-       "title": "Hitachi Systems India Unveils Advanced Global Delivery Centre For AI Security",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjNzeG02VkFQbkI1ZVBtNUZiZVE4RkUxVDlKeGVHcF8ycy1IM1pHRFlaa0RXbWREZ2tFMUV0XzZkVE5GUGVrU3hnZzdRNkFJdkxrdGJ3U3ZaQlV4Nm9WQUg1SmdZRWgyS2tjckwtODM5Sm43TkIyem4tTzl1dnhjbUhvUlVmOGdwamFKNnlJRk9LaHdodWpwOFIxVUw3c3gzQkdFb3haWWRIRTNONGU2T0RCQzdzQdIBuAFBVV95cUxPTXlZQ05PdzdkanBLWnR6QzJpTG5zZGZZeWpEZi0yZ0dMZTlVdWZUZi1EZGdVT21SRVlMbjNVMmhtV3hxUnIyMnFPR3dRZFVvYXNZckRiUlY1UnBqT0dVNWhZRkN4Z1hiQ0Jhd0hTOVU5a1dvY0NTX1o0VHotcFo0dVR5c0xNaDZramFOZkhRU3ZfOFozcG4wMEEtODdTWC00SjF0MGp3MGtZTnc0dlRtR1N1SVkwSHk0?oc=5",
-       "source": "Rediff",
-       "published": "2026-11-17T11:03:17+00:00",
        "summary": "",
        "tags": [
         "Cloud & AI"
@@ -2297,19 +2334,6 @@
        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVliaFlVVkZYeGRzbEczVFNTU3NDeWpFMTRlTGVMMlltb1YwUkhCcUVLWkRkRjZPQkZidEdjNllGSTRXYWpaTko2MDROelVzUEpWVXFWVUswTG9LWF9iUDVpV2VPd3JLYkRjZkEwb181UFh1ZnpTelhacVR1TWFGRW5RYnVhNWlDbFBZLXNmYVU0VmdZSVN2bXR3bzJoV1RReWZZa3ZkdzNuMGJWYVRFZU9SbDZScEhO?oc=5",
        "source": "Sydney Times",
        "published": "2026-11-13T18:56:09+00:00",
-       "summary": "",
-       "tags": [
-        "Telstra"
-       ],
-       "countries": [
-        "AU"
-       ]
-      },
-      {
-       "title": "Digital Reliance: Does Telstra (ASX:TLS) Gain Appeal as Yields Climb and Outages Hit?",
-       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc0NkdUYtVklNdlF1M0trM1hMbTdkWHN2ankxR1hfVmxXbGlIS25HV0NjR05pUVhFbjRGelFVOEZVQTF3U2VRbndXbUdROG1FbXJUU2RCYjdIdkpmb2gxNTJyWTJkZHFYUFBHMmRDOVA5bVo0ZUpwc2lnWVU5UUtkU2o3SEpPQUtnU0ZDcFRiRmFmWUF5RGZvQnFNTDIxR2Y3VzlJM293OG4wZGxkblcyRHdrVHp0aEhJcFhFNGFsWWVhQWxndGtfWA?oc=5",
-       "source": "Kalkine Media",
-       "published": "2026-11-13T11:38:00+00:00",
        "summary": "",
        "tags": [
         "Telstra"
@@ -2434,7 +2458,7 @@
     {
      "name": "Telstra",
      "country": "AU",
-     "hits": 3
+     "hits": 2
     },
     {
      "name": "Optus",
